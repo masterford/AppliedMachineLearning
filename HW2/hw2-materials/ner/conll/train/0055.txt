@@ -1,0 +1,32 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+DUTCH I
+FIRST O
+DIVISION O
+RESULT O
+. O
+
+AMSTERDAM I
+1996-08-22 O
+
+Result O
+of O
+a O
+Dutch I
+first O
+
+division O
+match O
+on O
+Thursday O
+: O
+
+NEC I
+Nijmegen I
+1 O
+PSV I
+Eindhoven I
+4 O
+

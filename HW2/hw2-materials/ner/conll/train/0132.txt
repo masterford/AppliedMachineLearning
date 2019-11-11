@@ -1,0 +1,37 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+ENGLISH I
+FIRST O
+DIVISION O
+RESULTS O
+. O
+
+LONDON I
+1996-08-23 O
+
+Results O
+of O
+English I
+first O
+division O
+
+soccer O
+matches O
+on O
+Friday O
+: O
+
+Portsmouth I
+1 O
+Queens I
+Park I
+Rangers I
+2 O
+
+Tranmere I
+3 O
+Grimsby I
+2 O
+

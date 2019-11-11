@@ -1,0 +1,279 @@
+-DOCSTART- O
+
+MOTOR O
+RACING O
+- O
+SCHUMACHER I
+WINS O
+BELGIAN I
+GRAND I
+PRIX I
+. O
+
+SPA-FRANCOCHAMPS I
+1996-08-25 O
+
+Michael I
+Schumacher I
+of O
+
+Germany I
+, O
+driving O
+a O
+Ferrari I
+, O
+won O
+the O
+Belgian I
+Grand I
+Prix I
+motor O
+
+race O
+on O
+Sunday O
+. O
+
+Canada I
+'s O
+Jacques I
+Villeneuve I
+finished O
+second O
+in O
+his O
+Williams I
+
+and O
+Mika I
+Hakkinen I
+of O
+Finland I
+was O
+third O
+in O
+a O
+McLaren I
+. O
+
+Frenchman I
+Jean I
+Alesi I
+came O
+fourth O
+in O
+his O
+Benetton I
+with O
+
+Britain I
+'s O
+Damon I
+Hill I
+fifth O
+in O
+a O
+Williams I
+and O
+Gerhard I
+Berger I
+of O
+
+Austria I
+sixth O
+in O
+the O
+other O
+Benetton I
+. O
+
+World O
+drivers O
+' O
+championship O
+standings O
+( O
+after O
+13 O
+rounds O
+) O
+: O
+
+1. O
+Damon I
+Hill I
+( O
+Britain I
+) O
+81 O
+points O
+
+2. O
+Jacques I
+Villeneuve I
+( O
+Canada I
+) O
+68 O
+
+3. O
+Michael I
+Schumacher I
+( O
+Germany I
+) O
+39 O
+
+4. O
+Jean I
+Alesi I
+( O
+France I
+) O
+38 O
+
+5. O
+Mika I
+Hakkinen I
+( O
+Finland I
+) O
+23 O
+
+6. O
+David I
+Coulthard I
+( O
+Britain I
+) O
+18 O
+
+7. O
+Gerhard I
+Berger I
+( O
+Austria I
+) O
+17 O
+
+8. O
+Olivier I
+Panis I
+( O
+France I
+) O
+13 O
+
+9. O
+Rubens I
+Barrichello I
+( O
+Brazil I
+) O
+12 O
+
+10. O
+Eddie I
+Irvine I
+( O
+Britain I
+) O
+9 O
+
+11. O
+Heinz-Harald I
+Frentzen I
+( O
+Germany I
+) O
+6 O
+
+12. O
+Mika I
+Salo I
+( O
+Finland I
+) O
+5 O
+
+13. O
+Johnny I
+Herbert I
+( O
+Britain I
+) O
+4 O
+
+14. O
+Martin I
+Brundle I
+( O
+Britain I
+) O
+3 O
+
+15 O
+equal O
+. O
+
+Jos I
+Verstappen I
+( O
+Netherlands I
+) O
+1 O
+
+15 O
+equal O
+. O
+
+Pedro I
+Diniz I
+( O
+Brazil I
+) O
+1 O
+
+Constructors O
+' O
+championship O
+: O
+
+1. O
+Williams I
+149 O
+points O
+
+2. O
+Benetton I
+55 O
+
+3. O
+Ferrari I
+48 O
+
+4. O
+McLaren I
+41 O
+
+5. O
+Jordan I
+15 O
+
+6. O
+Ligier I
+14 O
+
+7. O
+Sauber I
+10 O
+
+8. O
+Tyrrell I
+5 O
+
+9. O
+Footwork O
+1 O
+

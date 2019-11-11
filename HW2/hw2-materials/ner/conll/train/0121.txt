@@ -1,0 +1,107 @@
+-DOCSTART- O
+
+Ka I
+Wah I
+Bank I
+sets O
+HK$ I
+43 O
+mln O
+FRCD O
+. O
+
+HONG I
+KONG I
+1996-08-22 O
+
+Ka I
+Wah I
+Bank I
+'s O
+HK$ I
+43 O
+million O
+floating O
+rate O
+certificate O
+of O
+deposit O
+issue O
+has O
+been O
+privately O
+placed O
+, O
+sole O
+arranger O
+HSBC I
+Markets I
+said O
+. O
+
+The O
+facility O
+has O
+a O
+tenor O
+of O
+six O
+months O
+. O
+
+It O
+pays O
+a O
+coupon O
+of O
+15 O
+basis O
+points O
+over O
+the O
+six-month O
+Hong I
+Kong I
+Interbank I
+Offered O
+Rate O
+. O
+
+Other O
+details O
+are O
+not O
+available O
+. O
+
+The O
+deposit O
+date O
+is O
+September O
+5 O
+, O
+1996 O
+. O
+
+Clearing O
+is O
+through O
+the O
+Hong I
+Kong I
+Central I
+Moneymarkets I
+Unit I
+. O
+
+-- O
+Hong I
+Kong I
+Newsroom I
+( O
+852 O
+) O
+2847 O
+4039 O
+

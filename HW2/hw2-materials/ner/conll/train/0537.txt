@@ -1,0 +1,32 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+FRENCH I
+FIRST O
+DIVISION O
+RESULT O
+. O
+
+PARIS I
+1996-08-27 O
+
+Result O
+of O
+a O
+French I
+first O
+division O
+
+soccer O
+match O
+played O
+on O
+Tuesday O
+: O
+
+Auxerre I
+0 O
+Marseille I
+0 O
+

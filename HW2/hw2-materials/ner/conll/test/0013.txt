@@ -1,0 +1,94 @@
+-DOCSTART- O
+
+BASEBALL O
+- O
+MAJOR I
+LEAGUE I
+RESULTS O
+THURSDAY O
+. O
+
+NEW I
+YORK I
+1996-08-30 O
+
+Results O
+of O
+Major I
+League I
+
+Baseball O
+games O
+played O
+on O
+Thursday O
+( O
+home O
+team O
+in O
+CAPS O
+) O
+: O
+
+American I
+League I
+
+DETROIT I
+4 O
+Kansas I
+City I
+1 O
+
+Minnesota I
+6 O
+MILWAUKEE I
+1 O
+
+CALIFORNIA I
+14 O
+New I
+York I
+3 O
+
+SEATTLE I
+9 O
+Baltimore I
+6 O
+
+National I
+League I
+
+San I
+Diego I
+3 O
+NEW I
+YORK I
+2 O
+
+Chicago I
+4 O
+HOUSTON I
+3 O
+
+Cincinnati I
+18 O
+COLORADO I
+7 O
+
+Atlanta I
+5 O
+PITTSBURGH I
+1 O
+
+Los I
+Angeles I
+2 O
+MONTREAL I
+1 O
+
+Florida I
+10 O
+ST I
+LOUIS I
+9 O
+

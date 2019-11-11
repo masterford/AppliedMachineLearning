@@ -1,0 +1,43 @@
+-DOCSTART- O
+
+RTRS I
+- O
+Toyota I
+Australia I
+workers O
+to O
+return O
+to O
+work O
+. O
+
+MELBOURNE I
+1996-08-23 O
+
+Over O
+2,000 O
+striking O
+workers O
+voted O
+on O
+Friday O
+to O
+return O
+to O
+work O
+on O
+Monday O
+at O
+Toyota I
+Australia I
+'s O
+Melbourne I
+assembly O
+line O
+, O
+ending O
+a O
+two-week O
+stoppage O
+. O
+

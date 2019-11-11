@@ -1,0 +1,82 @@
+-DOCSTART- O
+
+OPTIONS O
+-- O
+EOE I
+options O
+volumes O
+- O
+close O
+. O
+
+AMSTERDAM I
+1996-08-28 O
+
+1605 O
+GMT I
+
+CALLS O
+PUTS O
+PCT O
+OF O
+TOTAL O
+
+TOTAL O
+VOLUME O
+-- O
+83,008 O
+60,131 O
+22,877 O
+-- O
+
+FEATURES O
+- O
+AEX I
+INDEX O
+7,391 O
+5,658 O
+15.72 O
+
+- O
+AHOLD I
+7,190 O
+1,123 O
+10.01 O
+
+- O
+BOLSWESSANEN I
+4,420 O
+705 O
+6.17 O
+
+- O
+ABN I
+AMRO I
+3,003 O
+1,940 O
+5.95 O
+
+- O
+ING I
+3,853 O
+673 O
+5.45 O
+
+- O
+VNU I
+3,060 O
+843 O
+4.70 O
+
+-- O
+Amsterdam I
+newsdesk O
++31 O
+20 O
+504 O
+5000 O
+( O
+Fax O
+020-504-5040 O
+) O
+

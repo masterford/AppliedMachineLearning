@@ -1,0 +1,818 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+EUROPEAN I
+CUP I
+WINNERS I
+' I
+CUP I
+RESULTS O
+. O
+
+TIRANA I
+1996-08-22 O
+
+Results O
+of O
+European I
+Cup I
+Winners I
+' I
+
+Cup I
+qualifying O
+round O
+, O
+second O
+leg O
+soccer O
+matches O
+on O
+Thursday O
+: O
+
+In O
+Tirana I
+: O
+Flamurtari I
+Vlore I
+( O
+Albania I
+) O
+0 O
+Chemlon I
+Humenne I
+
+( O
+Slovakia I
+) O
+2 O
+( O
+halftime O
+0-0 O
+) O
+
+Scorers O
+: O
+Lubarskij I
+( O
+50th O
+minute O
+) O
+, O
+Valkucak I
+( O
+54th O
+) O
+
+Attendance O
+: O
+5,000 O
+
+Chemlon I
+Humenne I
+win O
+3-0 O
+on O
+aggregate O
+
+In O
+Bistrita I
+: O
+Gloria I
+Bistrita I
+( O
+Romania I
+) O
+2 O
+Valletta I
+( O
+Malta I
+) O
+1 O
+
+( O
+1-1 O
+) O
+
+Scorers O
+: O
+
+Gloria I
+Bistrita I
+- O
+Ilie I
+Lazar I
+( O
+32nd O
+) O
+, O
+Eugen I
+Voica I
+( O
+84th O
+) O
+
+Valletta I
+- O
+Gilbert I
+Agius I
+( O
+24th O
+) O
+
+Attendance O
+: O
+8,000 O
+
+Gloria I
+Bistrita I
+win O
+4-2 O
+on O
+aggregate O
+. O
+
+In O
+Chorzow I
+: O
+Ruch I
+Chorzow I
+( O
+Poland I
+) O
+5 O
+Llansantffraid I
+( O
+Wales I
+) O
+0 O
+
+( O
+1-0 O
+) O
+
+Scorers O
+: O
+Arkadiusz I
+Bak I
+( O
+1st O
+and O
+55th O
+) O
+, O
+Arwel I
+Jones I
+( O
+47th O
+, O
+
+own O
+goal O
+) O
+, O
+Miroslav I
+Bak I
+( O
+62nd O
+and O
+63rd O
+) O
+
+Attendance O
+: O
+6,500 O
+
+Ruch I
+Chorzow I
+win O
+6-1 O
+on O
+aggregate O
+
+In O
+Larnaca I
+: O
+AEK I
+Larnaca I
+( O
+Cyprus I
+) O
+5 O
+Kotaik I
+Abovyan I
+( O
+Armenia I
+) O
+
+0 O
+( O
+2-0 O
+) O
+
+Scorers O
+: O
+Zoran I
+Kundic I
+( O
+28th O
+) O
+, O
+Klimis I
+Alexandrou I
+( O
+41st O
+) O
+, O
+
+Milenko I
+Kovasevic I
+( O
+60th O
+, O
+penalty O
+) O
+, O
+Goran I
+Koprinovic I
+( O
+82nd O
+) O
+, O
+
+Pavlos I
+Markou I
+( O
+84th O
+) O
+
+Attendance O
+: O
+5,000 O
+
+AEK I
+Larnaca I
+win O
+5-1 O
+on O
+aggregate O
+
+In O
+Siauliai I
+: O
+Kareda I
+Siauliai I
+( O
+Lithuania I
+) O
+0 O
+Sion I
+
+( O
+Switzerland I
+) O
+0 O
+
+Attendance O
+: O
+5,000 O
+
+Sion I
+win O
+4-2 O
+on O
+agrregate O
+. O
+
+In O
+Vinnytsya I
+: O
+
+Nyva I
+Vinnytsya I
+( O
+Ukraine I
+) O
+1 O
+Tallinna I
+Sadam I
+( O
+Estonia I
+) O
+0 O
+( O
+0-0 O
+) O
+
+Attendance O
+: O
+3,000 O
+
+Aggregate O
+score O
+2-2 O
+. O
+
+Nyva I
+qualified O
+on O
+away O
+goals O
+rule O
+. O
+
+In O
+Bergen I
+: O
+Brann I
+( O
+Norway I
+) O
+2 O
+Shelbourne I
+( O
+Ireland I
+) O
+1 O
+( O
+1-1 O
+) O
+
+Scorers O
+: O
+
+Brann I
+- O
+Mons I
+Ivar I
+Mjelde I
+( O
+10th O
+) O
+, O
+Jan I
+Ove I
+Pedersen I
+( O
+72nd O
+) O
+
+Shelbourne I
+- O
+Mark I
+Rutherford I
+( O
+5th O
+) O
+
+Attendance O
+: O
+2,189 O
+
+Brann I
+win O
+5-2 O
+on O
+aggregate O
+
+In O
+Sofia I
+: O
+Levski I
+Sofia I
+( O
+Bulgaria I
+) O
+1 O
+Olimpija I
+( O
+Slovenia I
+) O
+0 O
+
+( O
+0-0 O
+) O
+
+Scorer O
+: O
+Ilian I
+Simeonov I
+( O
+58th O
+) O
+
+Attendance O
+: O
+25,000 O
+
+Aggregate O
+1-1 O
+. O
+
+Olimpija I
+won O
+4-3 O
+on O
+penalties O
+. O
+
+In O
+Vaduz I
+: O
+Vaduz I
+( O
+Liechtenstein I
+) O
+1 O
+RAF I
+Riga I
+( O
+Latvia I
+) O
+1 O
+( O
+0-0 O
+) O
+
+Scorers O
+: O
+
+Vaduz I
+- O
+Daniele I
+Polverino I
+( O
+90th O
+) O
+
+RAF I
+Riga I
+- O
+Agrins I
+Zarins I
+( O
+47th O
+) O
+
+Aggregate O
+2-2 O
+. O
+
+Vaduz I
+won O
+4-2 O
+on O
+penalties O
+. O
+
+In O
+Luxembourg I
+: O
+US I
+Luxembourg I
+( O
+Luxembourg I
+) O
+0 O
+Varteks I
+Varazdin I
+
+( O
+Croatia I
+) O
+3 O
+( O
+0-0 O
+) O
+
+Scorers O
+: O
+Drazen I
+Beser I
+( O
+63rd O
+) O
+, O
+Miljenko I
+Mumler I
+( O
+penalty O
+, O
+
+78th O
+) O
+, O
+Jamir I
+Cvetko I
+( O
+87th O
+) O
+
+Attendance O
+: O
+800 O
+
+Varteks I
+Varazdin I
+win O
+5-1 O
+on O
+aggregate O
+. O
+
+In O
+Torshavn I
+: O
+Havnar I
+Boltfelag I
+( O
+Faroe I
+Islands I
+) O
+0 O
+Dynamo I
+
+Batumi I
+( O
+Georgia I
+) O
+3 O
+( O
+0-2 O
+) O
+
+Dynamo I
+Batumi I
+win O
+9-0 O
+on O
+aggregate O
+. O
+
+In O
+Prague I
+: O
+Sparta I
+Prague I
+( O
+Czech I
+Republic I
+) O
+8 O
+Glentoran I
+
+( O
+Northern I
+Ireland I
+) O
+0 O
+( O
+4-0 O
+) O
+
+Scorers O
+: O
+Petr I
+Gunda I
+( O
+1st O
+and O
+26th O
+) O
+, O
+Lumir I
+Mistr I
+( O
+19th O
+) O
+, O
+
+Horst I
+Siegl I
+( O
+24th O
+, O
+48th O
+, O
+80th O
+) O
+, O
+Zdenek I
+Svoboda I
+( O
+76th O
+) O
+, O
+Petr I
+
+Gabriel I
+( O
+86th O
+) O
+
+Sparta I
+win O
+10-1 O
+on O
+aggregate O
+. O
+
+In O
+Edinburgh I
+: O
+Hearts I
+( O
+Scotland I
+) O
+1 O
+Red I
+Star I
+Belgrade I
+
+( O
+Yugoslavia I
+) O
+1 O
+( O
+1-0 O
+) O
+
+Scorers O
+: O
+
+Hearts I
+- O
+Dave I
+McPherson I
+( O
+44th O
+) O
+
+Red I
+Star I
+- O
+Vinko I
+Marinovic I
+( O
+59th O
+) O
+
+Attendance O
+: O
+15,062 O
+
+Aggregate O
+1-1 O
+. O
+
+Red I
+Star I
+win O
+on O
+away O
+goals O
+rule O
+. O
+
+In O
+Rishon-Lezion I
+: O
+Hapoel I
+Ironi I
+( O
+Israel I
+) O
+3 O
+Constructorul I
+
+Chisinau I
+( O
+Moldova I
+) O
+2 O
+( O
+2-1 O
+) O
+
+Aggregate O
+3-3 O
+. O
+
+Constructorul I
+win O
+on O
+away O
+goals O
+rule O
+. O
+
+In O
+Anjalonkoski I
+: O
+MyPa-47 I
+( O
+Finland I
+) O
+1 O
+Karabach I
+Agdam I
+
+( O
+Azerbaijan I
+) O
+1 O
+( O
+0-0 O
+) O
+
+Mypa-47 I
+win O
+2-1 O
+on O
+aggregate O
+. O
+
+In O
+Skopje I
+: O
+Sloga I
+Jugomagnat I
+( O
+Macedonia I
+) O
+0 O
+Kispest I
+Honved I
+
+( O
+Hungary I
+1 O
+( O
+0-0 O
+) O
+
+Kispest I
+Honved I
+win O
+2-0 O
+on O
+aggregate O
+. O
+
+Add I
+Hapoel I
+Ironi I
+v O
+Constructorul I
+Chisinau I
+
+Scorers O
+: O
+
+Rishon I
+- O
+Moshe I
+Sabag I
+( O
+10th O
+minute O
+) O
+, O
+Nissan I
+Kapeta I
+( O
+26th O
+) O
+, O
+
+Tomas I
+Cibola I
+( O
+58th O
+) O
+. O
+
+Constructorol I
+- O
+Sergei I
+Rogachev I
+( O
+42nd O
+) O
+, O
+Gennadi I
+Skidan I
+
+( O
+87th O
+) O
+. O
+
+Attendance O
+: O
+1,500 O
+. O
+

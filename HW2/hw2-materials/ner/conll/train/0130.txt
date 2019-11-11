@@ -1,0 +1,146 @@
+-DOCSTART- O
+
+MOTOR O
+RACING O
+- O
+BELGIAN I
+GRAND I
+PRIX I
+PRACTICE O
+TIMES O
+. O
+
+SPA-FRANCORCHAMPS I
+, O
+Belgium I
+1996-08-23 O
+
+Leading O
+times O
+
+after O
+Friday O
+'s O
+opening O
+practice O
+sessions O
+for O
+Sunday O
+'s O
+
+Belgian I
+Grand I
+Prix I
+motor O
+race O
+: O
+
+1. O
+Gerhard I
+Berger I
+( O
+Austria I
+) O
+Benetton I
+1 O
+minute O
+53.706 O
+seconds O
+
+2. O
+David I
+Coulthard I
+( O
+Britain I
+) O
+McLaren I
+1:54.342 O
+
+3. O
+Jacques I
+Villeneuve I
+( O
+Canada I
+) O
+Williams I
+1:54.443 O
+
+4. O
+Mika I
+Hakkinen I
+( O
+Finland I
+) O
+McLaren I
+1:54.754 O
+
+5. O
+Heinz-Harald I
+Frentzen I
+( O
+Germany I
+) O
+1:54.984 O
+
+6. O
+Jean I
+Alesi I
+( O
+France I
+) O
+Benetton I
+1:55.101 O
+
+7. O
+Damon I
+Hill I
+( O
+Britain I
+) O
+Williams I
+1:55.281 O
+
+8. O
+Michael I
+Schumacher I
+( O
+Germany I
+) O
+1:55.333 O
+
+9. O
+Martin I
+Brundle I
+( O
+Britain I
+) O
+Jordan I
+1:55.385 O
+
+10. O
+Rubens I
+Barrichello I
+( O
+Brazil I
+) O
+Jordan I
+1:55.645 O
+
+11. O
+Johnny I
+Herbert I
+( O
+Britain I
+) O
+Sauber I
+1:56.318 O
+
+12. O
+Olivier I
+Panis I
+( O
+France I
+) O
+Ligier I
+1:56.417 O
+

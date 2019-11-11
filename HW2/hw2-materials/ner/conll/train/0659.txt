@@ -1,0 +1,94 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+ISRAELI I
+FIRST O
+DIVISION O
+RESULTS O
+. O
+
+JERUSALEM I
+1996-08-28 O
+
+Results O
+of O
+first O
+division O
+
+soccer O
+matches O
+played O
+over O
+the O
+weekend O
+and O
+Tuesday O
+: O
+
+Hapoel I
+Kfar I
+Sava I
+0 O
+Hapoel I
+Zafririm I
+Holon I
+1 O
+
+Hapoel I
+Tel I
+Aviv I
+1 O
+Maccabi I
+Haifa I
+3 O
+
+Hapoel I
+Jerusalem I
+0 O
+Hapoel I
+Petah I
+Tikva I
+3 O
+
+Hapoel I
+Ironi I
+Rishon I
+Lezion O
+3 O
+Hapoel I
+Taibe I
+1 O
+
+Hapoel I
+Beit I
+She'an I
+0 O
+Hapoel I
+Beit I
+She'an I
+1 O
+
+Maccabi I
+Petah I
+Tikva I
+0 O
+Betar I
+Jerusalem I
+3 O
+
+Hapoel I
+Haifa I
+3 O
+Maccabi O
+Tel I
+Aviv I
+1 O
+
+Hapoel I
+Beersheva I
+2 O
+Maccabi I
+Herzliya I
+0 O
+

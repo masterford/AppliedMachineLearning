@@ -1,0 +1,189 @@
+-DOCSTART- O
+
+CYCLING O
+- O
+SWISS I
+GRAND I
+PRIX I
+RESULT O
+. O
+
+ZURICH I
+1996-08-25 O
+
+Leading O
+results O
+in O
+the O
+232-km O
+
+Swiss I
+Grand I
+Prix I
+World I
+Cup I
+cycling O
+race O
+on O
+Sunday O
+: O
+
+1. O
+Andrea I
+Ferrigato I
+( O
+Italy I
+) O
+5 O
+hours O
+51 O
+minutes O
+52 O
+seconds O
+
+2. O
+Michele I
+Bartoli I
+( O
+Italy I
+) O
+
+3. O
+Johan I
+Museeuw I
+( O
+Belgium I
+) O
+
+4. O
+Lance I
+Armstrong I
+( O
+U.S. I
+) O
+
+5. O
+Francesco I
+Casagrande I
+( O
+Italy I
+) O
+
+6. O
+Alessandro I
+Baronti I
+( O
+Italy I
+) O
+
+7. O
+Frank I
+Vandenbroucke I
+( O
+Belgium I
+) O
+all O
+same O
+time O
+
+8. O
+Fabio I
+Baldato I
+( O
+Italy I
+) O
+11 O
+seconds O
+behind O
+
+9. O
+Maurizio I
+Fondriest I
+( O
+Italy I
+) O
+
+10. O
+Laurent I
+Jalabert I
+( O
+France I
+) O
+both O
+same O
+time O
+
+Leading O
+World I
+Cup I
+standings O
+( O
+after O
+8 O
+of O
+11 O
+rounds O
+) O
+: O
+
+1. O
+Museeuw I
+162 O
+points O
+
+2. O
+Ferrigato I
+112 O
+
+3. O
+Bartoli I
+108 O
+
+4. O
+Stefano I
+Zanini I
+( O
+Italy I
+) O
+88 O
+
+5. O
+Armstrong I
+81 O
+
+6. O
+Baldato I
+77 O
+
+7. O
+Alexandre I
+Gontchenkov I
+( O
+Ukraine I
+) O
+67 O
+
+8. O
+Gabriele I
+Colombo I
+( O
+Italy I
+) O
+58 O
+
+9. O
+Andrei I
+Tchmil I
+( O
+Ukraine I
+) O
+56 O
+
+10. O
+Max I
+Sciandri I
+( O
+Britain I
+) O
+55 O
+

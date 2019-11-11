@@ -1,0 +1,121 @@
+-DOCSTART- O
+
+U.S. I
+corn O
+gluten O
+meal O
+steady-higher O
+, O
+feed O
+flat O
+. O
+
+CHICAGO I
+1996-08-29 O
+
+U.S. I
+corn O
+gluten O
+feed O
+prices O
+were O
+flat O
+while O
+meal O
+values O
+were O
+steady O
+to O
+firmer O
+on O
+Thursday O
+. O
+
+Dealers O
+noted O
+a O
+seasonal O
+pickup O
+in O
+meal O
+demand O
+. O
+
+-- O
+
+CHICAGO I
+AREA I
+MILLS I
+( O
+dollars O
+per O
+short O
+ton O
+) O
+
+Gluten O
+feed O
+21 O
+pct O
+bulk O
+Spot O
+- O
+117.00 O
+unc O
+
+Gluten O
+feed O
+pellets O
+Spot O
+- O
+unq O
+
+Gluten O
+meal O
+60 O
+pct O
+bulk O
+rail O
+Spot O
+- O
+320.00 O
+up O
+5 O
+
+DECATUR I
+, O
+IL I
+/ O
+CLINTON I
+AND I
+CEDAR I
+RAPIDS I
+, O
+IA I
+
+Gluten O
+feed O
+18 O
+pct O
+pellets O
+Spot O
+- O
+117.00 O
+unc O
+
+Gluten O
+meal O
+60 O
+pct O
+bulk O
+Spot O
+- O
+310.00 O
+unc O
+
+( O
+Chicago I
+newsdesk O
+312-408-8720 O
+) O
+

@@ -1,0 +1,197 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+ENGLISH I
+LEAGUE O
+RESULTS O
+. O
+
+LONDON I
+1996-08-27 O
+
+Results O
+of O
+English I
+league O
+soccer O
+
+matches O
+on O
+Tuesday O
+: O
+
+Division O
+one O
+
+Crystal I
+Palace I
+0 O
+West I
+Bromwich I
+0 O
+
+Ipswich I
+1 O
+Grimsby I
+1 O
+
+Oxford I
+0 O
+Norwich I
+1 O
+
+Portsmouth I
+1 O
+Southend I
+0 O
+
+Tranmere I
+2 O
+Port I
+Vale I
+0 O
+
+Postponed O
+: O
+Charlton I
+v O
+Birmingham I
+, O
+Sheffield I
+United I
+v O
+
+Huddersfield I
+
+Division O
+two O
+
+Brentford I
+2 O
+Gillingham I
+0 O
+
+Bristol I
+City I
+5 O
+Luton I
+0 O
+
+Burnley I
+1 O
+Shrewsbury I
+3 O
+
+Chesterfield I
+1 O
+Walsall I
+0 O
+
+Preston I
+2 O
+Crewe I
+1 O
+
+Rotherham I
+1 O
+Blackpool I
+2 O
+
+Stockport I
+0 O
+Bournemouth I
+1 O
+
+Watford I
+0 O
+Plymouth I
+2 O
+
+Wycombe I
+0 O
+Bury I
+1 O
+
+York I
+3 O
+Millwall I
+2 O
+
+Postponed O
+: O
+Peterborough I
+v O
+Notts I
+County I
+, O
+Wrexham I
+v O
+Bristol I
+
+Rovers I
+
+Division O
+three O
+
+Barnet I
+3 O
+Brighton I
+0 O
+
+Cardiff I
+0 O
+Wigan I
+2 O
+
+Carlisle I
+1 O
+Leyton I
+Orient I
+0 O
+
+Chester I
+2 O
+Swansea I
+0 O
+
+Darlington I
+1 O
+Colchester I
+1 O
+
+Exeter I
+1 O
+Doncaster I
+1 O
+
+Hartlepool I
+2 O
+Mansfield I
+2 O
+
+Hereford I
+0 O
+Hull I
+1 O
+
+Lincoln I
+1 O
+Cambridge I
+1 O
+
+Northampton I
+1 O
+Torquay I
+1 O
+
+Rochdale I
+1 O
+Fulham I
+2 O
+
+Scunthorpe I
+0 O
+Scarborough I
+2 O
+

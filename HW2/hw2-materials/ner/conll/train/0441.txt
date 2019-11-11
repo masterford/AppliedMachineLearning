@@ -1,0 +1,80 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+BARCELONA I
+BEAT O
+ATLETICO I
+5-2 O
+IN O
+SUPERCUP I
+. O
+
+BARCELONA I
+1996-08-26 O
+
+Barcelona I
+beat O
+Atletico I
+Madrid I
+5-2 O
+( O
+halftime O
+2-1 O
+) O
+in O
+the O
+Spanish I
+Supercup I
+on O
+Sunday O
+: O
+
+Scorers O
+: O
+
+Barcelona I
+- O
+Ronaldo I
+( O
+5th O
+and O
+89th O
+minutes O
+) O
+, O
+Giovanni I
+( O
+31st O
+) O
+, O
+Pizzi I
+( O
+73rd O
+) O
+, O
+De I
+la I
+Pena I
+( O
+75th O
+) O
+
+Atletico I
+Madrid I
+- O
+Esnaider I
+( O
+37th O
+) O
+, O
+Pantic I
+( O
+57th O
+, O
+penalty O
+) O
+
+Attendance O
+30,000 O
+

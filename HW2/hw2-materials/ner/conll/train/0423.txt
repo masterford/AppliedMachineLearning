@@ -1,0 +1,280 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+CZECH I
+FIRST O
+DIVISION O
+RESULTS O
+/ O
+STANDINGS O
+. O
+
+PRAGUE I
+1996-08-26 O
+
+Results O
+of O
+the O
+Czech I
+Republic I
+'s O
+
+first O
+division O
+soccer O
+matches O
+at O
+the O
+weekend O
+: O
+
+Petra I
+Drnovice I
+1 O
+Slovan I
+Liberec I
+3 O
+
+SK I
+Slavia I
+Praha I
+3 O
+SK I
+Ceske I
+Budejovice I
+0 O
+
+FK I
+Jablonec I
+3 O
+Viktoria I
+Zizkov I
+1 O
+
+Banik I
+Ostrava I
+3 O
+FK I
+Teplice I
+1 O
+
+Boby I
+Brno I
+1 O
+Sigma I
+Olomouc I
+0 O
+
+FC I
+Bohemians I
+0 O
+FC I
+Karvina I
+2 O
+
+SK I
+Hradec I
+Kralove I
+0 O
+Kaucuk I
+Opava I
+0 O
+
+Playing O
+Monday O
+: O
+Viktoria I
+Plzen I
+v O
+AC I
+Sparta I
+Praha I
+
+Standings O
+( O
+tabulate O
+under O
+games O
+played O
+, O
+won O
+, O
+drawn O
+, O
+lost O
+, O
+
+goals O
+for O
+, O
+against O
+, O
+points O
+) O
+: O
+
+Boby I
+Brno I
+3 O
+3 O
+0 O
+0 O
+5 O
+2 O
+9 O
+
+Banik I
+Ostrava I
+3 O
+2 O
+0 O
+1 O
+7 O
+3 O
+6 O
+
+FK I
+Jablonec I
+3 O
+2 O
+0 O
+1 O
+5 O
+2 O
+6 O
+
+SK I
+Slavia I
+Praha I
+3 O
+1 O
+2 O
+0 O
+6 O
+3 O
+5 O
+
+Kaucuk I
+Opava I
+3 O
+1 O
+2 O
+0 O
+2 O
+1 O
+5 O
+
+Sigma I
+Olomouc I
+3 O
+1 O
+1 O
+1 O
+6 O
+3 O
+4 O
+
+Petra I
+Drnovice I
+3 O
+1 O
+1 O
+1 O
+7 O
+5 O
+4 O
+
+Slovan I
+Liberec I
+3 O
+1 O
+1 O
+1 O
+5 O
+4 O
+4 O
+
+FK I
+Teplice I
+3 O
+1 O
+1 O
+1 O
+3 O
+4 O
+4 O
+
+FC I
+Karvina I
+3 O
+1 O
+1 O
+1 O
+3 O
+5 O
+4 O
+
+SK I
+Ceske I
+Budejovice I
+3 O
+1 O
+1 O
+1 O
+3 O
+5 O
+4 O
+
+Viktoria I
+Plzen I
+2 O
+0 O
+2 O
+0 O
+2 O
+2 O
+2 O
+
+AC I
+Sparta I
+Praha I
+2 O
+0 O
+1 O
+1 O
+3 O
+4 O
+1 O
+
+FC I
+Bohemians I
+3 O
+0 O
+1 O
+2 O
+1 O
+4 O
+1 O
+
+Viktoria I
+Zizkov I
+3 O
+0 O
+1 O
+2 O
+3 O
+8 O
+1 O
+
+SK I
+Hradec I
+Kralove I
+3 O
+0 O
+1 O
+2 O
+1 O
+7 O
+1 O
+

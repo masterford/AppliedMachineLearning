@@ -1,0 +1,142 @@
+-DOCSTART- O
+
+Swiss I
+Bank I
+Corp I
+sets O
+warrants O
+on O
+DTB-Bund-Future I
+. O
+
+LONDON I
+1996-08-27 O
+
+Swiss I
+Bank I
+Corp I
+says O
+it O
+has O
+issued O
+60 O
+million O
+American-style I
+call O
+and O
+put O
+warrants O
+, O
+in O
+six O
+equal O
+tranches O
+, O
+on O
+the O
+DTB-Bund-Future I
+March O
+1997 O
+. O
+
+EXERCISE O
+PERIOD O
+02.SEP.96-06.MAR.97 O
+PAYDATE O
+30.AUG.96 O
+
+LISTING O
+FFT O
+DDF O
+MIN O
+EXER O
+LOT O
+100 O
+
+SPOT O
+REFERENCE O
+95.35 O
+PCT O
+
+WARRANTS O
+STRIKE O
+ISS O
+PRICE O
+PREMIUM O
+GEARING O
+
+CALL O
+A O
+96.00 O
+PCT O
+1.16 O
+DEM I
+1.90 O
+PCT O
+82.20 O
+X O
+
+CALL O
+B O
+97.00 O
+PCT O
+0.75 O
+DEM I
+2.50 O
+PCT O
+127.10 O
+X O
+
+CALL O
+C O
+98.00 O
+PCT O
+0.47 O
+DEM I
+3.30 O
+PCT O
+202.90 O
+X O
+
+PUT O
+D O
+94.00 O
+PCT O
+0.94 O
+DEM I
+2.40 O
+PCT O
+101.40 O
+X O
+
+PUT O
+E O
+95.0 O
+PCT O
+1.33 O
+DEM I
+1.80 O
+PCT O
+71.70 O
+X O
+
+PUT O
+F O
+96.0 O
+PCT O
+1.84 O
+DEM I
+1.20 O
+PCT O
+51.80 O
+X O
+
+-- O
+Reuter I
+London I
+Newsroom I
++44 O
+171 O
+542 O
+7658 O
+

@@ -1,0 +1,61 @@
+-DOCSTART- O
+
+TENNIS O
+- O
+RESULTS O
+AT O
+TOSHIBA I
+CLASSIC I
+. O
+
+CARLSBAD I
+, O
+California I
+1996-08-25 O
+
+Results O
+from O
+the O
+
+$ O
+450,000 O
+Toshiba I
+Classic I
+tennis O
+tournament O
+on O
+Sunday O
+( O
+prefix O
+
+number O
+denotes O
+seeding O
+) O
+: O
+
+Finals O
+: O
+
+4 O
+- O
+Kimiko I
+Date I
+( O
+Japan I
+) O
+beat O
+1 O
+- O
+Arantxa I
+Sanchez I
+Vicario I
+( O
+Spain I
+) O
+
+3-6 O
+6-3 O
+6-0 O
+. O
+

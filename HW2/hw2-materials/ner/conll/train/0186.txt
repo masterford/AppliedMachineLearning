@@ -1,0 +1,51 @@
+-DOCSTART- O
+
+WEATHER O
+- O
+Conditions O
+at O
+CIS I
+airports O
+- O
+August O
+23 O
+. O
+
+MOSCOW I
+1996-08-23 O
+
+No O
+closures O
+of O
+airports O
+in O
+the O
+Commonwealth I
+of I
+Independent I
+States I
+are O
+expected O
+on O
+August O
+24 O
+and O
+August O
+25 O
+, O
+the O
+Russian I
+Weather I
+Service I
+said O
+on O
+Friday O
+. O
+
+-- O
+Moscow I
+Newsroom I
++7095 O
+941 O
+8520 O
+

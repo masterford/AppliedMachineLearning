@@ -1,0 +1,75 @@
+-DOCSTART- O
+
+Clinton I
+wins O
+Democratic I
+re-nomination O
+. O
+
+CHICAGO I
+1996-08-28 O
+
+President O
+Bill I
+Clinton I
+was O
+formally O
+nominated O
+on O
+Wednesday O
+as O
+the O
+Democratic I
+party O
+candidate O
+for O
+a O
+second O
+four-year O
+term O
+in O
+the O
+White I
+House I
+. O
+
+Clinton I
+won O
+the O
+nomination O
+in O
+a O
+traditional O
+state-by-state O
+roll O
+call O
+of O
+votes O
+at O
+the O
+party O
+convention O
+and O
+will O
+accept O
+in O
+a O
+speech O
+on O
+Thursday O
+. O
+
+He O
+faces O
+Republican I
+challenger O
+Bob I
+Dole I
+in O
+the O
+November O
+5 O
+presidential O
+election O
+. O
+

@@ -1,0 +1,155 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+RESULTS O
+OF O
+SOUTH I
+KOREAN I
+PRO-SOCCER O
+GAMES O
+. O
+
+SEOUL I
+1996-08-30 O
+
+Results O
+of O
+South I
+Korean I
+pro-soccer O
+
+games O
+played O
+on O
+Thursday O
+. O
+
+Pohang I
+3 O
+Ulsan I
+2 O
+( O
+halftime O
+1-0 O
+) O
+
+Puchon I
+2 O
+Chonbuk I
+1 O
+( O
+halftime O
+1-1 O
+) O
+
+Standings O
+after O
+games O
+played O
+on O
+Thursday O
+( O
+tabulate O
+under O
+- O
+
+won O
+, O
+drawn O
+, O
+lost O
+, O
+goals O
+for O
+, O
+goals O
+against O
+, O
+points O
+) O
+: O
+
+W O
+D O
+L O
+G O
+/ O
+F O
+G O
+/ O
+A O
+P O
+
+Puchon I
+3 O
+1 O
+0 O
+6 O
+1 O
+10 O
+
+Chonan I
+3 O
+0 O
+1 O
+13 O
+10 O
+9 O
+
+Pohang I
+2 O
+1 O
+1 O
+11 O
+10 O
+7 O
+
+Suwan I
+1 O
+3 O
+0 O
+7 O
+3 O
+6 O
+
+Ulsan I
+1 O
+0 O
+2 O
+8 O
+9 O
+3 O
+
+Anyang I
+0 O
+3 O
+1 O
+6 O
+9 O
+3 O
+
+Chonnam I
+0 O
+2 O
+1 O
+4 O
+5 O
+2 O
+
+Pusan I
+0 O
+2 O
+1 O
+3 O
+7 O
+2 O
+
+Chonbuk I
+0 O
+0 O
+3 O
+3 O
+7 O
+0 O
+

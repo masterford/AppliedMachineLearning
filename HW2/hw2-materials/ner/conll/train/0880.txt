@@ -1,0 +1,78 @@
+-DOCSTART- O
+
+Vicorp I
+Restaurants I
+names O
+Sabourin I
+CFO O
+. O
+
+DENVER I
+1996-08-29 O
+
+Vicorp I
+Restaurants I
+Inc I
+said O
+it O
+has O
+named O
+Richard I
+Sabourin I
+as O
+executive O
+vice O
+president O
+and O
+chief O
+financial O
+officer O
+. O
+
+The O
+company O
+said O
+Sabourin I
+is O
+the O
+former O
+president O
+and O
+chief O
+executive O
+at O
+Bestop I
+Inc I
+of O
+Boulder I
+, O
+Colo I
+. I
+
+It O
+said O
+Craig I
+Held I
+has O
+also O
+joined O
+the O
+company O
+as O
+executive O
+vice O
+president O
+and O
+chief O
+marketing O
+officer O
+. O
+
+-- O
+New I
+York I
+Newsdesk I
+212 O
+859 O
+1610 O
+

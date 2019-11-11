@@ -1,0 +1,71 @@
+-DOCSTART- O
+
+Manila I
+international O
+coconut O
+oil O
+prices O
+. O
+
+MANILA I
+1996-08-26 O
+
+International I
+Philippine I
+coconut O
+oil O
+prices O
+as O
+reported O
+by O
+the O
+United I
+Coconut I
+Associations I
+of I
+the I
+Philippines I
+( O
+dollars O
+per O
+tonne O
+cif O
+Europe I
+) O
+. O
+
+Buyers O
+Sellers O
+Last O
+Prev O
+
+JulAug O
+775 O
+787.50 O
+unq O
+unq O
+
+AugSep O
+752.50 O
+758.75 O
+unq O
+unq O
+
+SepOct O
+733.75 O
+743.50 O
+unq O
+unq O
+
+OctNov O
+unq O
+740 O
+unq O
+unq O
+
+NovDec O
+unq O
+732.50 O
+unq O
+unq O
+

@@ -1,0 +1,83 @@
+-DOCSTART- O
+
+Airport I
+Facilities I
+- O
+6mth O
+parent O
+forecast O
+. O
+
+TOKYO I
+1996-08-29 O
+
+Six O
+months O
+to O
+September O
+30 O
+, O
+1996 O
+
+( O
+in O
+billions O
+of O
+yen O
+unless O
+specified O
+) O
+
+LATEST O
+PREVIOUS O
+ACTUAL O
+
+( O
+Parent O
+) O
+FORECAST O
+FORECAST O
+YEAR-AGO O
+
+Sales O
+11.38 O
+11.38 O
+11.45 O
+
+Current O
+1.09 O
+1.09 O
+918 O
+million O
+
+Net O
+934 O
+million O
+490 O
+million O
+538 O
+million O
+
+NOTE O
+- O
+Airport I
+Facilities I
+Co I
+Ltd I
+manages O
+and O
+rents O
+facilities O
+at O
+Haneda I
+( O
+Tokyo I
+) O
+and O
+Itami I
+( O
+Osaka I
+) O
+airports O
+. O
+

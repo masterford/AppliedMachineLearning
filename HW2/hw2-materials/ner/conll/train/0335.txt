@@ -1,0 +1,72 @@
+-DOCSTART- O
+
+TENNIS O
+- O
+RESULTS O
+AT O
+CANADIAN I
+OPEN I
+. O
+
+TORONTO I
+1996-08-24 O
+
+Results O
+from O
+the O
+Canadian I
+Open I
+
+tennis O
+tournament O
+on O
+Saturday O
+( O
+prefix O
+numbers O
+denotes O
+
+seedings O
+) O
+: O
+
+Semifinals O
+
+3 O
+- O
+Wayne I
+Ferreira I
+( O
+South I
+Africa I
+) O
+beat O
+7 O
+- O
+Todd I
+Martin I
+( O
+U.S. I
+) O
+
+4-6 O
+6-3 O
+7-5 O
+
+Todd I
+Woodbridge I
+( O
+Australia I
+) O
+beat O
+4 O
+- O
+Marcelo I
+Rios I
+( O
+Chile I
+) O
+6-0 O
+
+6-3 O
+

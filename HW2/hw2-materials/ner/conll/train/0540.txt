@@ -1,0 +1,53 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+DUTCH I
+FIRST O
+DIVISION O
+SUMMARY O
+. O
+
+AMSTERDAM I
+1996-08-27 O
+
+Dutch I
+first O
+division O
+summary O
+on O
+
+Tuesday O
+: O
+
+Fortuna I
+Sittard I
+2 O
+( O
+Jeffrey I
+7 O
+, O
+Roest I
+33 O
+) O
+Heerenveen I
+4 O
+( O
+Korneev I
+
+15 O
+, O
+Hansma I
+24 O
+, O
+Wouden I
+70 O
+, O
+90 O
+) O
+. O
+
+Halftime O
+2-2 O
+. O
+

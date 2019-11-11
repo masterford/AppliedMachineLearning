@@ -1,0 +1,36 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+FRENCH I
+LEAGUE O
+SUMMARY O
+. O
+
+PARIS I
+1996-08-23 O
+
+Summary O
+of O
+a O
+French I
+first O
+division O
+match O
+on O
+Friday O
+. O
+
+Nancy I
+0 O
+Paris I
+St I
+Germain I
+0 O
+. O
+
+Attendance O
+: O
+15,000 O
+. O
+

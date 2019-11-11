@@ -1,0 +1,42 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+PORTUGUESE I
+FIRST O
+DIVISION O
+RESULTS O
+. O
+
+LISBON I
+1996-08-25 O
+
+Results O
+of O
+Portuguese I
+first O
+
+division O
+soccer O
+matches O
+on O
+Sunday O
+: O
+
+FC I
+Porto I
+2 O
+Setubal I
+2 O
+
+Benfica I
+1 O
+Braga I
+1 O
+
+Guimaraes I
+4 O
+Gil I
+Vicente I
+2 O
+

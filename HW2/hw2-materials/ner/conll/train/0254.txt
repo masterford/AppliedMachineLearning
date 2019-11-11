@@ -1,0 +1,82 @@
+-DOCSTART- O
+
+CRICKET O
+- O
+PAKISTAN I
+318-2 O
+V O
+ENGLAND I
+-- O
+LUNCH O
+. O
+
+LONDON I
+1996-08-24 O
+
+Pakistan I
+were O
+318 O
+for O
+two O
+at O
+lunch O
+on O
+the O
+third O
+day O
+of O
+the O
+third O
+and O
+final O
+test O
+at O
+The I
+Oval I
+on O
+Saturday O
+in O
+reply O
+to O
+England I
+'s O
+326 O
+all O
+out O
+. O
+
+Score O
+: O
+England I
+326 O
+( O
+J. I
+Crawley I
+106 O
+, O
+G. I
+Thorpe I
+54 O
+. O
+
+Waqar I
+Younis I
+4-95 O
+) O
+. O
+
+Pakistan I
+318-2 O
+( O
+Saeed I
+Anwar I
+169 O
+not O
+out O
+, O
+Ijaz I
+Ahmed I
+61 O
+) O
+. O
+

@@ -1,0 +1,98 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+ITALIAN I
+CUP I
+SECOND O
+ROUND O
+RESULTS O
+. O
+
+ROME I
+1996-08-28 O
+
+Results O
+of O
+Italian I
+Cup I
+second O
+round O
+
+matches O
+played O
+on O
+Wednesday O
+: O
+
+Empoli I
+1 O
+Milan I
+1 O
+
+Spal I
+2 O
+Reggiana I
+4 O
+
+Lucchese I
+1 O
+Vicenza I
+2 O
+
+Cremonese I
+2 O
+Udinese I
+1 O
+
+Cesena I
+3 O
+Roma I
+1 O
+
+Bologna I
+2 O
+Torino I
+1 O
+
+Cosenza I
+1 O
+Fiorentina I
+3 O
+
+Avellino I
+0 O
+Lazio I
+1 O
+
+Bari I
+1 O
+Verona I
+1 O
+
+Pescara I
+3 O
+Parma I
+1 O
+
+Monza I
+0 O
+Napoli I
+1 O
+
+Chievo I
+2 O
+Cagliari I
+3 O
+
+Ravenna I
+0 O
+Inter I
+1 O
+
+Fidelis I
+Andria I
+0 O
+Juventus I
+2 O
+

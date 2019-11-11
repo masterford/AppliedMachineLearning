@@ -1,0 +1,132 @@
+-DOCSTART- O
+
+BASEBALL O
+- O
+MAJOR I
+LEAGUE I
+RESULTS O
+FRIDAY O
+. O
+
+NEW I
+YORK I
+1996-08-24 O
+
+Results O
+of O
+Major I
+League I
+
+Baseball O
+games O
+played O
+on O
+Friday O
+( O
+home O
+team O
+in O
+CAPS O
+) O
+: O
+
+American I
+League I
+
+BOSTON I
+6 O
+Seattle I
+4 O
+
+Milwaukee I
+6 O
+CLEVELAND I
+5 O
+( O
+11 O
+innings O
+) O
+
+California I
+2 O
+BALTIMORE I
+0 O
+
+NEW I
+YORK I
+5 O
+Oakland I
+3 O
+
+Toronto I
+4 O
+CHICAGO I
+2 O
+
+Detroit I
+3 O
+KANSAS I
+CITY I
+2 O
+
+MINNESOTA I
+9 O
+Texas I
+2 O
+
+National I
+League I
+
+Cincinnati I
+6 O
+FLORIDA I
+5 O
+( O
+1ST O
+GM O
+) O
+
+FLORIDA I
+8 O
+Cincinnati I
+3 O
+( O
+2ND O
+GM O
+) O
+
+ATLANTA I
+4 O
+Chicago I
+3 O
+
+St I
+Louis I
+1 O
+HOUSTON I
+0 O
+
+Pittsburgh I
+5 O
+COLORADO I
+3 O
+
+LOS I
+ANGELES I
+7 O
+New I
+York I
+5 O
+
+Philadelphia I
+7 O
+SAN I
+DIEGO I
+4 O
+
+Montreal I
+10 O
+SAN I
+FRANCISCO I
+8 O
+

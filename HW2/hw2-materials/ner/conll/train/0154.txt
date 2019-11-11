@@ -1,0 +1,37 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+GERMAN I
+FIRST O
+DIVISION O
+RESULTS O
+. O
+
+BONN I
+1996-08-23 O
+
+Results O
+of O
+German I
+first O
+division O
+
+soccer O
+matches O
+on O
+Friday O
+: O
+
+St I
+Pauli I
+4 O
+Schalke I
+4 O
+
+Hansa I
+Rostock I
+0 O
+Hamburg I
+1 O
+

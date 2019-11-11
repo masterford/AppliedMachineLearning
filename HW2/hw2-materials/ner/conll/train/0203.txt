@@ -1,0 +1,95 @@
+-DOCSTART- O
+
+Goldman I
+Sachs I
+sets O
+warrants O
+on O
+Continental I
+. O
+
+LONDON I
+1996-08-23 O
+
+Goldman I
+Sachs I
+& I
+Co I
+Wertpapier I
+GmbH I
+has O
+issued O
+a O
+total O
+of O
+five O
+million O
+American-style I
+call O
+warrants O
+, O
+on O
+Continental I
+AG I
+, O
+lead O
+manager O
+Goldman I
+Sachs I
+& I
+Co I
+said O
+. O
+
+One O
+warrant O
+controls O
+one O
+share O
+. O
+
+STRIKE O
+PRICE O
+25.00 O
+DEM I
+PREMIUM O
+10.12 O
+PCT O
+
+ISSUE O
+PRICE O
+2.42 O
+DEM I
+GEARING O
+10.29 O
+X O
+
+EXERCISE O
+PERIOD O
+02.SEP.96-21.NOV.97 O
+PAYDATE O
+30.AUG.96 O
+
+LISTING O
+DDF O
+FFT O
+STG O
+MIN O
+EXER O
+LOT O
+100 O
+
+SPOT O
+REFERENCE O
+24.90 O
+DEM I
+
+-- O
+Reuter I
+London I
+Newsroom I
++44 O
+171 O
+542 O
+7658 O
+

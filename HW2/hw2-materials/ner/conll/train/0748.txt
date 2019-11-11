@@ -1,0 +1,92 @@
+-DOCSTART- O
+
+Indian I
+cotton O
+trade O
+shut O
+for O
+local O
+festival O
+. O
+
+BOMBAY I
+1996-08-28 O
+
+India I
+'s O
+cotton O
+trade O
+was O
+shut O
+on O
+Wednesday O
+for O
+a O
+local O
+religious O
+festival O
+, O
+dealers O
+said O
+. O
+
+Trading O
+will O
+resume O
+on O
+Thursday O
+. O
+
+On O
+Tuesday O
+, O
+cotton O
+prices O
+fell O
+on O
+profit-taking O
+prompted O
+by O
+increased O
+offerings O
+from O
+state O
+agencies O
+. O
+
+" O
+Export O
+deals O
+remained O
+thin O
+and O
+hardly O
+a O
+few O
+thousand O
+bales O
+were O
+traded O
+at O
+the O
+rate O
+of O
+57.50 O
+/ O
+60 O
+cents O
+per O
+pound O
+, O
+" O
+one O
+broker O
+said O
+. O
+
+-- O
+Bombay I
+Commodities I
++91-22-265 O
+9000 O
+

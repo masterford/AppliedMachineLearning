@@ -1,0 +1,31 @@
+-DOCSTART- O
+
+PRESS O
+DIGEST O
+- O
+Washington I
+Post I
+business O
+- O
+Aug O
+26 O
+. O
+
+WASHINGTON I
+1996-08-26 O
+
+The I
+Washington I
+Post I
+carried O
+only O
+local O
+business O
+stories O
+on O
+August O
+26 O
+, O
+1996 O
+. O
+

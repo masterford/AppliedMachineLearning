@@ -1,0 +1,68 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+FIORENTINA I
+BEAT O
+MILAN I
+IN O
+ITALIAN I
+SUPERCUP I
+. O
+
+MILAN I
+1996-08-25 O
+
+Italian I
+Cup I
+winners O
+Fiorentina I
+beat O
+
+league O
+champions O
+Milan I
+2-1 O
+( O
+halftime O
+1-1 O
+) O
+in O
+the O
+pre-season O
+
+Supercoppa O
+( O
+SuperCup I
+) O
+in O
+Milan I
+on O
+Sunday O
+: O
+
+Scorers O
+: O
+
+Fiorentina I
+- O
+Gabriel I
+Batistuta I
+( O
+11th O
+, O
+83rd O
+) O
+
+Milan I
+- O
+Dejan I
+Savicevic I
+( O
+21st O
+) O
+
+Attendance O
+: O
+29,582 O
+

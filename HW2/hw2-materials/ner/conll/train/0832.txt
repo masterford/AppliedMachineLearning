@@ -1,0 +1,112 @@
+-DOCSTART- O
+
+London I
+LIFFE I
+futures O
+APT O
+closing O
+prices O
+. O
+
+LONDON I
+1996-08-29 O
+
+London I
+International I
+Financial I
+Futures I
+Exchange I
+automated O
+pit O
+trading O
+( O
+APT O
+) O
+tabular O
+details O
+: O
+
+CONTRACT O
+( O
+MONTH O
+) O
+APT O
+CLOSE O
+SETTLEMENT O
+PREVIOUS O
+SETTLE O
+
+LONG O
+GILT O
+( O
+SEP O
+) O
+( O
+1/32 O
+) O
+107-12 O
+107-10 O
+107-06 O
+
+SHORT O
+STERLING O
+( O
+SEP O
+) O
+94.26 O
+94.26 O
+94.26 O
+
+GERMAN I
+GOVT O
+BOND O
+( O
+SEP O
+) O
+97.42 O
+97.38 O
+97.34 O
+
+EUROMARK I
+( O
+SEP O
+) O
+96.84 O
+96.83 O
+96.83 O
+
+ITALIAN I
+GOVT O
+BOND O
+( O
+SEP O
+) O
+115.62 O
+115.58 O
+115.32 O
+
+EUROLIRA I
+( O
+SEP O
+) O
+91.37 O
+91.36 O
+91.33 O
+
+EUROSWISS I
+( O
+SEP O
+) O
+97.79 O
+97.80 O
+97.82 O
+
+FTSE I
+100 I
+( O
+SEP O
+) O
+3,894.00 O
+3,894.00 O
+3,941.50 O
+

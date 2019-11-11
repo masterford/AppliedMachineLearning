@@ -1,0 +1,159 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+AUSTRIA I
+FIRST O
+DIVISION O
+RESULTS O
+/ O
+STANDINGS O
+. O
+
+VIENNA I
+1996-08-26 O
+
+Result O
+of O
+an O
+Austrian I
+first O
+
+division O
+soccer O
+match O
+played O
+on O
+Sunday O
+: O
+
+SV I
+Ried I
+0 O
+SV I
+Salzburg I
+4 O
+
+Standings O
+( O
+tabulated O
+under O
+played O
+, O
+won O
+, O
+drawn O
+, O
+lost O
+, O
+goals O
+
+for O
+, O
+against O
+, O
+points O
+) O
+: O
+
+FC I
+Tirol I
+Innsbruck I
+6 O
+4 O
+2 O
+0 O
+13 O
+5 O
+14 O
+
+SV I
+Salzburg I
+6 O
+4 O
+2 O
+0 O
+8 O
+1 O
+14 O
+
+Austria I
+Vienna I
+6 O
+4 O
+2 O
+0 O
+9 O
+5 O
+14 O
+
+Sturm I
+Graz I
+6 O
+2 O
+3 O
+1 O
+8 O
+5 O
+9 O
+
+GAK I
+6 O
+1 O
+3 O
+2 O
+8 O
+10 O
+6 O
+
+Rapid I
+Wien I
+5 O
+0 O
+5 O
+0 O
+3 O
+3 O
+5 O
+
+SV I
+Ried I
+6 O
+1 O
+1 O
+4 O
+6 O
+9 O
+4 O
+
+Linzer I
+ASK I
+5 O
+0 O
+3 O
+2 O
+4 O
+8 O
+3 O
+
+Admira I
+/ I
+Wacker I
+6 O
+0 O
+3 O
+3 O
+5 O
+10 O
+3 O
+
+FC I
+Linz I
+6 O
+0 O
+2 O
+4 O
+1 O
+9 O
+2 O
+

@@ -1,0 +1,40 @@
+-DOCSTART- O
+
+BASKETBALL O
+- O
+INTERNATIONAL O
+TOURNAMENT O
+RESULT O
+. O
+
+BELGRADE I
+1996-08-30 O
+
+Result O
+in O
+an O
+international O
+
+basketball O
+tournament O
+on O
+Friday O
+: O
+
+Red I
+Star I
+( O
+Yugoslavia I
+) O
+beat O
+Dinamo I
+( O
+Russia I
+) O
+92-90 O
+( O
+halftime O
+
+47-47 O
+) O
+

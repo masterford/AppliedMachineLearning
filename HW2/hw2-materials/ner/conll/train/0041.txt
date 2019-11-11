@@ -1,0 +1,307 @@
+-DOCSTART- O
+
+TENNIS O
+- O
+RESULTS O
+AT O
+CANADIAN I
+OPEN I
+. O
+
+TORONTO I
+1996-08-21 O
+
+Results O
+from O
+the O
+Canadian I
+Open I
+
+tennis O
+tournament O
+on O
+Wednesday O
+( O
+prefix O
+number O
+denotes O
+
+seeding O
+) O
+: O
+
+Second O
+round O
+
+Daniel I
+Nestor I
+( O
+Canada I
+) O
+beat O
+1 O
+- O
+Thomas I
+Muster I
+( O
+Austria I
+) O
+6-3 O
+7-5 O
+
+Mikael I
+Tillstrom I
+( O
+Sweden I
+) O
+beat O
+2 O
+- O
+Goran I
+Ivanisevic I
+( O
+Croatia I
+) O
+
+6-7 O
+( O
+3-7 O
+) O
+6-4 O
+6-4 O
+
+3 O
+- O
+Wayne I
+Ferreira I
+( O
+South I
+Africa I
+) O
+beat O
+Jiri I
+Novak I
+( O
+Czech I
+
+Republic I
+) O
+7-5 O
+6-3 O
+
+4 O
+- O
+Marcelo I
+Rios I
+( O
+Chile I
+) O
+beat O
+Kenneth I
+Carlsen I
+( O
+Denmark I
+) O
+6-3 O
+6-2 O
+
+6 O
+- O
+MaliVai I
+Washington I
+( O
+U.S. I
+) O
+beat O
+Alex I
+Corretja I
+( O
+Spain I
+) O
+6-4 O
+
+6-2 O
+
+7 O
+- O
+Todd I
+Martin I
+( O
+U.S. I
+) O
+beat O
+Renzo I
+Furlan I
+( O
+Italy I
+) O
+7-6 O
+( O
+7-3 O
+) O
+6-3 O
+
+Mark I
+Philippoussis I
+( O
+Australia I
+) O
+beat O
+8 O
+- O
+Marc I
+Rosset I
+
+( O
+Switzerland I
+) O
+6-3 O
+3-6 O
+7-6 O
+( O
+8-6 O
+) O
+
+9 O
+- O
+Cedric I
+Pioline I
+( O
+France I
+) O
+beat O
+Gregory I
+Carraz I
+( O
+France I
+) O
+7-6 O
+
+( O
+7-1 O
+) O
+6-4 O
+
+Patrick I
+Rafter I
+( O
+Australia I
+) O
+beat O
+11 O
+- O
+Alberto I
+Berasategui I
+
+( O
+Spain I
+) O
+6-1 O
+6-2 O
+
+Petr I
+Korda I
+( O
+Czech I
+Republic I
+) O
+beat O
+12 O
+- O
+Francisco I
+Clavet I
+( O
+Spain I
+) O
+
+6-3 O
+6-4 O
+
+Daniel I
+Vacek I
+( O
+Czech I
+Republic I
+) O
+beat O
+13 O
+- O
+Jason I
+Stoltenberg I
+
+( O
+Australia I
+) O
+5-7 O
+7-6 O
+( O
+7-1 O
+) O
+7-6 O
+( O
+13-11 O
+) O
+
+Todd I
+Woodbridge I
+( O
+Australia I
+beat O
+Sebastien I
+Lareau I
+( O
+Canada I
+) O
+6-3 O
+
+1-6 O
+6-3 O
+
+Alex I
+O'Brien I
+( O
+U.S. I
+) O
+beat O
+Byron I
+Black I
+( O
+Zimbabwe I
+) O
+7-6 O
+( O
+7-2 O
+) O
+6-2 O
+
+Bohdan I
+Ulihrach I
+( O
+Czech I
+Republic I
+) O
+beat O
+Andrea I
+Gaudenzi I
+( O
+Italy I
+) O
+
+6-3 O
+4-6 O
+6-1 O
+
+Tim I
+Henman I
+( O
+Britain I
+) O
+beat O
+Chris I
+Woodruff I
+( O
+U.S. I
+) O
+, O
+walkover O
+

@@ -1,0 +1,306 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+ROMANIAN I
+FIRST O
+DIVISION O
+RESULTS O
+/ O
+STANDINGS O
+. O
+
+BUCHAREST I
+1996-08-25 O
+
+Results O
+of O
+first O
+division O
+
+soccer O
+matches O
+played O
+over O
+the O
+weekend O
+: O
+
+A.S. I
+Bacau I
+1 O
+Ceahlaul I
+Piatra I
+Neamt I
+1 O
+
+Otelul I
+Galati I
+1 O
+F.C. I
+Arges I
+Dacia I
+Pitesti I
+0 O
+
+F.C. I
+Farul I
+Constanta I
+3 O
+Chindia I
+Tirgoviste I
+1 O
+
+Sportul I
+Studentesc I
+4 O
+Universitatea I
+Craiova I
+2 O
+
+F.C. I
+Petrolul I
+Ploiesti I
+4 O
+Politehnica I
+Timisoara I
+5 O
+
+F.C. I
+Brasov I
+1 O
+F.C. I
+National I
+Bucharest I
+1 O
+
+Jiul I
+Petrosani I
+1 O
+Dinamo I
+Bucharest I
+0 O
+
+Gloria I
+Bistrita I
+0 O
+Universitatea I
+Cluj I
+1 O
+
+Rapid I
+Bucharest I
+0 O
+Steaua I
+Bucharest I
+2 O
+
+Standings O
+( O
+tabulate O
+under O
+played O
+, O
+won O
+, O
+drawn O
+, O
+lost O
+, O
+goals O
+
+for O
+, O
+against O
+, O
+points O
+) O
+: O
+
+Dinamo I
+Bucharest I
+4 O
+3 O
+0 O
+1 O
+6 O
+2 O
+9 O
+
+Jiul I
+Petrosani I
+4 O
+3 O
+0 O
+1 O
+6 O
+4 O
+9 O
+
+F.C. I
+Farul I
+Constanta I
+4 O
+2 O
+2 O
+0 O
+6 O
+2 O
+8 O
+
+Universitatea I
+Cluj I
+4 O
+2 O
+2 O
+0 O
+6 O
+4 O
+8 O
+
+A.S. I
+Bacau I
+4 O
+2 O
+1 O
+1 O
+7 O
+3 O
+7 O
+
+Politehnica I
+Timisoara I
+4 O
+2 O
+1 O
+1 O
+11 O
+9 O
+7 O
+
+F.C. I
+National I
+Bucharest I
+4 O
+2 O
+1 O
+1 O
+7 O
+6 O
+7 O
+
+Otelul I
+Galati I
+4 O
+2 O
+0 O
+2 O
+4 O
+3 O
+6 O
+
+F.C. I
+Chindia I
+Tirgoviste I
+4 O
+2 O
+0 O
+2 O
+3 O
+4 O
+6 O
+
+Steaua I
+Bucharest I
+4 O
+2 O
+0 O
+2 O
+5 O
+7 O
+6 O
+
+F.C. I
+Arges I
+Dacia I
+Pitesti I
+4 O
+1 O
+2 O
+1 O
+4 O
+2 O
+5 O
+
+Universitatea I
+Craiova I
+4 O
+1 O
+1 O
+2 O
+8 O
+6 O
+4 O
+
+Sportul I
+Studentesc I
+4 O
+1 O
+1 O
+2 O
+7 O
+9 O
+4 O
+
+Ceahlaul I
+Piatra I
+Neamt I
+4 O
+1 O
+1 O
+2 O
+2 O
+4 O
+4 O
+
+F.C. I
+Brasov I
+4 O
+1 O
+1 O
+2 O
+6 O
+10 O
+4 O
+
+Gloria I
+Bistrita I
+4 O
+1 O
+0 O
+3 O
+3 O
+9 O
+3 O
+
+F.C. I
+Petrolul I
+Ploiesti I
+4 O
+0 O
+2 O
+2 O
+5 O
+7 O
+2 O
+
+Rapid I
+Bucharest I
+4 O
+0 O
+1 O
+3 O
+4 O
+9 O
+1 O
+

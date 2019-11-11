@@ -1,0 +1,74 @@
+-DOCSTART- O
+
+Fontaine I
+- O
+6mth O
+parent O
+forecast O
+. O
+
+TOKYO I
+1996-08-26 O
+
+Six O
+months O
+to O
+August O
+31 O
+, O
+1996 O
+
+( O
+in O
+billions O
+of O
+yen O
+unless O
+specified O
+) O
+
+LATEST O
+PREVIOUS O
+ACTUAL O
+
+( O
+Parent O
+) O
+FORECAST O
+FORECAST O
+YEAR-AGO O
+
+Sales O
+3.30 O
+3.17 O
+2.75 O
+
+Current O
+400 O
+million O
+260 O
+million O
+231 O
+million O
+
+Net O
+170 O
+million O
+170 O
+million O
+142 O
+million O
+
+NOTE O
+- O
+Fontaine I
+Co I
+Ltd I
+sells O
+women O
+" O
+s O
+fashion O
+wigs O
+. O
+

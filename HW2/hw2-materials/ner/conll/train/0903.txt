@@ -1,0 +1,64 @@
+-DOCSTART- O
+
+Clinton I
+arrives O
+in O
+Chicago I
+on O
+day O
+of O
+re-nomination O
+. O
+
+CHICAGO I
+1996-08-28 O
+
+President O
+Bill I
+Clinton I
+arrived O
+in O
+Chicago I
+on O
+Wednesday O
+as O
+the O
+Democratic I
+convention O
+prepared O
+to O
+re-nominate O
+him O
+for O
+a O
+second O
+four-year O
+term O
+. O
+
+Clinton I
+flew O
+in O
+by O
+helicopter O
+from O
+Michigan I
+City I
+, O
+Indiana I
+, O
+after O
+ending O
+a O
+four-day O
+, O
+559-mile O
+trip O
+aboard O
+a O
+campaign O
+train O
+from O
+Washington I
+. O
+

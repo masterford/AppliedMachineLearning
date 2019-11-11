@@ -1,0 +1,246 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+UKRAINIAN I
+PREMIER O
+DIVISION O
+RESULTS O
+/ O
+STANDINGS O
+. O
+
+KIEV I
+1996-08-26 O
+
+Results O
+of O
+Ukraine I
+premier O
+division O
+
+matches O
+played O
+at O
+the O
+weekend O
+: O
+
+Dynamo I
+Kiev I
+5 O
+Kremin I
+Kremenchuk I
+0 O
+
+Vorskla I
+Poltava I
+2 O
+Nyva I
+Ternopil I
+1 O
+
+Torpedo I
+Zaporizhya I
+2 O
+Shakhtar I
+Donetsk I
+1 O
+
+Kryvbas I
+Kryvy I
+Rig I
+1 O
+Karpaty I
+Lviv I
+2 O
+
+Prykarpattya I
+Ivano-Frankivsk I
+0 O
+Zirka-Nibas I
+Kirovohrad I
+0 O
+
+Chornomorets I
+Odessa I
+2 O
+Metalurg I
+Zaporizhya I
+1 O
+
+Dnipro I
+Dnipropetrovsk I
+2 O
+CSKA I
+Kiev I
+1 O
+
+Standings O
+( O
+tabulated O
+under O
+played O
+, O
+won O
+, O
+drawn O
+, O
+lost O
+, O
+goals O
+
+for O
+, O
+against O
+, O
+points O
+) O
+: O
+
+Dynamo I
+6 O
+5 O
+0 O
+1 O
+16 O
+2 O
+15 O
+
+Vorskla I
+6 O
+4 O
+2 O
+0 O
+11 O
+3 O
+14 O
+
+Dnipro I
+6 O
+4 O
+1 O
+1 O
+13 O
+6 O
+13 O
+
+Chornomorets I
+6 O
+4 O
+1 O
+1 O
+11 O
+7 O
+13 O
+
+Shakhtar I
+6 O
+3 O
+2 O
+1 O
+10 O
+3 O
+11 O
+
+Metalurg I
+6 O
+3 O
+2 O
+1 O
+9 O
+6 O
+11 O
+
+Karpaty I
+6 O
+3 O
+1 O
+2 O
+9 O
+5 O
+10 O
+
+Zirka-Nibas I
+6 O
+3 O
+1 O
+2 O
+6 O
+8 O
+10 O
+
+Torpedo I
+6 O
+3 O
+1 O
+2 O
+8 O
+7 O
+10 O
+
+Tavria I
+5 O
+2 O
+0 O
+3 O
+3 O
+7 O
+6 O
+
+Nyva I
+Ternopil I
+6 O
+2 O
+0 O
+4 O
+4 O
+11 O
+6 O
+
+CSKA I
+6 O
+1 O
+1 O
+4 O
+4 O
+7 O
+4 O
+
+Kryvbas I
+6 O
+1 O
+1 O
+4 O
+5 O
+9 O
+4 O
+
+Nyva I
+Vinnytsya I
+5 O
+0 O
+2 O
+3 O
+1 O
+7 O
+2 O
+
+Prykarpattya I
+6 O
+0 O
+2 O
+4 O
+4 O
+13 O
+2 O
+
+Kremin I
+6 O
+0 O
+1 O
+5 O
+1 O
+14 O
+1 O
+

@@ -1,0 +1,343 @@
+-DOCSTART- O
+
+MOTOR O
+RACING O
+- O
+LEADING O
+PLACINGS O
+IN O
+POKKA I
+1,000 O
+KM O
+RACE O
+. O
+
+SUZUKA I
+, O
+Japan I
+1996-08-25 O
+
+Leading O
+placings O
+in O
+
+Sunday O
+'s O
+Pokka I
+1,000 O
+km O
+motor O
+race O
+, O
+seventh O
+round O
+of O
+the O
+
+International I
+Endurance I
+GT I
+championship I
+: O
+
+1. O
+Ray I
+Belim I
+( O
+Britain I
+) O
+/ O
+James I
+Weaver I
+( O
+Britain I
+) O
+/ O
+J.J.Lehto O
+
+( O
+Finland I
+) O
+Gulf I
+McLaren I
+FI I
+GTR I
+171 O
+laps O
+- O
+6 O
+hours O
+18 O
+minutes O
+
+48.637 O
+seconds O
+( O
+average O
+speed O
+158.82 O
+kph O
+) O
+
+2. O
+Anders I
+Olofsson I
+( O
+Sweden I
+) O
+/ O
+Luciano I
+della I
+Noce I
+( O
+Italy I
+) O
+Ennea I
+
+Ferrari I
+F40 I
+170 O
+laps O
+
+3. O
+Andy I
+Ballace I
+( O
+Britain I
+) O
+/ O
+Olivier I
+Grouillard I
+( O
+France I
+) O
+Harrods I
+
+McLaren I
+FI I
+GTR I
+169 O
+
+4. O
+Thomas I
+Bscher I
+( O
+Germany I
+) O
+/ O
+Peter I
+Kox I
+( O
+Netherlands I
+) O
+West I
+McLaren I
+
+F1 I
+GTR I
+168 O
+
+5. O
+Fabien I
+Giroix I
+( O
+France I
+) O
+/ O
+Jean-Denis I
+Deletraz I
+( O
+Switzerland I
+) O
+
+Muller I
+McLaren I
+F1 I
+GTR I
+167 O
+
+6. O
+Lindsay I
+Owen-Jones I
+( O
+Britain I
+) O
+/ O
+Pierre-Henri I
+Raphanel I
+
+( O
+France I
+) O
+/ O
+David I
+Brabham I
+( O
+Australia I
+) O
+Gulf I
+McLaren I
+F I
+! I
+
+GTR I
+
+167 O
+
+7. O
+Jean-Marc I
+Gounon I
+( O
+France I
+) O
+/ O
+Eric I
+Bernard I
+( O
+France I
+) O
+/ O
+Paul I
+
+Belmondo I
+( O
+France I
+) O
+Ennea I
+Ferrari I
+F40 I
+167 O
+
+8. O
+Bruno I
+Eichmann I
+( O
+Germany I
+) O
+/ O
+Gerd I
+Ruch I
+( O
+Germany I
+) O
+/ O
+Ralf I
+Kelleners I
+
+( O
+Germany I
+) O
+GT2 I
+Roock I
+Porsche I
+911 I
+164 O
+
+9. O
+Stephane I
+Ortelli I
+( O
+France I
+) O
+/ O
+Bob I
+Wollek I
+( O
+France I
+) O
+/ O
+Franz I
+Konrad I
+
+( O
+Austria I
+) O
+GT2 I
+Konrad I
+Porsche I
+911 I
+164 O
+
+10. O
+Cor I
+Euser I
+( O
+Netherlands I
+) O
+/ O
+H. I
+Wada I
+( O
+Japan I
+) O
+/ O
+N. I
+Furuya I
+( O
+Japan I
+) O
+GT2 I
+
+Marcos I
+LM600 I
+162 I
+
+Fastest O
+lap O
+: O
+Gounon I
+, O
+2 O
+minutes O
+03.684 O
+seconds O
+( O
+170.680 O
+kph O
+) O
+
+Championship O
+standings O
+after O
+seven O
+rounds O
+: O
+
+1. O
+Belim I
+, O
+Weaver I
+156 O
+points O
+
+2. O
+Eichmann I
+, O
+Ruch I
+116 O
+
+3. O
+Bscher I
+112 O
+
+4. O
+Gounon I
+, O
+Bernard I
+, O
+Belmondo I
+98 O
+
+5. O
+Olofsson I
+, O
+della I
+Noce I
+93 O
+
+6. O
+Owen-Jones I
+, O
+Raphanel I
+82 O
+

@@ -1,0 +1,90 @@
+-DOCSTART- O
+
+CRICKET O
+- O
+PAKISTAN I
+339-4 O
+V O
+ENGLAND I
+- O
+close O
+. O
+
+Saeed I
+Anwar I
+c O
+Croft I
+b O
+Cork I
+176 O
+
+Aamir I
+Sohail I
+c O
+Cork I
+b O
+Croft I
+46 O
+
+Ijaz I
+Ahmed I
+c O
+Stewart I
+b O
+Mullally I
+61 O
+
+Inzamam-ul-Haq I
+c O
+Hussain I
+b O
+Mullally I
+35 O
+
+Salim I
+Malik I
+not O
+out O
+2 O
+
+Asif I
+Mujtaba I
+not O
+out O
+1 O
+
+Extras O
+18 O
+
+Fall O
+of O
+wicket O
+- O
+1-106 O
+2-239 O
+3-334 O
+4-334 O
+
+To O
+bat O
+- O
+Wasim I
+Akram I
+, O
+Moin I
+Khan I
+, O
+Mushtaq I
+Ahmed I
+, O
+Waqar I
+Younis I
+, O
+Mohammad I
+Akam I
+
+England I
+326 O
+all O
+out O
+

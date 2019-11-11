@@ -1,0 +1,45 @@
+-DOCSTART- O
+
+CRICKET O
+- O
+ENGLAND I
+100-2 O
+AT O
+LUNCH O
+ON O
+FIRST O
+DAY O
+OF O
+THIRD O
+TEST O
+. O
+
+LONDON I
+1996-08-22 O
+
+England I
+were O
+100 O
+for O
+two O
+at O
+lunch O
+on O
+the O
+first O
+day O
+of O
+the O
+third O
+and O
+final O
+test O
+against O
+Pakistan I
+at O
+The I
+Oval I
+on O
+Thursday O
+. O
+

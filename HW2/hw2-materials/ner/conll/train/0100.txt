@@ -1,0 +1,64 @@
+-DOCSTART- O
+
+Fairview I
+, O
+Texas I
+, O
+$ O
+1.82 O
+million O
+deal O
+Baa1 O
+- O
+Moody I
+'s I
+. O
+
+NEW I
+YORK I
+1996-08-22 O
+
+Moody I
+'s I
+Investors I
+Service I
+- O
+
+Rating O
+Announcement O
+As O
+of O
+08/21/96 O
+. O
+
+Issuer O
+: O
+Fairview I
+Town I
+
+State O
+: O
+TX I
+
+Rating O
+: O
+Baa1 O
+
+Sale O
+Amount O
+: O
+1,820,000 O
+
+Expected O
+Sale O
+Date O
+: O
+08/27/96 O
+
+-- O
+U.S. I
+Municipal I
+Desk I
+, O
+212-859-1650 O
+

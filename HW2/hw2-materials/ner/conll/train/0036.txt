@@ -1,0 +1,227 @@
+-DOCSTART- O
+
+CRICKET O
+- O
+ENGLISH I
+COUNTY I
+CHAMPIONSHIP I
+SCORES O
+. O
+
+LONDON I
+1996-08-22 O
+
+Close O
+of O
+play O
+scores O
+in O
+four-day O
+
+English I
+County I
+Championship I
+cricket O
+matches O
+on O
+Thursday O
+: O
+
+Second O
+day O
+
+At O
+Weston-super-Mare I
+: O
+Durham I
+326 O
+( O
+D. I
+Cox I
+95 O
+not O
+out O
+, O
+
+S. I
+Campbell I
+69 O
+; O
+G. I
+Rose I
+7-73 O
+) O
+. O
+
+Somerset I
+236-4 O
+( O
+M. I
+Lathwell I
+85 O
+) O
+. O
+
+Firsy O
+day O
+
+At O
+Colchester I
+: O
+Gloucestershire I
+280 O
+( O
+J. I
+Russell I
+63 O
+, O
+A. I
+Symonds I
+
+52 O
+; O
+A. I
+Cowan I
+5-68 O
+) O
+. O
+
+Essex I
+72-0 O
+. O
+
+At O
+Cardiff I
+: O
+Kent I
+128-1 O
+( O
+M. I
+Walker I
+59 O
+, O
+D. I
+Fulton I
+53 O
+not O
+out O
+) O
+v O
+
+Glamorgan I
+. O
+
+At O
+Leicester I
+: O
+Leicestershire I
+343-8 O
+( O
+P. I
+Simmons I
+108 O
+, O
+P. I
+Nixon I
+
+67 O
+not O
+out O
+) O
+v O
+Hampshire I
+. O
+
+At O
+Northampton I
+: O
+Sussex I
+368-7 O
+( O
+N. I
+Lenham I
+145 O
+, O
+V. I
+Drakes I
+59 O
+not O
+
+out O
+, O
+A. I
+Wells I
+51 O
+) O
+v O
+Northamptonshire I
+. O
+
+At O
+Trent I
+Bridge I
+: O
+Nottinghamshire I
+392-6 O
+( O
+G. I
+Archer I
+143 O
+not O
+
+out O
+, O
+M. I
+Dowman I
+107 O
+) O
+v O
+Surrey I
+. O
+
+At O
+Worcester I
+: O
+Warwickshire I
+255-9 O
+( O
+A. I
+Giles I
+57 O
+not O
+out O
+, O
+W. I
+Khan I
+
+52 O
+) O
+v O
+Worcestershire I
+. O
+
+At O
+Headingley I
+: O
+Yorkshire I
+305-5 O
+( O
+C. I
+White I
+66 O
+not O
+out O
+, O
+M. I
+Moxon I
+
+66 O
+, O
+M. I
+Vaughan I
+57 O
+) O
+v O
+Lancashire I
+. O
+

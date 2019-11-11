@@ -1,0 +1,245 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+DUTCH I
+FIRST O
+DIVISION O
+SUMMARIES O
+. O
+
+AMSTERDAM I
+1996-08-25 O
+
+Summary O
+of O
+Dutch I
+first O
+division O
+
+soccer O
+played O
+on O
+Sunday O
+: O
+
+Feyenoord I
+Rotterdam I
+3 O
+( O
+Sanchez I
+27th O
+, O
+Taument I
+44th O
+, O
+57th O
+) O
+
+Volendam I
+0 O
+. O
+
+Halftime O
+2-0 O
+. O
+
+Attendance O
+not O
+given O
+. O
+
+NEC I
+Nijmegen I
+0 O
+AZ I
+Alkmaar I
+0 O
+. O
+
+Attendance O
+not O
+given O
+. O
+
+Vitesse I
+Arnhem I
+1 O
+( O
+Van I
+Wanrooy I
+58th O
+) O
+Utrecht I
+0 O
+. O
+
+Halftime O
+0-0 O
+. O
+
+Attendance O
+7,032 O
+. O
+
+Twente I
+Enschede I
+1 O
+( O
+Hoogma I
+30th O
+) O
+Roda I
+JC I
+Kerkrade I
+1 O
+( O
+Roelofsen I
+
+28th O
+) O
+. O
+
+Halftime O
+1-1 O
+. O
+
+Attendance O
+not O
+given O
+. O
+
+PSV I
+Eindhoven I
+4 O
+( O
+Faber I
+32nd O
+, O
+Nilis I
+63rd O
+79th O
+, O
+Petrovic I
+78th O
+) O
+
+Groningen I
+1 O
+( O
+Gorre I
+7th O
+) O
+. O
+
+Halftime O
+1-1 O
+. O
+
+Attendance O
+27,500 O
+
+Played O
+on O
+Saturday O
+: O
+
+Graafschap I
+Doetinchem I
+3 O
+( O
+Ibrahim I
+20th O
+63rd O
+, O
+Godee I
+54th O
+) O
+RKC I
+
+Waalwijk I
+2 O
+( O
+Dos I
+Santos I
+38th O
+, O
+Van I
+Arum I
+73th O
+penalty O
+) O
+. O
+
+Halftime O
+
+1-1 O
+. O
+
+Attendance O
+7,000 O
+
+Willem I
+II I
+Tilburg I
+0 O
+Fortuna I
+Sittard I
+1 O
+( O
+Hamming I
+65th O
+) O
+. O
+
+Halftime O
+
+0-0 O
+. O
+
+Attendance O
+7,250 O
+. O
+
+NAC I
+Breda I
+1 O
+( O
+Arnold I
+70th O
+) O
+Sparta I
+Rotterdam I
+0 O
+. O
+
+Haldtime O
+0-0 O
+. O
+
+Attendance O
+11,500 O
+. O
+
+Heerenveen I
+2 O
+( O
+Wouden I
+53rd O
+, O
+Dahl I
+Tomasson I
+74th O
+) O
+Ajax I
+Amsterdam I
+
+0. O
+Halftime O
+0-0 O
+. O
+
+Attendance O
+13,500 O
+. O
+

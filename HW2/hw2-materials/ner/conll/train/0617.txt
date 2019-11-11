@@ -1,0 +1,285 @@
+-DOCSTART- O
+
+Latest O
+opinion O
+polls O
+on O
+German I
+political O
+parties O
+. O
+
+BONN I
+1996-08-27 O
+
+Here O
+are O
+the O
+latest O
+opinion O
+polls O
+tracking O
+national O
+support O
+for O
+Germany I
+'s O
+main O
+political O
+parties O
+: O
+
+AUGUST O
+1996 O
+CDU I
+/ I
+CSU I
+SPD I
+FDP I
+Greens I
+PDS I
+
+Emnid I
+Aug O
+25 O
+41.0 O
+34.0 O
+7.0 O
+10.0 O
+6.0 O
+
+Elect I
+Res I
+Aug O
+23 O
+41.0 O
+35.0 O
+5.0 O
+11.0 O
+4.0 O
+
+Allensbach I
+Aug O
+21 O
+37.2 O
+32.8 O
+8.0 O
+13.0 O
+5.6 O
+
+Emnid I
+Aug O
+18 O
+41.0 O
+34.0 O
+6.0 O
+10.0 O
+5.0 O
+
+JULY O
+1996 O
+CDU I
+/ I
+CSU I
+SPD I
+FDP I
+Greens I
+PDS I
+
+Emnid I
+July O
+7 O
+39.0 O
+32.0 O
+7.0 O
+11.0 O
+5.0 O
+
+Elect I
+Res I
+July O
+40.0 O
+33.0 O
+6.0 O
+12.0 O
+4.0 O
+
+JUNE O
+1996 O
+CDU I
+/ I
+CSU I
+SPD I
+FDP I
+Greens I
+PDS I
+
+Emnid I
+June O
+30 O
+39.0 O
+33.0 O
+6.0 O
+12.0 O
+5.0 O
+
+Elect I
+Res I
+June O
+21 O
+42.0 O
+33.0 O
+6.0 O
+12.0 O
+4.0 O
+
+Allensbach I
+June O
+12 O
+37.4 O
+32.8 O
+7.3 O
+12.3 O
+5.4 O
+
+Forsa I
+June O
+6 O
+39.0 O
+36.0 O
+6.0 O
+12.0 O
+5.0 O
+
+MAY O
+1996 O
+CDU I
+/ I
+CSU I
+SPD I
+FDP I
+Greens I
+PDS I
+
+Emnid I
+May O
+26 O
+40.0 O
+31.0 O
+6.0 O
+13.0 O
+6.0 O
+
+Elect I
+Res I
+May O
+25 O
+43.0 O
+32.0 O
+6.0 O
+12.0 O
+4.0 O
+
+Forsa I
+May O
+23 O
+38.0 O
+37.0 O
+7.0 O
+11.0 O
+5.0 O
+
+Allensbach I
+May O
+15 O
+38.5 O
+32.5 O
+8.1 O
+12.0 O
+4.4 O
+
+APRIL O
+1996 O
+CDU I
+/ I
+CSU I
+SPD I
+FDP I
+Greens I
+PDS I
+
+Emnid I
+April O
+28 O
+40.0 O
+32.0 O
+5.0 O
+11.0 O
+5.0 O
+
+Elect I
+Res I
+April O
+20 O
+43.0 O
+32.0 O
+6.0 O
+12.0 O
+4.0 O
+
+Allensbach I
+April O
+17 O
+38.1 O
+32.3 O
+6.5 O
+12.9 O
+6.3 O
+
+OFFICIAL O
+RESULTS O
+OF O
+THE O
+OCTOBER O
+16 O
+, O
+1994 O
+GENERAL O
+ELECTION O
+: O
+
+CDU I
+/ I
+CSU I
+SPD I
+FDP I
+Greens I
+PDS I
+
+41.5 O
+36.4 O
+6.9 O
+7.3 O
+4.4 O
+
+NOTE O
+: O
+Elect I
+Res I
+= O
+Electoral I
+Research I
+Group I
+( O
+Forschungsgruppe I
+Wahlen I
+) O
+
+-- O
+Bonn I
+newsroom O
+, O
++49 O
+228 O
+2609760 O
+

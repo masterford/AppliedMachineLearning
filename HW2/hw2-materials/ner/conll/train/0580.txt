@@ -1,0 +1,68 @@
+-DOCSTART- O
+
+Kansas I
+feedlot O
+cattle O
+market O
+quiet O
+, O
+no O
+sales O
+- O
+USDA I
+. O
+
+DODGE I
+CITY I
+1996-08-27 O
+
+Trade O
+was O
+quiet O
+, O
+with O
+no O
+sales O
+slaughter O
+steers O
+or O
+heifers O
+confirmed O
+. O
+
+Inquiry O
+and O
+demand O
+very O
+light O
+. O
+
+Sales O
+confirmed O
+week O
+to O
+date O
+on O
+4,200 O
+head O
+, O
+mostly O
+previously O
+contracted O
+or O
+formulated O
+cattle O
+. O
+
+Confirmed O
+- O
+none O
+. O
+
+-- O
+Chicago I
+newsdesk O
+312 O
+408 O
+8720-- O
+

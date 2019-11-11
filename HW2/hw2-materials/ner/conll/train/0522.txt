@@ -1,0 +1,710 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+ENGLISH I
+LEAGUE O
+STANDINGS O
+. O
+
+LONDON I
+1996-08-27 O
+
+English I
+league O
+soccer O
+standings O
+
+after O
+Tuesday O
+'s O
+matches O
+( O
+tabulated O
+under O
+played O
+, O
+won O
+, O
+drawn O
+, O
+
+lost O
+, O
+goals O
+for O
+, O
+against O
+, O
+points O
+) O
+: O
+
+Division O
+one O
+
+Tranmere I
+3 O
+2 O
+1 O
+0 O
+6 O
+3 O
+7 O
+
+Bolton I
+3 O
+2 O
+1 O
+0 O
+5 O
+2 O
+7 O
+
+Barnsley I
+2 O
+2 O
+0 O
+0 O
+5 O
+2 O
+6 O
+
+Wolverhampton I
+2 O
+2 O
+0 O
+0 O
+4 O
+1 O
+6 O
+
+Queens I
+Park I
+Rangers I
+2 O
+2 O
+0 O
+0 O
+4 O
+2 O
+6 O
+
+Stoke I
+2 O
+2 O
+0 O
+0 O
+4 O
+2 O
+6 O
+
+Norwich I
+3 O
+2 O
+0 O
+1 O
+4 O
+3 O
+6 O
+
+Ipswich I
+3 O
+1 O
+1 O
+1 O
+6 O
+4 O
+4 O
+
+Birmingham I
+2 O
+1 O
+1 O
+0 O
+5 O
+4 O
+4 O
+
+Crystal I
+Palace I
+3 O
+1 O
+1 O
+1 O
+3 O
+2 O
+4 O
+
+Oxford I
+3 O
+1 O
+0 O
+2 O
+6 O
+3 O
+3 O
+
+Bradford I
+2 O
+1 O
+0 O
+1 O
+3 O
+2 O
+3 O
+
+Huddersfield I
+2 O
+1 O
+0 O
+1 O
+3 O
+3 O
+3 O
+
+Portsmouth I
+3 O
+1 O
+0 O
+2 O
+3 O
+5 O
+3 O
+
+Reading I
+2 O
+1 O
+0 O
+1 O
+3 O
+5 O
+3 O
+
+Manchester I
+City I
+3 O
+1 O
+0 O
+2 O
+2 O
+3 O
+3 O
+
+West I
+Bromwich I
+3 O
+0 O
+2 O
+1 O
+2 O
+3 O
+2 O
+
+Port I
+Vale I
+3 O
+0 O
+2 O
+1 O
+2 O
+4 O
+2 O
+
+Sheffield I
+United I
+2 O
+0 O
+1 O
+1 O
+4 O
+5 O
+1 O
+
+Grimsby I
+3 O
+0 O
+1 O
+2 O
+4 O
+7 O
+1 O
+
+Charlton I
+2 O
+0 O
+1 O
+1 O
+1 O
+3 O
+1 O
+
+Swindon I
+2 O
+0 O
+1 O
+1 O
+1 O
+3 O
+1 O
+
+Southend I
+3 O
+0 O
+1 O
+2 O
+1 O
+7 O
+1 O
+
+Oldham I
+2 O
+0 O
+0 O
+2 O
+2 O
+5 O
+0 O
+
+Divisionn O
+two O
+
+Plymouth I
+3 O
+2 O
+1 O
+0 O
+8 O
+5 O
+7 O
+
+Brentford I
+3 O
+2 O
+1 O
+0 O
+6 O
+3 O
+7 O
+
+Shrewsbury I
+3 O
+2 O
+1 O
+0 O
+6 O
+3 O
+7 O
+
+Bury I
+3 O
+2 O
+1 O
+0 O
+4 O
+2 O
+7 O
+
+Burnley I
+3 O
+2 O
+0 O
+1 O
+5 O
+5 O
+6 O
+
+Bournemouth I
+3 O
+2 O
+0 O
+1 O
+4 O
+3 O
+6 O
+
+Blackpool I
+3 O
+2 O
+0 O
+1 O
+3 O
+2 O
+6 O
+
+Chesterfield I
+3 O
+2 O
+0 O
+1 O
+3 O
+2 O
+6 O
+
+Millwall I
+3 O
+1 O
+1 O
+1 O
+5 O
+4 O
+4 O
+
+Crewe I
+3 O
+1 O
+1 O
+1 O
+4 O
+4 O
+4 O
+
+Gillingham I
+3 O
+1 O
+1 O
+1 O
+4 O
+5 O
+4 O
+
+Preston I
+3 O
+1 O
+1 O
+1 O
+3 O
+3 O
+4 O
+
+Notts I
+County I
+2 O
+1 O
+1 O
+0 O
+2 O
+1 O
+4 O
+
+Bristol I
+Rovers I
+2 O
+1 O
+1 O
+0 O
+1 O
+0 O
+4 O
+
+Bristol I
+City I
+3 O
+1 O
+0 O
+2 O
+7 O
+4 O
+3 O
+
+York I
+3 O
+1 O
+0 O
+2 O
+5 O
+6 O
+3 O
+
+Watford I
+3 O
+1 O
+0 O
+2 O
+2 O
+5 O
+3 O
+
+Wrexham I
+2 O
+0 O
+2 O
+0 O
+5 O
+5 O
+2 O
+
+Wycombe I
+3 O
+0 O
+2 O
+1 O
+2 O
+3 O
+2 O
+
+Rotherham I
+3 O
+0 O
+1 O
+2 O
+3 O
+5 O
+1 O
+
+Peterborough I
+2 O
+0 O
+1 O
+1 O
+2 O
+3 O
+1 O
+
+Walsall I
+3 O
+0 O
+1 O
+2 O
+2 O
+4 O
+1 O
+
+Stockport I
+3 O
+0 O
+1 O
+2 O
+0 O
+2 O
+1 O
+
+Luton I
+3 O
+0 O
+0 O
+3 O
+3 O
+10 O
+0 O
+
+Division O
+three O
+
+Hartlepool I
+3 O
+2 O
+1 O
+0 O
+6 O
+3 O
+7 O
+
+Wigan I
+3 O
+2 O
+1 O
+0 O
+5 O
+2 O
+7 O
+
+Hull I
+3 O
+2 O
+1 O
+0 O
+4 O
+2 O
+7 O
+
+Carlisle I
+3 O
+2 O
+1 O
+0 O
+2 O
+0 O
+7 O
+
+Fulham I
+3 O
+2 O
+0 O
+1 O
+4 O
+3 O
+6 O
+
+Scunthorpe I
+3 O
+2 O
+0 O
+1 O
+2 O
+2 O
+6 O
+
+Scarborough I
+3 O
+1 O
+2 O
+0 O
+4 O
+2 O
+5 O
+
+Exeter I
+3 O
+1 O
+2 O
+0 O
+4 O
+3 O
+5 O
+
+Cambridge I
+3 O
+1 O
+2 O
+0 O
+3 O
+2 O
+5 O
+
+Darlington I
+3 O
+1 O
+1 O
+1 O
+7 O
+5 O
+4 O
+
+Northampton I
+3 O
+1 O
+1 O
+1 O
+5 O
+3 O
+4 O
+
+Barnet I
+3 O
+1 O
+1 O
+1 O
+4 O
+2 O
+4 O
+
+Chester I
+3 O
+1 O
+1 O
+1 O
+4 O
+3 O
+4 O
+
+Torquay I
+3 O
+1 O
+1 O
+1 O
+3 O
+3 O
+4 O
+
+Cardiff I
+3 O
+1 O
+1 O
+1 O
+1 O
+2 O
+4 O
+
+Swansea I
+3 O
+1 O
+0 O
+2 O
+3 O
+7 O
+3 O
+
+Brighton I
+3 O
+1 O
+0 O
+2 O
+2 O
+5 O
+3 O
+
+Hereford I
+3 O
+1 O
+0 O
+2 O
+1 O
+2 O
+3 O
+
+Lincoln I
+3 O
+0 O
+2 O
+1 O
+3 O
+4 O
+2 O
+
+Colchester I
+3 O
+0 O
+2 O
+1 O
+1 O
+3 O
+2 O
+
+Rochdale I
+3 O
+0 O
+1 O
+2 O
+2 O
+4 O
+1 O
+
+Mansfield I
+3 O
+0 O
+1 O
+2 O
+2 O
+6 O
+1 O
+
+Doncaster I
+3 O
+0 O
+1 O
+2 O
+1 O
+3 O
+1 O
+
+Leyton I
+Orient I
+3 O
+0 O
+1 O
+2 O
+1 O
+3 O
+1 O
+

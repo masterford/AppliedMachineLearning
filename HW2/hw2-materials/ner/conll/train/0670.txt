@@ -1,0 +1,43 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+BARCELONA I
+WIN O
+SPANISH I
+SUPER I
+CUP I
+. O
+
+MADRID I
+1996-08-28 O
+
+Result O
+of O
+the O
+Spanish I
+Super I
+Cup I
+, O
+second O
+leg O
+, O
+played O
+on O
+Wednesday O
+: O
+
+Atletico I
+Madrid I
+3 O
+Barcelona I
+1 O
+
+( O
+Barcelona I
+win O
+6-5 O
+on O
+aggregate O
+) O
+

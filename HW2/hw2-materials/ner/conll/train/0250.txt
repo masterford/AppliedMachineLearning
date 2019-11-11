@@ -1,0 +1,356 @@
+-DOCSTART- O
+
+CRICKET O
+- O
+ENGLISH I
+COUNTY I
+CHAMPIONSHIP I
+SCORES O
+. O
+
+LONDON I
+1996-08-24 O
+
+Close O
+of O
+play O
+scores O
+in O
+four-day O
+
+English I
+County I
+Championship I
+cricket O
+matches O
+on O
+Saturday O
+: O
+
+Final O
+day O
+
+At O
+Weston-super-Mare I
+: O
+Match O
+abandoned O
+as O
+a O
+draw O
+- O
+rain O
+. O
+
+Durham I
+326 O
+( O
+D. I
+Cox I
+95 O
+not O
+out O
+, O
+S. I
+Campbell I
+69 O
+; O
+G. I
+Rose I
+7-73 O
+) O
+. O
+
+Somerset I
+298-6 O
+( O
+M. I
+Lathwell I
+85 O
+, O
+R. I
+Harden I
+65 O
+) O
+. O
+
+Somerset I
+9 O
+points O
+, O
+
+Durham I
+8 O
+. O
+
+Third O
+day O
+
+At O
+Colchester I
+: O
+Gloucestershire I
+280 O
+and O
+27-4 O
+. O
+
+Essex I
+532-8 O
+
+declared O
+( O
+G. I
+Gooch I
+111 O
+, O
+R. I
+Irani I
+91 O
+, O
+P. I
+Prichard I
+88 O
+, O
+D. I
+Robinson I
+72 O
+; O
+
+M. I
+Alleyne I
+4-80 O
+) O
+. O
+
+At O
+Cardiff I
+: O
+Kent I
+255-3 O
+( O
+D. I
+Fulton I
+64 O
+, O
+M. I
+Walker I
+59 O
+, O
+C. I
+Hooper I
+
+52 O
+not O
+out O
+) O
+v O
+Glamorgan I
+. O
+
+No O
+play O
+- O
+rain O
+. O
+
+At O
+Leicester I
+: O
+Leicestershire I
+353 O
+( O
+P. I
+Simmons I
+108 O
+, O
+P. I
+Nixon I
+67 O
+; O
+
+S. I
+Renshaw I
+4-56 O
+, O
+J. I
+Bovill I
+4-102 O
+) O
+. O
+
+Hampshire I
+81-7 O
+. O
+
+At O
+Northampton I
+: O
+Sussex I
+389 O
+and O
+112 O
+( O
+C. I
+Ambrose I
+6-26 O
+) O
+. O
+
+Northamptonshire I
+361 O
+( O
+K. I
+Curran I
+117 O
+, O
+D. I
+Ripley I
+66 O
+not O
+out O
+) O
+and O
+
+42-3 O
+. O
+
+At O
+Trent I
+Bridge I
+: O
+Nottinghamshire I
+446-9 O
+declared O
+( O
+G. I
+Archer I
+
+143 O
+, O
+M. I
+Dowman I
+107 O
+, O
+W. I
+Noon I
+57 O
+; O
+B. I
+Julian I
+4-104 O
+) O
+. O
+
+Surrey I
+128-4 O
+
+( O
+A. I
+Brown I
+56 O
+not O
+out O
+) O
+. O
+
+At O
+Worcester I
+: O
+Warwickshire I
+310 O
+( O
+A. I
+Giles I
+83 O
+, O
+T. I
+Munton I
+54 O
+not O
+
+out O
+, O
+W. I
+Khan I
+52 O
+; O
+R. I
+Illingworth I
+4-54 O
+, O
+S. I
+Lampitt I
+4-90 O
+) O
+. O
+
+Worcestershire I
+205-9 O
+( O
+K. I
+Spiring I
+52 O
+) O
+. O
+
+At O
+Headingley I
+: O
+Yorkshire I
+529-8 O
+declared O
+( O
+C. I
+White I
+181 O
+, O
+
+R. I
+Blakey I
+109 O
+not O
+out O
+, O
+M. I
+Moxon I
+66 O
+, O
+M. I
+Vaughan I
+57 O
+) O
+. O
+
+Lancashire I
+323 O
+
+( O
+N. I
+Fairbrother I
+86 O
+, O
+M. I
+Watkinson I
+64 O
+; O
+D. I
+Gough I
+4-53 O
+) O
+and O
+210-5 O
+
+( O
+N. I
+Speak I
+65 O
+not O
+out O
+, O
+N. I
+Fairbrother I
+55 O
+) O
+. O
+

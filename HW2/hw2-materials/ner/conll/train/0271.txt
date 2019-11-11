@@ -1,0 +1,256 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+DUTCH I
+FIRST O
+DIVISION O
+RESULTS O
+/ O
+STANDINGS O
+. O
+
+AMSTERDAM I
+1996-08-24 O
+
+Result O
+of O
+Dutch I
+first O
+division O
+
+soccer O
+match O
+played O
+on O
+Saturday O
+: O
+
+Graafschap I
+Doetinchem I
+3 O
+RKC I
+Waalwijk I
+2 O
+
+Willem I
+II I
+Tilburg I
+0 O
+Fortuna I
+Sittard I
+1 O
+
+NAC I
+Breda I
+1 O
+Sparta I
+Rotterdam I
+0 O
+
+Heerenveen I
+2 O
+Ajax I
+Amsterdam I
+0 O
+
+Standings O
+( O
+tabulated O
+under O
+played O
+, O
+won O
+, O
+drawn O
+, O
+lost O
+, O
+goals O
+
+for O
+, O
+against O
+, O
+points O
+) O
+: O
+
+Graafschap I
+Doetinchem I
+2 O
+1 O
+1 O
+0 O
+4 O
+3 O
+4 O
+
+Fortuna I
+Sittard I
+2 O
+1 O
+1 O
+0 O
+1 O
+0 O
+4 O
+
+PSV I
+Eindhoven I
+1 O
+1 O
+0 O
+0 O
+4 O
+1 O
+3 O
+
+Twente I
+Enschede I
+1 O
+1 O
+0 O
+0 O
+3 O
+1 O
+3 O
+
+Vitesse I
+Arnhem I
+1 O
+1 O
+0 O
+0 O
+2 O
+0 O
+3 O
+
+Heerenveen I
+2 O
+1 O
+0 O
+1 O
+3 O
+3 O
+3 O
+
+NAC I
+Breda I
+2 O
+1 O
+0 O
+1 O
+1 O
+1 O
+3 O
+
+Ajax I
+Amsterdam I
+2 O
+1 O
+0 O
+1 O
+1 O
+2 O
+3 O
+
+Utrecht I
+1 O
+0 O
+1 O
+0 O
+2 O
+2 O
+1 O
+
+Feyenoord I
+Rotterdam I
+1 O
+0 O
+1 O
+0 O
+1 O
+1 O
+1 O
+
+Roda I
+JC I
+Kerkrade I
+1 O
+0 O
+1 O
+0 O
+1 O
+1 O
+1 O
+
+Volendam I
+1 O
+0 O
+1 O
+0 O
+1 O
+1 O
+1 O
+
+Groningen I
+1 O
+0 O
+1 O
+0 O
+0 O
+0 O
+1 O
+
+RKC I
+Waalwijk I
+2 O
+0 O
+1 O
+1 O
+4 O
+5 O
+1 O
+
+Sparta I
+Rotterdam I
+2 O
+0 O
+1 O
+1 O
+0 O
+1 O
+1 O
+
+Willem I
+II I
+Tilburg I
+2 O
+0 O
+1 O
+1 O
+0 O
+1 O
+1 O
+
+AZ I
+Alkmaar I
+1 O
+0 O
+0 O
+1 O
+0 O
+2 O
+0 O
+
+NEC I
+Nijmegen I
+1 O
+0 O
+0 O
+1 O
+1 O
+4 O
+0 O
+

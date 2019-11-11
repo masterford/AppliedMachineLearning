@@ -1,0 +1,64 @@
+-DOCSTART- O
+
+CRICKET O
+- O
+ENGLAND I
+BEAT O
+PAKISTAN I
+IN O
+FIRST O
+ONE-DAYER O
+. O
+
+MANCHESTER I
+, O
+England I
+1996-08-29 O
+
+England I
+beat O
+Pakistan I
+by O
+five O
+wickets O
+to O
+win O
+the O
+first O
+one-day O
+( O
+50 O
+overs-a-side O
+) O
+international O
+at O
+Old I
+Trafford I
+on O
+Thursday O
+. O
+
+Scores O
+: O
+Pakistan I
+225-5 O
+innings O
+closed O
+( O
+Saeed I
+Anwar I
+57 O
+) O
+, O
+England I
+226-5 O
+in O
+46.4 O
+overs O
+( O
+M. I
+Atherton I
+65 O
+) O
+. O
+

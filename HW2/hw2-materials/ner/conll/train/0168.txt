@@ -1,0 +1,80 @@
+-DOCSTART- O
+
+Ulster I
+Petroleums I
+Ltd I
+Q2 O
+net O
+profit O
+falls O
+. O
+
+CALGARY I
+1996-08-23 O
+
+1996 O
+1995 O
+
+Shr O
+C$ I
+0.04 O
+C$ I
+0.08 O
+
+Net O
+1,196 O
+2,232 O
+
+Cash O
+flow O
+/ O
+shr O
+0.39 O
+0.41 O
+
+Revs O
+20,167 O
+18,623 O
+
+6 O
+MONTHS O
+
+Shr O
+C$ I
+0.12 O
+C$ I
+0.15 O
+
+Net O
+3,674 O
+4,271 O
+
+Cash O
+flow O
+/ O
+shr O
+0.86 O
+0.81 O
+
+Revs O
+41,752 O
+35,711 O
+
+( O
+All O
+data O
+above O
+000s O
+except O
+per O
+share O
+numbers O
+) O
+
+-- O
+Reuters I
+Toronto I
+Bureau I
+416 O
+941-8100 O
+

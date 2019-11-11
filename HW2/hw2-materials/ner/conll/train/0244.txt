@@ -1,0 +1,111 @@
+-DOCSTART- O
+
+TENNIS O
+- O
+RESULTS O
+AT O
+HAMLET I
+CUP I
+. O
+
+COMMACK I
+, O
+New I
+York I
+1996-08-23 O
+
+Results O
+from O
+the O
+
+Waldbaum I
+Hamlet I
+Cup I
+tennis O
+tournament O
+on O
+Friday O
+( O
+prefix O
+number O
+
+denotes O
+seeding O
+) O
+: O
+
+Quarterfinals O
+: O
+
+Adrian I
+Voinea I
+( O
+Romania I
+) O
+beat O
+Thomas I
+Johansson I
+( O
+Sweden I
+) O
+7-6 O
+
+( O
+7-4 O
+) O
+6-2 O
+
+5 O
+- O
+Andrei I
+Medvedev I
+( O
+Ukraine I
+) O
+beat O
+Jonathan I
+Stark I
+( O
+U.S. I
+) O
+7-6 O
+
+( O
+7-4 O
+) O
+4-6 O
+6-3 O
+
+Martin I
+Damm I
+( O
+Czech I
+Republic I
+) O
+beat O
+Michael I
+Joyce I
+( O
+U.S. I
+) O
+5-7 O
+
+6-2 O
+6-3 O
+
+Karol I
+Kucera I
+( O
+Slovakia I
+) O
+beat O
+1 O
+- O
+Michael I
+Chang I
+( O
+U.S. I
+) O
+6-4 O
+6-4 O
+

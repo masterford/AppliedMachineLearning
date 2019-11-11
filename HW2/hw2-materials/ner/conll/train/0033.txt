@@ -1,0 +1,109 @@
+-DOCSTART- O
+
+TENNIS O
+- O
+RESULTS O
+AT O
+TOSHIBA I
+CLASSIC I
+. O
+
+CARLSBAD I
+, O
+California I
+1996-08-21 O
+
+Results O
+from O
+the O
+
+$ O
+450,000 O
+Toshiba I
+Classic I
+tennis O
+tournament O
+on O
+Wednesday O
+
+( O
+prefix O
+number O
+denotes O
+seeding O
+) O
+: O
+
+Second O
+round O
+
+1 O
+- O
+Arantxa I
+Sanchez I
+Vicario I
+( O
+Spain I
+) O
+beat O
+Naoko I
+Kijimuta I
+( O
+Japan I
+) O
+
+1-6 O
+6-4 O
+6-3 O
+
+4 O
+- O
+Kimiko I
+Date I
+( O
+Japan I
+) O
+beat O
+Yone I
+Kamio I
+( O
+Japan I
+) O
+6-2 O
+7-5 O
+
+Sandrine I
+Testud I
+( O
+France I
+) O
+beat O
+7 O
+- O
+Ai I
+Sugiyama I
+( O
+Japan I
+) O
+6-3 O
+4-6 O
+
+6-4 O
+
+8 O
+- O
+Nathalie I
+Tauziat I
+( O
+France I
+) O
+beat O
+Shi-Ting I
+Wang I
+( O
+Taiwan I
+) O
+6-4 O
+
+6-2 O
+

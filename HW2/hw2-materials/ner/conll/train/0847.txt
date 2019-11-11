@@ -1,0 +1,76 @@
+-DOCSTART- O
+
+Colombia I
+police O
+find O
+marijuana O
+on O
+ship O
+. O
+
+BOGOTA I
+, O
+Colombia I
+1996-08-29 O
+
+Police O
+said O
+they O
+found O
+35 O
+metric O
+tons O
+of O
+marijuana O
+on O
+Thursday O
+on O
+a O
+ship O
+preparing O
+to O
+set O
+sail O
+for O
+the O
+Netherlands I
+from O
+Colombia I
+'s O
+Caribbean I
+port O
+of O
+Cartagena I
+. O
+
+They O
+said O
+the O
+drug O
+had O
+been O
+packed O
+into O
+a O
+shipping O
+container O
+and O
+was O
+surrounded O
+by O
+ground O
+coffee O
+. O
+
+No O
+arrests O
+had O
+been O
+made O
+, O
+a O
+police O
+spokesman O
+said O
+. O
+

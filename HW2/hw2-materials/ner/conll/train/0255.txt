@@ -1,0 +1,105 @@
+-DOCSTART- O
+
+TENNIS O
+- O
+RESULTS O
+AT O
+CANADIAN I
+OPEN I
+. O
+
+TORONTO I
+1996-08-23 O
+
+Results O
+from O
+the O
+Canadian I
+Open I
+
+tennis O
+tournament O
+on O
+Friday O
+( O
+prefix O
+numbers O
+denotes O
+seedings O
+) O
+: O
+
+Quarterfinals O
+
+3 O
+- O
+Wayne I
+Ferreira I
+( O
+South I
+Africa I
+) O
+beat O
+5 O
+- O
+Thomas I
+Enqvist I
+
+( O
+Sweden I
+) O
+7-5 O
+6-2 O
+
+4 O
+- O
+Marcelo I
+Rios I
+( O
+Chile I
+) O
+beat O
+Patrick I
+Rafter I
+( O
+Australia I
+) O
+0-6 O
+
+7-6 O
+( O
+7-4 O
+) O
+6-1 O
+
+7 O
+- O
+Todd I
+Martin I
+( O
+U.S. I
+) O
+beat O
+Alex I
+O'Brien I
+( O
+U.S. I
+) O
+6-4 O
+6-4 O
+
+Todd I
+Woodbridge I
+( O
+Australia I
+) O
+beat O
+Mark I
+Philippoussis I
+
+( O
+Australia I
+) O
+7-5 O
+6-4 O
+

@@ -1,0 +1,58 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+DUTCH I
+FIRST O
+DIVISION O
+SUMMARY O
+. O
+
+AMSTERDAM I
+1996-08-22 O
+
+Summary O
+of O
+Thursday O
+'s O
+only O
+
+Dutch I
+first O
+division O
+match O
+: O
+
+NEC I
+Nijmegen I
+1 O
+( O
+Van O
+Eykeren O
+15th O
+) O
+PSV I
+Eindhoven I
+4 O
+( O
+Numan O
+11th O
+, O
+
+Nilis I
+42nd O
+, O
+Cocu I
+54th O
+, O
+67th O
+) O
+. O
+
+Halftime O
+1-2 O
+. O
+
+Attendance O
+8,000 O
+

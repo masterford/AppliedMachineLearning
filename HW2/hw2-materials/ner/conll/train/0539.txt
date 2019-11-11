@@ -1,0 +1,250 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+GERMAN I
+FIRST O
+DIVISION O
+RESULTS O
+. O
+
+BONN I
+1996-08-27 O
+
+Results O
+of O
+Bundesliga I
+matches O
+
+played O
+on O
+Tuesday O
+: O
+
+Borussia I
+Dortmund I
+3 O
+Freiburg I
+1 O
+
+Hamburg I
+0 O
+VfB I
+Stuttgart I
+4 O
+
+Werder I
+Bremen I
+1 O
+Borussia I
+Moenchengladbach I
+0 O
+
+Schalke I
+1 O
+Bochum I
+1 O
+
+Bundesliga I
+standings O
+after O
+Tuesday O
+'s O
+games O
+( O
+tabulate O
+under O
+
+played O
+, O
+won O
+, O
+drawn O
+, O
+lost O
+, O
+goals O
+for O
+, O
+goals O
+against O
+, O
+points O
+) O
+: O
+
+VfB I
+Stuttgart I
+3 O
+3 O
+0 O
+0 O
+10 O
+1 O
+9 O
+
+Borussia I
+Dortmund I
+4 O
+3 O
+0 O
+1 O
+12 O
+6 O
+9 O
+
+Cologne I
+3 O
+3 O
+0 O
+0 O
+7 O
+1 O
+9 O
+
+Bayern I
+Munich I
+3 O
+2 O
+1 O
+0 O
+7 O
+2 O
+7 O
+
+Bayer I
+Leverkusen I
+3 O
+2 O
+0 O
+1 O
+7 O
+4 O
+6 O
+
+VfL I
+Bochum I
+4 O
+1 O
+3 O
+0 O
+4 O
+3 O
+6 O
+
+Hamburg I
+4 O
+2 O
+0 O
+2 O
+7 O
+7 O
+6 O
+
+Karlsruhe I
+2 O
+1 O
+1 O
+0 O
+5 O
+3 O
+4 O
+
+St I
+Pauli I
+3 O
+1 O
+1 O
+1 O
+7 O
+7 O
+4 O
+
+Werder I
+Bremen I
+4 O
+1 O
+1 O
+2 O
+5 O
+6 O
+4 O
+
+1860 I
+Munich I
+3 O
+1 O
+0 O
+2 O
+3 O
+5 O
+3 O
+
+Schalke I
+4 O
+0 O
+3 O
+1 O
+5 O
+9 O
+3 O
+
+Fortuna I
+Duesseldorf I
+3 O
+1 O
+0 O
+2 O
+1 O
+7 O
+3 O
+
+Freiburg I
+4 O
+1 O
+0 O
+3 O
+6 O
+13 O
+3 O
+
+Hansa I
+Rostock I
+3 O
+0 O
+2 O
+1 O
+3 O
+4 O
+2 O
+
+Arminia I
+Bielefeld I
+3 O
+0 O
+2 O
+1 O
+2 O
+3 O
+2 O
+
+Borussia I
+Moenchengladbach I
+4 O
+0 O
+2 O
+2 O
+1 O
+4 O
+2 O
+
+MSV I
+Duisburg I
+3 O
+0 O
+0 O
+3 O
+1 O
+8 O
+0 O
+

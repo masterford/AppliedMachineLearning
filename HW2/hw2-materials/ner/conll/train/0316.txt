@@ -1,0 +1,466 @@
+-DOCSTART- O
+
+ATHLETICS O
+- O
+LEADING O
+RESULTS O
+AT O
+SHEFFIELD I
+INTERNATIONAL O
+MEETING O
+. O
+
+SHEFFIELD I
+, O
+England I
+1996-08-25 O
+
+Leading O
+results O
+at O
+an O
+
+international O
+meeting O
+on O
+Sunday O
+: O
+
+Women O
+'s O
+triple O
+jump O
+
+1. O
+Sarka I
+Kasparkova I
+( O
+Czech I
+Republic I
+) O
+14.84 O
+metres O
+
+2. O
+Ashia I
+Hansen I
+( O
+Britain I
+) O
+14.78 O
+
+3. O
+Rodica I
+Matescu I
+( O
+Romania I
+) O
+14.18 O
+
+Women O
+'s O
+400 O
+metres O
+hurdles O
+
+1. O
+Deon I
+Hemmings I
+( O
+Jamaica I
+) O
+55.13 O
+seconds O
+
+2. O
+Anne I
+Marken I
+( O
+Belgium I
+) O
+55.90 O
+
+3. O
+Susan I
+Smith I
+( O
+Ireland I
+) O
+56.00 O
+
+Women O
+'s O
+javelin O
+
+1. O
+Isel I
+Lopez I
+( O
+Cuba I
+) O
+61.36 O
+
+2. O
+Louise I
+McPaul I
+( O
+Australia I
+) O
+60.66 O
+
+3. O
+Silke I
+Renk I
+( O
+Germany I
+) O
+60.66 O
+
+Women O
+'s O
+200 O
+metres O
+
+1. O
+Cathy I
+Freeman I
+( O
+Australia I
+) O
+22.53 O
+
+2. O
+Falilat I
+Ogunkoya I
+( O
+Nigeria I
+) O
+22.58 O
+
+3. O
+Juliet I
+Cuthbert I
+( O
+Jamaica I
+) O
+22.77 O
+
+100 O
+metres O
+hurdles O
+
+1. O
+Dionne I
+Rose I
+( O
+Jamaica I
+) O
+12.83 O
+
+2. O
+Michelle I
+Freeman I
+( O
+Jamaica I
+) O
+12.91 O
+
+3. O
+Gillian I
+Russell I
+( O
+Jamaica I
+) O
+12.95 O
+
+Women O
+'s O
+800 O
+metres O
+
+1. O
+Charmaine I
+Crooks I
+( O
+Canada I
+) O
+two O
+minutes O
+00.42 O
+seconds O
+
+2. O
+Inez I
+Turner I
+( O
+Jamaica I
+) O
+2:01.98 O
+
+3. O
+Margaret I
+Crowley I
+( O
+Australia I
+) O
+2:02.40 O
+
+Men O
+'s O
+pole O
+vault O
+
+1. O
+Trond I
+Bathel I
+( O
+Norway I
+) O
+5.60 O
+
+2. O
+Pat I
+Manson I
+( O
+U.S. I
+) O
+5.60 O
+
+3. O
+Tim I
+Lobinger I
+( O
+Germany I
+) O
+5.50 O
+
+Men O
+'s O
+javelin O
+
+1. O
+Tom I
+Pukstys I
+( O
+U.S. I
+) O
+86.82 O
+
+2. O
+Steve I
+Backley I
+( O
+Britain I
+) O
+82.20 O
+
+3. O
+Nick I
+Nieland I
+( O
+Britain I
+) O
+81.12 O
+
+Women O
+'s O
+400 O
+metres O
+
+1. O
+Marcel I
+Malone I
+( O
+U.S. I
+) O
+51.50 O
+
+2. O
+Kim I
+Graham I
+( O
+U.S. I
+) O
+52.17 O
+
+3. O
+Phylis I
+Smith I
+( O
+Britain I
+) O
+52.53 O
+
+Men O
+'s O
+200 O
+metres O
+
+1. O
+Jeff I
+Williams I
+( O
+U.S. I
+) O
+20.45 O
+
+2. O
+Doug I
+Turner I
+( O
+Britain I
+) O
+20.48 O
+
+3. O
+John I
+Regis I
+( O
+Britain I
+) O
+20.63 O
+
+Men O
+'s O
+high O
+jump O
+
+1. O
+Charles I
+Austin I
+( O
+U.S. I
+) O
+2.30 O
+
+2. O
+Tim I
+Forsyth I
+( O
+Australia I
+) O
+2.30 O
+
+3. O
+Patrik I
+Sjoberg I
+( O
+Sweden I
+) O
+2.25 O
+
+Men O
+'s O
+800 O
+metres O
+
+1. O
+Verbjorn I
+Rodal I
+( O
+Norway I
+) O
+1:44.93 O
+
+2. O
+Benson I
+Koech I
+( O
+Kenya I
+) O
+1:45.96 O
+
+3. O
+Vincent I
+Malakwen I
+( O
+Kenya I
+) O
+1:46.18 O
+
+Men O
+'s O
+mile O
+
+1. O
+William I
+Tanui I
+( O
+Kenya I
+) O
+3:54.57 O
+
+2. O
+John I
+Mayock I
+( O
+Britain I
+) O
+3:54.60 O
+
+3. O
+Tony I
+Whiteman I
+( O
+Britain I
+) O
+3:54.87 O
+
+Men O
+'s O
+400 O
+metres O
+
+1. O
+Roger I
+Black I
+( O
+Britain I
+) O
+45.05 O
+
+2. O
+Mark I
+Richardson I
+( O
+Britain I
+) O
+45.38 O
+
+3. O
+Derek I
+Mills I
+( O
+U.S. I
+) O
+45.48 O
+
+Men O
+'s O
+100 O
+metres O
+
+1. O
+Osmond I
+Ezinwa I
+( O
+Nigeria I
+) O
+10.06 O
+
+2. O
+Ian I
+Mackie I
+( O
+Britain I
+) O
+10.17 O
+
+3. O
+Linford I
+Christie I
+( O
+Britain I
+) O
+10.19 O
+

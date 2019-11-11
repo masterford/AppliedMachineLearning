@@ -1,0 +1,148 @@
+-DOCSTART- O
+
+First I
+Alliance I
+net O
+income O
+slips O
+. O
+
+IRVINE I
+, O
+Calif. I
+1996-08-29 O
+
+First I
+Alliance I
+Corporation I
+and I
+Subsidiaries I
+
+Quarter O
+ended O
+June O
+30 O
+Six O
+Months O
+ended O
+June O
+30 O
+
+1996 O
+1995 O
+1996 O
+1995 O
+
+Unaudited O
+
+Total O
+revenue O
+
+17,024,000 O
+18,174,000 O
+31,834,000 O
+24,137,000 O
+
+Total O
+expense O
+
+7,718,000 O
+6,828,000 O
+14,668,000 O
+13,091,000 O
+
+Net O
+Income O
+9,167,000 O
+11,175,000 O
+16,909,000 O
+10,880,000 O
+
+Net O
+Income O
+Per O
+
+Share O
+0.86 O
+1.05 O
+1.59 O
+1.02 O
+
+Weighted O
+average O
+number O
+of O
+
+shares O
+outstanding O
+
+10,650,407 O
+10,650,407 O
+10,650,407 O
+10,650,407 O
+
+Pro O
+Forma O
+: O
+
+Historical O
+income O
+before O
+income O
+
+tax O
+provision O
+
+9,306,000 O
+11,346,000 O
+17,166,000 O
+11,046,000 O
+
+Pro O
+forma O
+income O
+tax O
+
+provision O
+3,820,000 O
+4,658,000 O
+7,047,000 O
+4,534,000 O
+
+Pro O
+forma O
+net O
+
+income O
+5,486,000 O
+6,688,000 O
+10,119,000 O
+6,512,000 O
+
+Pro O
+forma O
+net O
+income O
+
+per O
+share O
+0.37 O
+0.45 O
+0.68 O
+0.44 O
+
+Pro O
+forma O
+weighted O
+average O
+
+number O
+of O
+shares O
+
+outstanding O
+14,775,000 O
+14,775,000 O
+14,775,000 O
+14,775,000 O
+

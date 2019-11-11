@@ -1,0 +1,121 @@
+-DOCSTART- O
+
+FSA I
+qualifies O
+five O
+muni O
+bond O
+issues O
+for O
+insurance O
+. O
+
+NEW I
+YORK I
+1996-08-28 O
+
+Financial I
+Security I
+Assurance I
+said O
+Wednesday O
+it O
+qualified O
+for O
+bond O
+insurance O
+the O
+following O
+five O
+municipal O
+issues O
+scheduled O
+for O
+competitive O
+sale O
+today O
+: O
+
+-- O
+Paris I
+School O
+District O
+No O
+7 O
+, O
+Ark I
+. O
+
+, O
+$ O
+2.44 O
+million O
+refunding O
+bonds O
+. O
+
+-- O
+St I
+Ansgar I
+Community O
+School O
+District O
+, O
+Iowa I
+, O
+$ O
+3.334 O
+million O
+general O
+obligation O
+school O
+bonds O
+. O
+
+-- O
+Avalon I
+Borough I
+, O
+N.J. I
+, O
+$ O
+11.4 O
+million O
+GOs O
+. O
+
+-- O
+Seaford I
+Union I
+Free O
+School O
+District O
+, O
+N.Y. I
+, O
+$ O
+5 O
+million O
+school O
+bonds O
+. O
+
+-- O
+Akron I
+, O
+Ohio I
+, O
+$ O
+6.31 O
+million O
+improvement O
+bonds O
+. O
+
+-- O
+U.S. I
+Municipal I
+Desk I
+, O
+212-859-1650 O
+

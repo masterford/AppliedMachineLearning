@@ -1,0 +1,85 @@
+-DOCSTART- O
+
+Colo I
+. I
+
+taxable O
+health O
+deal O
+rated O
+Aa2 O
+/ O
+VMIG-1 O
+- O
+Moody I
+'s I
+. O
+
+NEW I
+YORK I
+1996-08-28 O
+
+Moody I
+'s I
+Investors I
+Service I
+- O
+
+Rating O
+Announcement O
+As O
+of O
+08/26/96 O
+. O
+
+Issuer O
+: O
+Colorado I
+Health I
+Fac I
+. I
+
+Auth I
+. I
+
+National I
+
+Benevolent I
+Assoc I
+. I
+
+- O
+Colorado I
+Christian I
+Home I
+
+Proj O
+. O
+
+Series O
+1996 O
+B O
+Taxable O
+
+State O
+: O
+CO I
+
+Rating O
+: O
+Aa2 O
+/ O
+VMIG O
+1 O
+
+Sale O
+Amount O
+: O
+4,300,000 O
+
+Expected O
+Sale O
+Date O
+: O
+08/26/96 O
+

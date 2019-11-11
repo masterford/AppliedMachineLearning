@@ -1,0 +1,320 @@
+-DOCSTART- O
+
+CRICKET O
+- O
+ENGLAND I
+V O
+PAKISTAN I
+FINAL O
+TEST O
+SCOREBOARD O
+. O
+
+LONDON I
+1996-08-26 O
+
+Scoreboard O
+on O
+the O
+last O
+day O
+of O
+the O
+
+third O
+and O
+final O
+test O
+between O
+England I
+and O
+Pakistan I
+at O
+the O
+Oval I
+on O
+
+Monday O
+: O
+
+England I
+first O
+innings O
+326 O
+( O
+J. I
+Crawley I
+106 O
+, O
+G. I
+Thorpe I
+54 O
+; O
+Waqar I
+
+Younis I
+4-95 O
+) O
+
+Pakistan I
+first O
+innings O
+521-8 O
+declared O
+( O
+Saeed I
+Anwar I
+176 O
+, O
+
+Salim I
+Malik I
+100 O
+not O
+out O
+, O
+Ijaz I
+Ahmed I
+61 O
+) O
+
+England I
+second O
+innings O
+( O
+overnight O
+74-0 O
+) O
+
+M. I
+Atherton I
+c O
+Inzamam-ul-Haq I
+b O
+Mushtaq I
+Ahmed I
+43 O
+
+A. I
+Stewart I
+c O
+Asif I
+Mujtaba I
+b O
+Mushtaq I
+Ahmed I
+54 O
+
+N. I
+Hussain I
+lbw O
+b O
+Mushtaq I
+Ahmed I
+51 O
+
+G. I
+Thorpe I
+c O
+Wasim I
+Akram I
+b O
+Mushtaq I
+Ahmed I
+9 O
+
+J. I
+Crawley I
+c O
+Aamir I
+Sohail I
+b O
+Wasim I
+Akram I
+19 O
+
+N. I
+Knight I
+c O
+and O
+b O
+Mushtaq I
+Ahmed I
+8 O
+
+C. I
+Lewis I
+lbw O
+b O
+Waqar I
+Younis I
+4 O
+
+D. I
+Cork I
+b O
+Mushtaq I
+Ahmed I
+26 O
+
+R. I
+Croft I
+c O
+Ijaz I
+Ahmed I
+b O
+Wasim I
+Akram I
+6 O
+
+I. I
+Salisbury I
+not O
+out O
+0 O
+
+A. I
+Mullally I
+b O
+Wasim I
+Akram I
+0 O
+
+Extras O
+( O
+b-6 O
+lb-2 O
+w-1 O
+nb-13 O
+) O
+22 O
+
+Total O
+242 O
+
+Fall O
+of O
+wickets O
+: O
+1-96 O
+2-136 O
+3-166 O
+4-179 O
+5-187 O
+6-205 O
+7-220 O
+
+8-238 O
+9-242 O
+
+Bowling O
+: O
+Wasim I
+Akram I
+15.4-1-67-3 O
+, O
+Waqar I
+Younis I
+18-3-55-1 O
+, O
+
+Mushtaq I
+Ahmed I
+37-10-78-6 O
+, O
+Aamir I
+Sohail I
+2-1-4-0 O
+, O
+Mohammad I
+Akram I
+
+10-3-30-0 O
+
+Pakistan I
+second O
+innings O
+
+Saeed I
+Anwar I
+c O
+Knight I
+b O
+Mullally I
+1 O
+
+Aamir I
+Sohail I
+not O
+out O
+29 O
+
+Ijaz I
+Ahmed I
+not O
+out O
+13 O
+
+Extras O
+( O
+nb-5 O
+) O
+5 O
+
+Total O
+( O
+for O
+one O
+wicket O
+) O
+48 O
+
+Fall O
+of O
+wicket O
+: O
+1-7 O
+
+Bowling O
+: O
+Cork I
+3-0-15-0 O
+, O
+Mullally I
+3-0-24-1 O
+, O
+Croft I
+0.4-0-9-0 O
+
+Result O
+: O
+Pakistan I
+won O
+by O
+9 O
+wickets O
+
+First O
+test O
+: O
+Lord I
+'s I
+- O
+Pakistan I
+won O
+by O
+164 O
+runs O
+
+Second O
+test O
+: O
+Headingley I
+- O
+Drawn O
+
+Pakistan I
+win O
+series O
+2-0 O
+

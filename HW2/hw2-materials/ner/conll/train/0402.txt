@@ -1,0 +1,140 @@
+-DOCSTART- O
+
+RALLYING O
+- O
+1,000 I
+LAKES I
+RALLY I
+RESULT O
+/ O
+WORLD O
+CHAMPIONSHIP O
+STANDINGS O
+. O
+
+JYVASKLYA I
+, O
+Finland I
+1996-08-26 O
+
+Result O
+of O
+the O
+1,000 I
+
+Lakes I
+Rally I
+which O
+ended O
+on O
+Monday O
+: O
+
+1. O
+Tommi I
+Makinen I
+( O
+Finland I
+) O
+Mitsubishi I
+Lancer I
+4 O
+hours O
+4 O
+minutes O
+
+13 O
+seconds O
+
+2. O
+Juha I
+Kankkunen I
+( O
+Finland I
+) O
+Toyota I
+Celica I
+46 O
+seconds O
+behind O
+
+3. O
+Jarmo I
+Kytolehto I
+( O
+Finland I
+) O
+Ford I
+Escort I
+2:37 O
+
+4. O
+Marcus I
+Gronholm I
+( O
+Finland I
+) O
+Toyota I
+Celica I
+2:42 O
+
+5. O
+Kenneth I
+Eriksson I
+( O
+Sweden I
+) O
+Subaru I
+Impreza I
+3:22 O
+
+6. O
+Thomas I
+Radstrom I
+( O
+Sweden I
+) O
+Toyota I
+Celica I
+4.09 O
+
+7. O
+Sebastian I
+Lindholm I
+( O
+Finland I
+) O
+Ford I
+Escort I
+5:17 O
+
+8. O
+Lasse I
+Lampi I
+( O
+Finland I
+) O
+Mitsubishi I
+Lancer I
+12:01 O
+
+9. O
+Rui I
+Madeira I
+( O
+Portugal I
+) O
+Toyota I
+Celica I
+16:34 O
+
+10. O
+Angelo I
+Medeghini I
+( O
+Italy I
+) O
+Subaru I
+Impreza I
+18:28 O
+

@@ -1,0 +1,151 @@
+-DOCSTART- O
+
+BASEBALL O
+- O
+RESULTS O
+OF O
+S. I
+KOREAN I
+PRO-BASEBALL O
+GAMES O
+. O
+
+SEOUL I
+1996-08-25 O
+
+Results O
+of O
+South I
+Korean I
+
+pro-baseball O
+games O
+played O
+on O
+Saturday O
+. O
+
+Haitai I
+10 O
+Hanwha I
+4 O
+
+Hyundai I
+5 O
+Samsung I
+4 O
+
+Ssangbangwool I
+4 O
+LG I
+1 O
+
+OB I
+1 O
+Lotte I
+1 O
+
+Lotte I
+1 O
+OB I
+0* O
+
+*Note O
+- O
+OB I
+and O
+Lotte I
+played O
+two O
+games O
+. O
+
+Standings O
+after O
+games O
+played O
+on O
+Saturday O
+( O
+won O
+, O
+drawn O
+, O
+lost O
+, O
+
+winning O
+percentage O
+, O
+games O
+behind O
+first O
+place O
+) O
+
+W O
+D O
+L O
+PCT O
+GB O
+
+Haitai I
+63 O
+2 O
+40 O
+.610 O
+- O
+
+Ssangbangwool I
+57 O
+2 O
+47 O
+.547 O
+6 O
+1/2 O
+
+Hyundai I
+55 O
+5 O
+47 O
+.537 O
+7 O
+1/2 O
+
+Hanwha I
+55 O
+1 O
+48 O
+.534 O
+8 O
+
+Samsung I
+47 O
+5 O
+54 O
+.467 O
+15 O
+
+Lotte I
+44 O
+6 O
+52 O
+.461 O
+15 O
+1/2 O
+
+LG I
+44 O
+5 O
+57 O
+.439 O
+18 O
+
+OB I
+40 O
+6 O
+60 O
+.406 O
+21 O
+1/2 O
+

@@ -1,0 +1,154 @@
+-DOCSTART- O
+
+BALANCE-Water I
+Dist I
+1 I
+Johnson I
+Cty I
+, O
+Kan I
+. O
+
+, O
+at O
+$ O
+11 O
+mln O
+. O
+
+WATER I
+DISTRICT I
+1 I
+OF O
+JOHNSON I
+CO I
+. O
+
+, O
+KS I
+
+RE O
+: O
+$ O
+45,020,000 O
+
+WATER O
+REVENUE O
+BONDS O
+
+$ O
+22,040,000 O
+SER O
+. O
+
+1996A O
+
+$ O
+22,980,000 O
+RFDG O
+, O
+SER O
+. O
+
+1996B O
+
+MOODY I
+'S I
+: O
+Aa O
+S&P I
+: O
+AA+ O
+
+Delivery O
+Date O
+: O
+09/05/1996 O
+( O
+FIRM O
+) O
+
+06/01 O
+12/01 O
+
+MATURITY O
+SER O
+A O
+SER O
+B O
+SER O
+A O
+SER O
+B O
+
+------------------------------------------------------------- O
+
+1998 O
+665M O
+840M O
+570M O
+
+2000 O
+- O
+- O
+605M O
+
+2001 O
+- O
+70M O
+- O
+
+2002 O
+- O
+895M O
+600M O
+
+2003 O
+705M O
+- O
+795M O
+
+2004 O
+655M O
+90M O
+965M O
+
+2009 O
+65M O
+- O
+- O
+
+2010 O
+60M O
+- O
+100M O
+
+2011 O
+30M O
+- O
+90M O
+
+2012 O
+20M O
+- O
+35M O
+
+TOTAL O
+: O
+11,450 O
+
+A.G. I
+Edwards I
+& I
+Sons I
+, I
+Inc I
+. O
+
+-- O
+U.S. I
+Municipal I
+Desk I
+, O
+212-859-1650 O
+

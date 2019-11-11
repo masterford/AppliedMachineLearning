@@ -1,0 +1,81 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+POLISH I
+FIRST O
+DIVISION O
+RESULTS O
+. O
+
+WARSAW I
+1996-08-24 O
+
+Results O
+of O
+Polish I
+first O
+division O
+
+soccer O
+matches O
+on O
+Saturday O
+: O
+
+Amica I
+Wronki I
+3 O
+Hutnik I
+Krakow I
+0 O
+
+Sokol I
+Tychy I
+5 O
+Lech I
+Poznan I
+3 O
+
+Rakow I
+Czestochowa I
+1 O
+Stomil I
+Olsztyn I
+4 O
+
+Wisla I
+Krakow I
+1 O
+Gornik I
+Zabrze I
+0 O
+
+Slask I
+Wroclaw I
+3 O
+Odra I
+Wodzislaw I
+1 O
+
+GKS I
+Katowice I
+1 O
+Polonia I
+Warsaw I
+0 O
+
+Zaglebie I
+Lubin I
+2 O
+LKS I
+Lodz I
+1 O
+
+Legia I
+Warsaw I
+3 O
+GKS I
+Belchatow I
+2 O
+

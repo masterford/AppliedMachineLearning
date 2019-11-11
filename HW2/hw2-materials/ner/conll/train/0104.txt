@@ -1,0 +1,165 @@
+-DOCSTART- O
+
+German I
+flown O
+cargo O
+January-July O
+rise O
+3.8 O
+percent O
+. O
+
+FRANKFURT I
+1996-08-22 O
+
+The O
+following O
+table O
+shows O
+total O
+flown O
+air O
+cargo O
+volumes O
+in O
+tonnes O
+handled O
+at O
+international O
+German I
+airports O
+January-July O
+1996 O
+. O
+
+The O
+figures O
+exclude O
+trucked O
+airfreight O
+according O
+to O
+the O
+German I
+airports O
+association O
+ADV I
+. O
+
+Berlin I
+( O
+total O
+) O
+17,844 O
+up O
+5.9 O
+pct O
+
+- O
+Tegel I
+10,896 O
+up O
+3.1 O
+
+- O
+Tempelhof I
+202 O
+down O
+60.0 O
+
+- O
+Schoenefeld I
+6,746 O
+up O
+16.8 O
+
+Bremen I
+1,453 O
+up O
+13.1 O
+
+Dresden I
+792 O
+up O
+11.4 O
+
+Duessseldorf I
+31,347 O
+down O
+4.4 O
+
+Frankfurt I
+768,269 O
+up O
+1.5 O
+
+Hamburg I
+21,240 O
+down O
+3.5 O
+
+Hannover I
+6,030 O
+up O
+15.3 O
+
+Koeln I
+( O
+Cologne I
+) O
+182,887 O
+up O
+11.8 O
+
+Leipzig I
+/ O
+Halle I
+1,806 O
+up O
+45.6 O
+
+Munich I
+44,525 O
+up O
+11.8 O
+
+Muenster I
+/ O
+Osnabrueck I
+382 O
+up O
+28.2 O
+
+Nuremberg I
+25,929 O
+up O
+17.8 O
+
+Saarbruecken I
+626 O
+up O
+28.3 O
+
+Stuttgart I
+10,655 O
+up O
+11.7 O
+
+TOTAL O
+1,113,785 O
+up O
+3.8 O
+
+- O
+Air I
+Cargo I
+Newsroom I
+Tel+44 O
+161 O
+542 O
+7706 O
+Fax+44 O
+171 O
+542 O
+5017 O
+

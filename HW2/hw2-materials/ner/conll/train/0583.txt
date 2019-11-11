@@ -1,0 +1,93 @@
+-DOCSTART- O
+
+Birmingham I
+Public I
+Park I
+, O
+Ala I
+. O
+
+, O
+Aa3 O
+/ O
+VMIG-1 O
+- O
+Moody I
+'s I
+. O
+
+NEW I
+YORK I
+1996-08-27 O
+
+Moody I
+'s I
+Investors I
+Service I
+- O
+
+Rating O
+Announcement O
+As O
+of O
+08/23/96 O
+. O
+
+Issuer O
+: O
+Birmingham I
+Public I
+Park I
+& I
+Rec I
+. O
+
+Bd O
+. O
+
+Revenue O
+
+ref O
+. O
+
+( O
+YMCA I
+Proj O
+. O
+
+) O
+ser O
+. O
+' O
+
+96 O
+
+State O
+: O
+AL I
+
+Rating O
+: O
+Aa3 O
+/ O
+VMIG O
+1 O
+
+Sale O
+Amount O
+: O
+3,390,000 O
+
+Expected O
+Sale O
+Date O
+: O
+08/28/96 O
+
+-- O
+U.S. I
+Municipal I
+Desk I
+, O
+212-859-1650 O
+

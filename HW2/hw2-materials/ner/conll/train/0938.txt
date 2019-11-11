@@ -1,0 +1,65 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+AUSTRIA I
+BEAT O
+SCOTLAND I
+4-0 O
+IN O
+EUROPEAN I
+UNDER-21 O
+MATCH O
+. O
+
+AMSTETTEN I
+, O
+Austria I
+1996-08-30 O
+
+Austria I
+beat O
+Scotland I
+4-0 O
+( O
+halftime O
+3-0 O
+) O
+in O
+a O
+European I
+under-21 O
+championship O
+match O
+on O
+Friday O
+. O
+
+Scorers O
+: O
+Ewald I
+Brenner I
+( O
+5th O
+minute O
+) O
+, O
+Mario I
+Stieglmair I
+( O
+42nd O
+) O
+, O
+Ronald I
+Brunmayr I
+( O
+43rd O
+and O
+56th O
+) O
+. O
+
+Attendance O
+: O
+800 O
+

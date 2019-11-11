@@ -1,0 +1,44 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+ENGLISH I
+PREMIER O
+LEAGUE O
+SUMMARY O
+. O
+
+LONDON I
+1996-08-26 O
+
+Summary O
+of O
+Monday O
+'s O
+English I
+
+premier O
+league O
+soccer O
+match O
+: O
+
+Leeds I
+1 O
+( O
+Sharpe I
+58th O
+minute O
+) O
+Wimbledon I
+0 O
+. O
+
+Halftime O
+0-0 O
+. O
+
+Attendance O
+25,860 O
+. O
+

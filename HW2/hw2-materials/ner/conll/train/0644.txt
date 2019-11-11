@@ -1,0 +1,294 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+ENGLISH I
+FIRST O
+DIVISION O
+RESULTS O
+/ O
+STANDINGS O
+. O
+
+LONDON I
+1996-08-28 O
+
+Results O
+of O
+English I
+first O
+division O
+
+soccer O
+matches O
+on O
+Wednesday O
+: O
+
+Barnsley I
+3 O
+Reading I
+0 O
+
+Stoke I
+1 O
+Bradford I
+0 O
+
+Swindon I
+1 O
+Oldham I
+0 O
+
+Wolverhampton I
+1 O
+Queens I
+Park I
+Rangers I
+1 O
+
+Standings O
+( O
+tabulated O
+under O
+played O
+, O
+won O
+, O
+drawn O
+, O
+lost O
+, O
+goals O
+
+for O
+, O
+against O
+, O
+points O
+) O
+: O
+
+Barnsley I
+3 O
+3 O
+0 O
+0 O
+8 O
+2 O
+9 O
+
+Stoke I
+3 O
+3 O
+0 O
+0 O
+5 O
+2 O
+9 O
+
+Tranmere I
+3 O
+2 O
+1 O
+0 O
+6 O
+3 O
+7 O
+
+Bolton I
+3 O
+2 O
+1 O
+0 O
+5 O
+2 O
+7 O
+
+Wolverhampton I
+3 O
+2 O
+1 O
+0 O
+5 O
+2 O
+7 O
+
+Queens I
+Park I
+Rangers I
+3 O
+2 O
+1 O
+0 O
+5 O
+3 O
+7 O
+
+Norwich I
+3 O
+2 O
+0 O
+1 O
+4 O
+3 O
+6 O
+
+Ipswich I
+3 O
+1 O
+1 O
+1 O
+6 O
+4 O
+4 O
+
+Birmingham I
+2 O
+1 O
+1 O
+0 O
+5 O
+4 O
+4 O
+
+Crystal I
+Palace I
+3 O
+1 O
+1 O
+1 O
+3 O
+2 O
+4 O
+
+Swindon I
+3 O
+1 O
+1 O
+1 O
+2 O
+3 O
+4 O
+
+Oxford I
+3 O
+1 O
+0 O
+2 O
+6 O
+3 O
+3 O
+
+Bradford I
+3 O
+1 O
+0 O
+2 O
+3 O
+3 O
+3 O
+
+Huddersfield I
+2 O
+1 O
+0 O
+1 O
+3 O
+3 O
+3 O
+
+Portsmouth I
+3 O
+1 O
+0 O
+2 O
+3 O
+5 O
+3 O
+
+Reading I
+3 O
+1 O
+0 O
+2 O
+3 O
+8 O
+3 O
+
+Man I
+City I
+3 O
+1 O
+0 O
+2 O
+2 O
+3 O
+3 O
+
+West I
+Bromwich I
+3 O
+0 O
+2 O
+1 O
+2 O
+3 O
+2 O
+
+Port I
+Vale I
+3 O
+0 O
+2 O
+1 O
+2 O
+4 O
+2 O
+
+Sheffield I
+United I
+2 O
+0 O
+1 O
+1 O
+4 O
+5 O
+1 O
+
+Grimsby I
+3 O
+0 O
+1 O
+2 O
+4 O
+7 O
+1 O
+
+Charlton I
+2 O
+0 O
+1 O
+1 O
+1 O
+3 O
+1 O
+
+Southend I
+3 O
+0 O
+1 O
+2 O
+1 O
+7 O
+1 O
+
+Oldham I
+3 O
+0 O
+0 O
+3 O
+2 O
+6 O
+0 O
+

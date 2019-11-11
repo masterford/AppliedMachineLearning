@@ -1,0 +1,211 @@
+-DOCSTART- O
+
+CRICKET O
+- O
+ENGLISH I
+COUNTY I
+CHAMPIONSHIP I
+STANDINGS O
+. O
+
+LONDON I
+1996-08-26 O
+
+English I
+County I
+Championship I
+
+cricket O
+standings O
+after O
+Monday O
+'s O
+matches O
+( O
+tabulated O
+under O
+
+played O
+, O
+won O
+, O
+lost O
+, O
+drawn O
+, O
+batting O
+bonus O
+points O
+, O
+bowling O
+bonus O
+
+points O
+, O
+total O
+points O
+) O
+: O
+
+Essex I
+13 O
+7 O
+2 O
+4 O
+45 O
+43 O
+212 O
+
+Kent I
+14 O
+7 O
+1 O
+6 O
+42 O
+40 O
+212 O
+
+Derbyshire I
+13 O
+7 O
+2 O
+4 O
+41 O
+43 O
+208 O
+
+Leicestershire I
+13 O
+6 O
+1 O
+6 O
+43 O
+45 O
+202 O
+
+Surrey I
+13 O
+6 O
+1 O
+6 O
+37 O
+48 O
+199 O
+
+Yorkshire I
+14 O
+6 O
+5 O
+3 O
+41 O
+46 O
+192 O
+
+Warwickshire I
+13 O
+6 O
+4 O
+3 O
+32 O
+43 O
+180 O
+
+Middlesex I
+13 O
+5 O
+5 O
+3 O
+26 O
+45 O
+160 O
+
+Sussex I
+13 O
+5 O
+6 O
+2 O
+27 O
+43 O
+156 O
+
+Somerset I
+13 O
+4 O
+5 O
+4 O
+27 O
+49 O
+152 O
+
+Worcestershire I
+13 O
+3 O
+3 O
+7 O
+33 O
+48 O
+150 O
+
+Glamorgan I
+13 O
+4 O
+5 O
+4 O
+36 O
+32 O
+144 O
+
+Hampshire I
+13 O
+3 O
+5 O
+5 O
+28 O
+46 O
+137 O
+
+Gloucestershire I
+14 O
+3 O
+6 O
+5 O
+19 O
+47 O
+129 O
+
+Northamptonshire I
+13 O
+2 O
+6 O
+5 O
+30 O
+43 O
+120 O
+
+Lancashire I
+13 O
+1 O
+4 O
+8 O
+38 O
+37 O
+115 O
+
+Nottinghamshire I
+13 O
+1 O
+6 O
+6 O
+34 O
+40 O
+108 O
+
+Durham I
+14 O
+0 O
+9 O
+5 O
+22 O
+50 O
+87 O
+

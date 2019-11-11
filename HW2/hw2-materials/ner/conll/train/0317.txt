@@ -1,0 +1,239 @@
+-DOCSTART- O
+
+MOTOR O
+RACING O
+- O
+BELGIAN I
+GRAND I
+PRIX I
+RESULT O
+. O
+
+SPA-FRANCORCHAMPS I
+, O
+Belgium I
+1996-08-25 O
+
+Result O
+of O
+
+Sunday O
+'s O
+Belgian I
+Grand I
+Prix I
+motor O
+race O
+: O
+
+1. O
+Michael I
+Schumacher I
+( O
+Germany I
+) O
+Ferrari I
+1 O
+hour O
+28 O
+minutes O
+
+15.125 O
+seconds O
+( O
+average O
+speed O
+208.442 O
+kph O
+) O
+
+2. O
+Jacques I
+Villeneuve I
+( O
+Canada I
+) O
+Williams I
+5.602 O
+seconds O
+
+behind O
+
+3. O
+Mika I
+Hakkinen I
+( O
+Finland I
+) O
+McLaren I
+15.710 O
+
+4. O
+Jean I
+Alesi I
+( O
+France I
+) O
+Benetton I
+19.125 O
+
+5. O
+Damon I
+Hill I
+( O
+Britain I
+) O
+Williams I
+29.179 O
+
+6. O
+Gerhard I
+Berger I
+( O
+Austria I
+) O
+Benetton I
+29.896 O
+
+7. O
+Mika I
+Salo I
+( O
+Finland I
+) O
+Tyrrell I
+1:00.754 O
+
+8. O
+Ukyo I
+Katayama I
+( O
+Japan I
+) O
+Tyrrell I
+1:40.227 O
+
+9. O
+Ricardo I
+Rosset I
+( O
+Brazil I
+) O
+Arrows I
+one O
+lap O
+
+10. O
+Pedro I
+Lamy I
+( O
+Portugal I
+) O
+Minardi I
+one O
+lap O
+
+Did O
+not O
+finish O
+: O
+
+11. O
+David I
+Coulthard I
+( O
+Britain I
+) O
+McLaren I
+37 O
+laps O
+completed O
+
+12. O
+Martin I
+Brundle I
+( O
+Britain I
+) O
+Jordan I
+34 O
+
+13. O
+Eddie I
+Irvine I
+( O
+Britain I
+) O
+Ferrari I
+29 O
+
+14. O
+Rubens I
+Barrichello I
+( O
+Brazil I
+) O
+Jordan I
+29 O
+
+15. O
+Pedro I
+Diniz I
+( O
+Brazil I
+) O
+Ligier I
+22 O
+
+16. O
+Jos I
+Verstappen I
+( O
+Netherland I
+) O
+Arrows I
+11 O
+
+Did O
+not O
+start O
+( O
+failed O
+to O
+complete O
+one O
+lap O
+) O
+: O
+
+Olivier I
+Panis I
+( O
+France I
+) O
+Ligier I
+
+Johnny I
+Herbert I
+( O
+Britain I
+) O
+Sauber I
+
+Heinz-Harald I
+Frentzen I
+( O
+Germany I
+) O
+Sauber I
+
+Fastest O
+lap O
+: O
+Berger I
+1:53.067 O
+( O
+221.857 O
+kph O
+) O
+

@@ -1,0 +1,427 @@
+-DOCSTART- O
+
+MOTORCYCLING O
+- O
+WORLD O
+SUPERBIKE O
+CHAMPIONSHIP O
+RESULTS O
+. O
+
+SUGO I
+, O
+Japan I
+1996-08-25 O
+
+Leading O
+results O
+from O
+round O
+
+nine O
+of O
+the O
+superbike O
+world O
+championship O
+on O
+Sunday O
+: O
+
+First O
+race O
+
+1. O
+Yuuchi I
+Takeda I
+( O
+Japan I
+) O
+Honda I
+38 O
+minutes O
+30.054 O
+seconds O
+
+2. O
+Noriyuki I
+Haga I
+( O
+Japan I
+) O
+Yamaha I
+38:30.140 O
+
+3. O
+Wataru I
+Yoshikawa I
+( O
+Japan I
+) O
+Yamaha I
+38:32.353 O
+
+4. O
+Troy I
+Corser I
+( O
+Australia I
+) O
+Ducati I
+38:34.436 O
+
+5. O
+John I
+Kocinski I
+( O
+U.S. I
+) O
+Ducati I
+38:36.306 O
+
+6. O
+Aaron I
+Slight I
+( O
+New I
+Zealand I
+) O
+Honda I
+38:41.756 O
+
+7. O
+Norihiko I
+Fujiwara I
+( O
+Japan I
+) O
+Yamaha I
+38:43.253 O
+
+8. O
+Carl I
+Fogarty I
+( O
+Britain I
+) O
+Honda I
+38:49.595 O
+
+9. O
+Akira I
+Ryo I
+( O
+Japan I
+) O
+Kawasaki I
+38:50.269 O
+
+10. O
+Shiya I
+Takeishi I
+( O
+Japan I
+) O
+Kawasaki I
+38:52.271 O
+
+Fastest O
+lap O
+: O
+Haga I
+147.159 O
+kph O
+. O
+
+Second O
+race O
+
+1. O
+Takuma I
+Aoki I
+( O
+Japan I
+) O
+Honda I
+38:18.759 O
+
+2. O
+Kocinski I
+38:19.313 O
+
+3. O
+Haga I
+38:32.040 O
+
+4. O
+Slight I
+38:32.149 O
+
+5. O
+Fogarty I
+38:32.719 O
+
+6. O
+Fujiwara I
+38:33.595 O
+
+7. O
+Ryo I
+38:34.682 O
+
+8. O
+Takeishi I
+38:34.999 O
+
+9. O
+Yoshikawa I
+38:35.297 O
+
+10. O
+Corser I
+38:42.015 O
+
+Fastest O
+lap O
+: O
+Aoki I
+147.786 O
+kph O
+
+World O
+championship O
+standings O
+( O
+after O
+nine O
+rounds O
+) O
+: O
+
+1. O
+Slight I
+280 O
+points O
+
+2. O
+Corser I
+269 O
+
+3. O
+Kocinski I
+254 O
+
+4. O
+Fogarty I
+236 O
+
+5. O
+Colin I
+Edwards I
+( O
+U.S. I
+) O
+Yamaha I
+176 O
+
+6. O
+Pier I
+Francesco I
+Chili I
+( O
+Italy I
+) O
+Ducati I
+175 O
+
+7. O
+Simon I
+Crafar I
+( O
+New I
+Zealand I
+) O
+Kawasaki I
+132 O
+
+8. O
+Anthony I
+Gobert I
+( O
+Australia I
+) O
+Kawasaki I
+117 O
+
+9. O
+Yoshikawa I
+107 O
+
+10. O
+Neil I
+Hodgson I
+( O
+Britain I
+) O
+Ducati I
+82 O
+
+Revised O
+placings O
+for O
+second O
+race O
+after O
+the O
+disqualification O
+
+of O
+Japanese I
+rider O
+Noriyuki I
+Haga I
+for O
+using O
+an O
+illegal O
+carburettor O
+
+part O
+: O
+
+1. O
+Takuma I
+Aoki I
+( O
+Japan I
+) O
+Honda I
+38:18.759 O
+
+2. O
+Kocinski I
+38:19.313 O
+
+3. O
+Slight I
+38:32.149 O
+
+4. O
+Fogarty I
+38:32.719 O
+
+5. O
+Fujiwara I
+38:33.595 O
+
+6. O
+Ryo I
+38:34.682 O
+
+7. O
+Takeishi I
+38:34.999 O
+
+8. O
+Yoshikawa I
+38:35.297 O
+
+9. O
+Corser I
+38:42.015 O
+
+10. O
+Keiichi I
+Kitigawa I
+( O
+Japan I
+) O
+Suzuki I
+38:42.333 O
+
+Fastest O
+lap O
+: O
+Aoki I
+147.786 O
+kph O
+
+Revised O
+world O
+championship O
+standings O
+( O
+after O
+nine O
+rounds O
+) O
+: O
+
+1. O
+Slight I
+283 O
+points O
+
+2. O
+Corser I
+270 O
+
+3. O
+Kocinski I
+254 O
+
+4. O
+Fogarty I
+238 O
+
+5. O
+Colin I
+Edwards I
+( O
+U.S. I
+) O
+Yamaha I
+176 O
+
+6. O
+Pier I
+Francesco I
+Chili I
+( O
+Italy I
+) O
+Ducati I
+175 O
+
+7. O
+Simon I
+Crafar I
+( O
+New I
+Zealand I
+) O
+Kawasaki I
+133 O
+
+8. O
+Anthony I
+Gobert I
+( O
+Australia I
+) O
+Kawasaki I
+117 O
+
+9. O
+Yoshikawa I
+108 O
+
+10. O
+Neil I
+Hodgson I
+( O
+Britain I
+) O
+Ducati I
+82 O
+

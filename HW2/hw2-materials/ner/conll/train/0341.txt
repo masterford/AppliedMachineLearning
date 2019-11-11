@@ -1,0 +1,294 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+POLISH I
+FIRST O
+DIVISION O
+RESULTS O
+/ O
+STANDINGS O
+. O
+
+WARSAW I
+1996-08-25 O
+
+Results O
+of O
+Polish I
+first O
+division O
+
+soccer O
+matches O
+played O
+over O
+the O
+weekend O
+: O
+
+Amica I
+Wronki I
+3 O
+Hutnik I
+Krakow I
+0 O
+
+Sokol I
+Tychy I
+5 O
+Lech I
+Poznan I
+3 O
+
+Rakow I
+Czestochowa I
+1 O
+Stomil I
+Olsztyn I
+4 O
+
+Wisla I
+Krakow I
+1 O
+Gornik I
+Zabrze I
+0 O
+
+Slask I
+Wroclaw I
+3 O
+Odra I
+Wodzislaw I
+1 O
+
+GKS I
+Katowice I
+1 O
+Polonia I
+Warsaw I
+0 O
+
+Zaglebie I
+Lubin I
+2 O
+LKS I
+Lodz I
+1 O
+
+Legia I
+Warsaw I
+3 O
+GKS I
+Belchatow I
+2 O
+
+Widzew I
+Lodz I
+3 O
+Ruch I
+Chorzow I
+0 O
+
+Standings O
+( O
+tabulate O
+under O
+played O
+, O
+won O
+, O
+drawn O
+, O
+lost O
+, O
+goals O
+
+for O
+, O
+against O
+, O
+points O
+) O
+: O
+
+Amica I
+Wronki I
+7 O
+5 O
+1 O
+1 O
+13 O
+8 O
+16 O
+
+Legia I
+Warsaw I
+7 O
+5 O
+1 O
+1 O
+13 O
+7 O
+16 O
+
+Lech I
+Poznan I
+7 O
+5 O
+0 O
+2 O
+12 O
+9 O
+15 O
+
+Widzew I
+Lodz I
+7 O
+4 O
+2 O
+1 O
+13 O
+3 O
+14 O
+
+GKS I
+Katowice I
+7 O
+4 O
+2 O
+1 O
+12 O
+9 O
+14 O
+
+Sokol I
+Tychy I
+7 O
+4 O
+0 O
+3 O
+14 O
+15 O
+12 O
+
+Odra I
+Wodzislaw I
+7 O
+3 O
+1 O
+3 O
+13 O
+10 O
+10 O
+
+Slask I
+Wroclaw I
+7 O
+3 O
+1 O
+3 O
+8 O
+7 O
+10 O
+
+Polonia I
+Warsaw I
+7 O
+3 O
+1 O
+3 O
+7 O
+9 O
+10 O
+
+GKS I
+Belchatow I
+7 O
+3 O
+0 O
+4 O
+9 O
+9 O
+9 O
+
+Stomil I
+Olsztyn I
+7 O
+2 O
+3 O
+2 O
+9 O
+9 O
+9 O
+
+Wisla I
+Krakow I
+7 O
+2 O
+3 O
+2 O
+3 O
+4 O
+9 O
+
+Hutnik I
+Krakow I
+7 O
+3 O
+0 O
+4 O
+8 O
+10 O
+9 O
+
+Rakow I
+Czestochowa I
+7 O
+2 O
+1 O
+4 O
+6 O
+10 O
+7 O
+
+Zaglebie I
+Lubin I
+7 O
+1 O
+3 O
+3 O
+10 O
+12 O
+6 O
+
+Ruch I
+Chorzow I
+7 O
+1 O
+2 O
+4 O
+7 O
+13 O
+5 O
+
+Gornik I
+Zabrze I
+7 O
+1 O
+1 O
+5 O
+6 O
+10 O
+4 O
+
+LKS I
+Lodz I
+7 O
+0 O
+2 O
+5 O
+4 O
+13 O
+2 O
+

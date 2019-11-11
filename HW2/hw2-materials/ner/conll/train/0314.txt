@@ -1,0 +1,189 @@
+-DOCSTART- O
+
+MOTOCROSS O
+- O
+GERMAN I
+125CC O
+GRAND I
+PRIX I
+RESULTS O
+. O
+
+HOLZGERLINGEN I
+, O
+Germany I
+1996-08-25 O
+
+Leading O
+results O
+in O
+
+the O
+German I
+125cc O
+motocross O
+Grand I
+Prix I
+on O
+Sunday O
+: O
+
+First O
+race O
+
+1. O
+Sebastien I
+Tortelli I
+( O
+France I
+) O
+Kawasaki I
+
+2. O
+Bob I
+Moore I
+( O
+U.S. I
+) O
+Yamaha I
+
+3. O
+Luigi I
+Seguy I
+( O
+France I
+) O
+TM I
+
+4. O
+Andi I
+Kanstinger I
+( O
+Germany I
+) O
+Honda I
+
+5. O
+Nicolas I
+Charlier I
+( O
+France I
+) O
+Kawasaki I
+
+6. O
+Erik I
+Camerlengo I
+( O
+Italy I
+) O
+Yamaha I
+
+Second O
+race O
+
+1. O
+Tortelli I
+
+2. O
+Moore I
+
+3. O
+Alex I
+Belometti I
+( O
+Italy I
+) O
+Honda I
+
+4. O
+Frederic I
+Vialle I
+( O
+France I
+) O
+Yamaha I
+
+5. O
+Collin I
+Dugmore I
+( O
+South I
+Africa I
+) O
+Honda I
+
+6. O
+Camerlengo I
+
+Overall O
+on O
+day O
+: O
+
+1. O
+Tortelli I
+40 O
+points O
+
+2. O
+Moore I
+34 O
+
+3. O
+Seguy I
+24 O
+
+4. O
+Vialle I
+22 O
+
+5. O
+Camerlengo I
+20 O
+
+6. O
+Belometti I
+19 O
+
+Final O
+world O
+championship O
+standings O
+: O
+
+1. O
+Tortelli I
+432 O
+points O
+
+2. O
+Paul I
+Malin I
+( O
+Britain I
+) O
+Yamaha I
+317 O
+
+3. O
+Vialle I
+293 O
+
+4. O
+Seguy I
+192 O
+
+5. O
+Michele I
+Fanton I
+( O
+Italy I
+) O
+Kawasaki I
+160 O
+
+6. O
+Dugmore I
+152 O
+

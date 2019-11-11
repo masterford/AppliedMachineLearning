@@ -1,0 +1,76 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+BRAZILIAN I
+CHAMPIONSHIP O
+RESULTS O
+. O
+
+RIO I
+DE I
+JANEIRO I
+1996-08-22 O
+
+Results O
+of O
+midweek O
+
+matches O
+in O
+the O
+Brazilian I
+soccer O
+championship O
+. O
+
+Bahia I
+2 O
+Atletico I
+Paranaense I
+0 O
+
+Corinthians I
+1 O
+Guarani I
+0 O
+
+Coritiba I
+1 O
+Atletico I
+Mineiro I
+0 O
+
+Cruzeiro I
+2 O
+Vitoria I
+1 O
+
+Flamengo I
+0 O
+Juventude I
+1 O
+
+Goias I
+3 O
+Sport I
+Recife I
+1 O
+
+Gremio I
+6 O
+Bragantino I
+1 O
+
+Palmeiras I
+3 O
+Vasco I
+da I
+Gama I
+1 O
+
+Portuguesa I
+2 O
+Parana I
+0 O
+

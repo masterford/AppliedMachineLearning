@@ -1,0 +1,46 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+YUGOSLAV I
+LEAGUE O
+RESULTS O
+. O
+
+BELGRADE I
+1996-08-25 O
+
+Results O
+of O
+Yugoslav I
+league O
+
+soccer O
+matches O
+played O
+on O
+Sunday O
+: O
+
+Division O
+A O
+
+Vojvodina I
+1 O
+Partizan I
+1 O
+
+Crvena I
+zvezda I
+3 O
+Proleter I
+1 O
+
+Division O
+B O
+
+Zelesnik I
+0 O
+Rudar I
+1 O
+

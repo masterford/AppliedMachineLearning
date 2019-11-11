@@ -1,0 +1,183 @@
+-DOCSTART- O
+
+SQUASH O
+- O
+HONG I
+KONG I
+OPEN I
+FIRST O
+ROUND O
+RESULTS O
+. O
+
+HONG I
+KONG I
+1996-08-27 O
+
+First O
+round O
+results O
+in O
+the O
+Hong I
+
+Kong I
+Open I
+squash O
+tournament O
+on O
+Tuesday O
+( O
+prefix O
+denotes O
+seeding O
+) O
+: O
+
+1 O
+- O
+Jansher I
+Khan I
+( O
+Pakistnn O
+) O
+beat O
+Jackie I
+Lee I
+( O
+Hong I
+Kong I
+) O
+15-8 O
+15-8 O
+
+15-6 O
+
+3 O
+- O
+Brett I
+Martin I
+( O
+Australia I
+) O
+beat O
+David I
+Evans I
+( O
+Wales I
+) O
+14-17 O
+15-1 O
+
+13-15 O
+17-14 O
+15-12 O
+
+Mark I
+Cairns I
+( O
+England I
+) O
+beat O
+6 O
+- O
+Del I
+Harris I
+( O
+England I
+) O
+15-12 O
+7-15 O
+
+15-6 O
+15-12 O
+
+Anthony I
+Hill I
+( O
+Australia I
+) O
+beat O
+8 O
+- O
+Mark I
+Chaloner I
+( O
+England I
+) O
+15-11 O
+
+17-16 O
+17-16 O
+
+Simon I
+Frenz I
+( O
+Germany I
+) O
+beat O
+Martin I
+Heath I
+( O
+Scotland I
+) O
+12-15 O
+15-6 O
+
+15-4 O
+12-15 O
+15-14 O
+
+Joseph I
+Kneipp I
+( O
+Australia I
+) O
+beat O
+Ahmed I
+Faizy I
+( O
+Egypt I
+) O
+15-8 O
+12-15 O
+
+15-14 O
+15-9 O
+
+Mir I
+Zaman I
+Gul I
+( O
+Pakistan I
+) O
+beat O
+Stephen I
+Meads I
+( O
+England I
+) O
+10-15 O
+
+15-12 O
+15-10 O
+15-3 O
+
+Dan I
+Jensen I
+( O
+Australia I
+) O
+beat O
+Anders I
+Thoren I
+( O
+Sweden I
+) O
+8-15 O
+15-12 O
+
+10-15 O
+15-5 O
+15-11 O
+

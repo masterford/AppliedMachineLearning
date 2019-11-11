@@ -1,0 +1,37 @@
+-DOCSTART- O
+
+Port O
+conditions O
+update O
+- O
+Syria I
+- O
+Lloyds I
+Shipping I
+. O
+
+Port O
+conditions O
+from O
+Lloyds I
+Shipping I
+Intelligence I
+Service I
+-- O
+
+LATTAKIA I
+, O
+Aug O
+10 O
+- O
+waiting O
+time O
+at O
+Lattakia I
+and O
+Tartous I
+presently O
+24 O
+hours O
+. O
+

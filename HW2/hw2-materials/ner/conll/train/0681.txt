@@ -1,0 +1,226 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+FRENCH I
+LEAGUE O
+STANDINGS O
+. O
+
+PARIS I
+1996-08-28 O
+
+Standings O
+in O
+the O
+French I
+first O
+
+division O
+after O
+Wednesday O
+'s O
+matches O
+( O
+tabulate O
+under O
+played O
+, O
+won O
+, O
+
+drawn O
+, O
+lost O
+, O
+goals O
+for O
+, O
+against O
+, O
+points O
+) O
+: O
+
+Lens I
+4 O
+4 O
+0 O
+0 O
+9 O
+3 O
+12 O
+
+Paris I
+Saint-Germain I
+4 O
+3 O
+1 O
+0 O
+4 O
+0 O
+10 O
+
+Bastia I
+4 O
+2 O
+2 O
+0 O
+4 O
+1 O
+8 O
+
+Auxerre I
+4 O
+2 O
+2 O
+0 O
+3 O
+0 O
+8 O
+
+Monaco I
+4 O
+2 O
+1 O
+1 O
+7 O
+4 O
+7 O
+
+Lyon I
+4 O
+2 O
+1 O
+1 O
+6 O
+4 O
+7 O
+
+Metz I
+4 O
+2 O
+1 O
+1 O
+6 O
+4 O
+7 O
+
+Lille I
+4 O
+2 O
+1 O
+1 O
+4 O
+3 O
+7 O
+
+Guingamp I
+4 O
+2 O
+1 O
+1 O
+4 O
+3 O
+7 O
+
+Cannes I
+4 O
+2 O
+1 O
+1 O
+4 O
+4 O
+7 O
+
+Bordeaux I
+4 O
+1 O
+3 O
+0 O
+3 O
+2 O
+6 O
+
+Marseille I
+4 O
+1 O
+2 O
+1 O
+5 O
+4 O
+5 O
+
+Rennes I
+4 O
+1 O
+1 O
+2 O
+5 O
+7 O
+4 O
+
+Strasbourg I
+4 O
+1 O
+0 O
+3 O
+2 O
+7 O
+3 O
+
+Montpellier I
+4 O
+0 O
+2 O
+2 O
+3 O
+5 O
+2 O
+
+Le I
+Havre I
+4 O
+0 O
+2 O
+2 O
+2 O
+4 O
+2 O
+
+Caen I
+4 O
+0 O
+2 O
+2 O
+2 O
+6 O
+2 O
+
+Nice I
+4 O
+0 O
+1 O
+3 O
+3 O
+7 O
+1 O
+
+Nantes I
+4 O
+0 O
+1 O
+3 O
+2 O
+6 O
+1 O
+
+Nancy I
+4 O
+0 O
+1 O
+3 O
+2 O
+7 O
+1 O
+

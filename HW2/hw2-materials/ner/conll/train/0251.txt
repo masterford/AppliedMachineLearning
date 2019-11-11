@@ -1,0 +1,154 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+SCOTTISH I
+LEAGUE O
+RESULTS O
+. O
+
+GLASGOW I
+1996-08-24 O
+
+Results O
+of O
+Scottish I
+league O
+soccer O
+
+matches O
+on O
+Saturday O
+: O
+
+Premier O
+division O
+
+Hibernian I
+0 O
+Dunfermline I
+0 O
+
+Kilmarnock I
+1 O
+Celtic I
+3 O
+
+Raith I
+0 O
+Motherwell I
+3 O
+
+Rangers I
+1 O
+Dundee I
+United I
+0 O
+
+Playing O
+Sunday O
+: O
+
+Aberdeen I
+v O
+Hearts I
+
+Division O
+one O
+
+Airdrieonians I
+0 O
+East I
+Fife I
+0 O
+
+Clydebank I
+1 O
+Stirling I
+0 O
+
+Dundee I
+2 O
+Greenock I
+Morton I
+1 O
+
+Falkirk I
+1 O
+Partick I
+0 O
+
+St I
+Mirren I
+0 O
+St I
+Johnstone I
+3 O
+
+Division O
+two O
+
+Berwick I
+0 O
+Stenhousemuir I
+6 O
+
+Brechin I
+1 O
+Ayr I
+1 O
+
+Hamilton I
+2 O
+Clyde I
+0 O
+
+Queen I
+of I
+the I
+South I
+2 O
+Dumbarton I
+1 O
+
+Stranraer I
+1 O
+Livingston I
+2 O
+
+Division O
+three O
+
+Alloa I
+1 O
+Arbroath I
+1 O
+
+Cowdenbeath I
+1 O
+Monstrose I
+0 O
+
+Forfar I
+3 O
+Inverness I
+1 O
+
+Ross I
+County I
+1 O
+Queen I
+'s I
+Park I
+2 O
+
+Played O
+Friday O
+: O
+
+East I
+Stirling I
+0 O
+Albion I
+1 O
+

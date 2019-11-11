@@ -1,0 +1,259 @@
+-DOCSTART- O
+
+Clean O
+tanker O
+fixtures O
+and O
+enquiries O
+- O
+1754 O
+GMT I
+. O
+
+LONDON I
+1996-08-23 O
+
+LATEST O
+FIXTURES O
+
+- O
+MIDEAST I
+GULF I
+/ O
+RED I
+SEA I
+
+Konpolis I
+75 O
+1/9 O
+Mideast I
+/ O
+Indonesia I
+W112.5 O
+KPC I
+. O
+
+TBN I
+30 O
+6/9 O
+Mideast I
+/ O
+W.C. I
+India I
+W200 O
+, O
+E.C.India I
+W195 O
+IOC I
+. O
+
+- O
+ASIA I
+PACIFIC I
+
+Petrobulk I
+Rainbow I
+28 O
+24/8 O
+Okinawa I
+/ O
+Inchon I
+$ O
+190,000 O
+Honam I
+. O
+
+- O
+MED I
+/ O
+BLACK I
+SEA I
+
+TBN I
+30 O
+15/9 O
+Constanza I
+/ O
+Inia I
+$ O
+700,000 O
+IOC I
+. O
+
+- O
+UK I
+/ O
+CONT O
+
+Port I
+Christine I
+36,5 O
+3/9 O
+Pembroke I
+/ O
+US I
+W145 O
+Stentex I
+. O
+
+- O
+WESTERN I
+HEMISPHERE I
+
+Kpaitan I
+Stankov I
+69 O
+31/8 O
+St I
+Croix I
+/ O
+USAC I
+W125 O
+Hess I
+. O
+
+AP I
+Moller I
+30 O
+31/8 O
+Caribs I
+/ O
+Japan I
+$ O
+875,000 O
+BP I
+. O
+
+Tiber I
+29 O
+2/9 O
+Caribs I
+/ O
+options O
+W265 O
+Stinnes I
+. O
+
+------------------------------------------------------------ O
+
+- O
+MIDDAY O
+FIXTURES O
+
+- O
+MIDEAST I
+GULF I
+/ O
+RED I
+SEA I
+
+Tenacity I
+70 O
+24/08 O
+Mideast I
+/ O
+South I
+Korea I
+W145 O
+Samsung I
+. O
+
+SKS I
+Tana I
+70 O
+03/09 O
+Mideast I
+/ O
+Japan I
+W145 O
+CNR I
+. O
+
+Northsea I
+Chaser I
+55 O
+12/09 O
+Mideast I
+/ O
+Japan I
+W167.5 O
+Jomo I
+. O
+
+Sibonina I
+55 O
+13/09 O
+Red I
+Sea I
+/ O
+Japan I
+W160 O
+Marubeni I
+. O
+
+- O
+ASIA I
+/ O
+PACIFIC I
+
+Neptune I
+Crux I
+30 O
+02/09 O
+Singapore I
+/ O
+options O
+$ O
+185,000 O
+Sietco I
+. O
+
+World I
+Bridge I
+30 O
+03/09 O
+South I
+Korea I
+/ O
+Japan I
+rnr O
+CNR I
+. O
+
+Fulmar I
+30 O
+28/08 O
+Ulsan I
+/ O
+Yosu I
+$ O
+105,000 O
+LG I
+Caltex I
+. O
+
+- O
+MED I
+/ O
+BLACK I
+SEA I
+
+Hemina I
+33 O
+05/09 O
+Eleusis I
+/ O
+UKCM I
+W155 O
+CNR I
+. O
+
+-- O
+London I
+Newsroom I
+, O
++44 O
+171 O
+542 O
+8980 O
+

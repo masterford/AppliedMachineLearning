@@ -1,0 +1,209 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+FRENCH I
+LEAGUE O
+SUMMARIES O
+. O
+
+PARIS I
+1996-08-28 O
+
+Summaries O
+of O
+French I
+first O
+division O
+
+matches O
+on O
+Wednesday O
+: O
+
+Bastia I
+0 O
+Lille I
+0 O
+. O
+
+0-0 O
+. O
+
+5,000 O
+. O
+
+Cannes I
+0 O
+Monaco I
+2 O
+( O
+Henry I
+26th O
+, O
+71st O
+) O
+. O
+
+0-1 O
+. O
+
+7,000 O
+. O
+
+Le I
+Havre I
+1 O
+( O
+Samson I
+24th O
+) O
+Caen I
+1 O
+( O
+Etienne I
+Mendy I
+4th O
+) O
+. O
+
+1-1 O
+. O
+
+12,000 O
+. O
+
+Lens I
+3 O
+( O
+Vairelles I
+8th O
+, O
+Foe I
+85th O
+, O
+Smicer I
+90th O
+) O
+Montpellier I
+2 O
+
+( O
+Ferhaoui I
+4th O
+, O
+Lefevre I
+13th O
+) O
+. O
+
+1-2 O
+. O
+
+30,000 O
+. O
+
+Lyon I
+2 O
+( O
+Caveglia I
+23rd O
+, O
+Giuly I
+30th O
+) O
+Nancy I
+0 O
+. O
+
+2-0 O
+. O
+
+15,000 O
+. O
+
+Metz I
+3 O
+( O
+Pires I
+35th O
+, O
+48th O
+, O
+74th O
+) O
+Strasbourg I
+1 O
+( O
+Rodriguez I
+56th O
+) O
+. O
+
+1-0 O
+. O
+
+14,000 O
+. O
+
+Nice I
+1 O
+( O
+Chaouch I
+64th O
+) O
+Guingamp I
+2 O
+( O
+Rouxel I
+10th O
+, O
+Baret I
+89th O
+) O
+. O
+
+0-1 O
+. O
+
+4,000 O
+. O
+
+Paris I
+St I
+Germain I
+1 O
+( O
+Loko I
+33rd O
+) O
+Nantes I
+0 O
+. O
+
+1-0 O
+. O
+
+30,000 O
+. O
+
+Rennes I
+1 O
+( O
+Guivarch I
+27th O
+) O
+Bordeaux I
+1 O
+( O
+Colleter I
+86th O
+) O
+. O
+
+1-0 O
+. O
+
+16,000 O
+. O
+

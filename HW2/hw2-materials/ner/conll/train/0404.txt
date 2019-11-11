@@ -1,0 +1,41 @@
+-DOCSTART- O
+
+RALLYING O
+- O
+MAKINEN I
+WINS O
+1,000 I
+LAKES I
+RALLY I
+. O
+
+JYVASKYLA I
+, O
+Finland I
+1996-08-26 O
+
+Tommi I
+Makinen I
+of O
+Finland I
+, O
+driving O
+a O
+Mitsubishi I
+, O
+on O
+Monday O
+won O
+the O
+1,000 I
+Lakes I
+Rally I
+, O
+sixth O
+round O
+of O
+the O
+world O
+championship O
+. O
+

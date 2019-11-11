@@ -1,0 +1,351 @@
+-DOCSTART- O
+
+CRICKET O
+- O
+SCOREBOARD-AUSTRALIA I
+V O
+ZIMBABWE I
+ONE-DAY O
+SCOREBOARD O
+. O
+
+COLOMBO I
+1996-08-26 O
+
+Scoreboard O
+in O
+the O
+Singer I
+World I
+
+Series I
+one-day O
+( O
+50 O
+overs O
+) O
+cricket O
+match O
+between O
+Australia I
+and O
+
+Zimbabwe I
+on O
+Monday O
+: O
+
+Australia I
+
+M. I
+Slater I
+c O
+P. I
+Strang I
+b O
+Whittall I
+50 O
+
+M. I
+Waugh I
+b O
+P. I
+Strang I
+18 O
+
+R. I
+Ponting I
+c O
+and O
+b O
+Whittall I
+53 O
+
+S. I
+Waugh I
+c O
+Campbell I
+b O
+Whittall I
+82 O
+
+S. I
+Law I
+b O
+Streak I
+20 O
+
+M. I
+Bevan I
+c O
+Campbell I
+b O
+Brandes I
+9 O
+
+I. I
+Healy I
+b O
+Brandes I
+5 O
+
+B. I
+Hogg I
+not O
+out O
+11 O
+
+Extras O
+( O
+b-1 O
+lb-8 O
+w-3 O
+nb-3 O
+) O
+15 O
+
+Total O
+( O
+for O
+seven O
+wickets O
+- O
+50 O
+overs O
+) O
+263 O
+
+Fall O
+of O
+wickets O
+: O
+1-48 O
+2-92 O
+3-167 O
+4-230 O
+5-240 O
+6-242 O
+7-263 O
+
+Did O
+not O
+bat O
+: O
+P. I
+Reiffel I
+, O
+D. I
+Flemming I
+, O
+G. I
+McGrath I
+
+Bowling O
+: O
+Streak I
+10-1-50-1 O
+( O
+2w O
+, O
+2nb O
+) O
+, O
+Brandes I
+10-1-47-2 O
+( O
+1w O
+) O
+, O
+
+P. I
+Strang I
+9-0-41-1 O
+, O
+Flower I
+6-0-28-0 O
+, O
+Whittall I
+10-0-53-3 O
+( O
+1nb O
+) O
+, O
+
+Decker I
+3-0-17-0 O
+, O
+Shah I
+2-0-18-0 O
+
+Zimbabwe I
+
+A. I
+Shah I
+c O
+M. I
+Waugh I
+b O
+Hogg I
+41 O
+
+G. I
+Flower I
+c O
+Ponting I
+b O
+Flemming I
+7 O
+
+A. I
+Flower I
+lbw O
+b O
+Flemming I
+0 O
+
+A. I
+Campbell I
+lbw O
+b O
+McGrath I
+9 O
+
+C. I
+Wishart I
+c O
+Healy I
+b O
+Reiffel I
+0 O
+
+G. I
+Whittall I
+b O
+Reiffel I
+11 O
+
+C. I
+Evans I
+c O
+Healy I
+b O
+S. I
+Waugh I
+15 O
+
+M. I
+Dekker I
+not O
+out O
+8 O
+
+P. I
+Strang I
+b O
+M. I
+Waugh I
+9 O
+
+H. I
+Streak I
+b O
+M. I
+Waugh I
+0 O
+
+E. I
+Brandes I
+c O
+Hogg I
+b O
+M. I
+Waugh I
+17 O
+
+Extras O
+( O
+lb-4 O
+w-10 O
+nb-7 O
+) O
+21 O
+
+Total O
+( O
+all O
+out O
+- O
+41 O
+overs O
+) O
+138 O
+
+Fall O
+of O
+wickets O
+: O
+1-16 O
+2-16 O
+3-33 O
+4-35 O
+5-56 O
+6-98 O
+7-100 O
+8-120 O
+
+9-120 O
+
+Bowling O
+: O
+McGrath I
+7-2-13-1 O
+( O
+2w O
+) O
+, O
+Flemming I
+7-0-24-2 O
+( O
+3w O
+, O
+3nb O
+) O
+, O
+
+Reiffel I
+6-1-23-2 O
+( O
+2nb O
+) O
+, O
+S. I
+Waugh I
+7-2-24-1 O
+( O
+1nb O
+, O
+2w O
+) O
+, O
+Hogg I
+
+9-2-26-1 O
+( O
+1nb O
+, O
+3w O
+) O
+, O
+M. I
+Waugh I
+5-1-24-3 O
+
+Result O
+: O
+Australia I
+won O
+by O
+125 O
+runs O
+. O
+

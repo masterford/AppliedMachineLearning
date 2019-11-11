@@ -1,0 +1,64 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+WALES I
+BEAT O
+SAN I
+MARINO I
+4-0 O
+IN O
+UNDER-21 O
+MATCH O
+. O
+
+BARRY I
+, O
+Wales I
+1996-08-30 O
+
+Wales I
+beat O
+San I
+Marino I
+4-0 O
+( O
+halftime O
+2-0 O
+) O
+in O
+a O
+European I
+under-21 O
+soccer O
+match O
+on O
+Friday O
+. O
+
+Scorers O
+: O
+
+Wales I
+- O
+John I
+Hartson I
+( O
+12th O
+, O
+56th O
+and O
+83rd O
+minutes O
+) O
+, O
+Scott I
+Young I
+( O
+24th O
+) O
+
+Attendance O
+: O
+1,800 O
+

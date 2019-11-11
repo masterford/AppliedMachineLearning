@@ -1,0 +1,462 @@
+-DOCSTART- O
+
+ATHLETICS O
+- O
+ROVERETO I
+INTERNATIONAL I
+MEETING O
+RESULTS O
+. O
+
+ROVERETO I
+, O
+Italy I
+1996-08-28 O
+
+Leading O
+results O
+from O
+an O
+
+international O
+athletics O
+meeting O
+on O
+Wednesday O
+: O
+
+Women O
+'s O
+long O
+jump O
+: O
+
+1. O
+Ludmila I
+Ninova I
+( O
+Austria I
+) O
+6.72 O
+metres O
+
+2. O
+Heike I
+Drechsler I
+( O
+Germany I
+) O
+6.65 O
+
+3. O
+Fiona I
+May I
+( O
+Italy I
+) O
+6.64 O
+
+Men O
+'s O
+110 O
+metres O
+hurdles O
+: O
+
+1. O
+Emilio I
+Valle I
+( O
+Cuba I
+) O
+13.42 O
+seconds O
+
+2. O
+Steve I
+Brown I
+( O
+U.S. I
+) O
+13.45 O
+
+3. O
+Andrea I
+Giaconi I
+( O
+Italy I
+) O
+13.80 O
+
+Women O
+'s O
+100 O
+metres O
+: O
+
+1. O
+Chandra I
+Sturrup I
+( O
+Bahamas I
+) O
+11.34 O
+seconds O
+
+2. O
+Natalya I
+Voronova I
+( O
+Russia I
+) O
+11.53 O
+
+3. O
+Gabi I
+Rokmeier I
+( O
+Germany I
+) O
+11.61 O
+
+Men O
+'s O
+javelin O
+: O
+
+1. O
+Sergey I
+Makarov I
+( O
+Russia I
+) O
+85.26 O
+metres O
+
+2. O
+Tom I
+Pukstys I
+( O
+U.S. I
+) O
+84.20 O
+
+3. O
+Peter I
+Blank I
+( O
+Germany I
+) O
+81.64 O
+
+Men O
+'s O
+100 O
+metres O
+: O
+
+1. O
+Osmond I
+Ezinwa I
+( O
+Nigeria I
+) O
+10.13 O
+seconds O
+
+2. O
+Davidson I
+Ezinwa I
+( O
+Nigeria I
+) O
+10.18 O
+
+3. O
+Stefano I
+Tilli I
+( O
+Italy I
+) O
+10.43 O
+
+Men O
+'s O
+400 O
+metres O
+: O
+
+1. O
+Davis I
+Kamoga I
+( O
+Uganda I
+) O
+45.15 O
+seconds O
+
+2. O
+Marco I
+Vaccari I
+( O
+Italy I
+) O
+46.16 O
+
+3. O
+Kennedy I
+Ochieng I
+( O
+Kenya I
+) O
+46.21 O
+
+Women O
+'s O
+pole O
+vault O
+: O
+
+1. O
+Mariacarla I
+Bresciani I
+( O
+Italy I
+) O
+3.85 O
+metres O
+
+2. O
+Andrea I
+Muller I
+( O
+Germany I
+) O
+3.75 O
+
+3. O
+Nastja I
+Rysich I
+( O
+germany I
+) O
+3.75 O
+
+Women O
+'s O
+800 O
+metres O
+: O
+
+1. O
+Ana I
+Fidelia I
+Quirot I
+( O
+Cuba I
+) O
+1 O
+minute O
+58.98 O
+seconds O
+
+2. O
+Letitia I
+Vriesde I
+( O
+Surinam I
+) O
+2:00.39 O
+
+3. O
+Inez I
+Turner I
+( O
+Jamaica I
+) O
+2:00.91 O
+
+Men O
+'s O
+high O
+jump O
+: O
+
+1. O
+Wolfgang I
+Kreissig I
+( O
+Germany I
+) O
+2.20 O
+metres O
+
+2. O
+Kostantin I
+Matusevitch I
+( O
+Israel I
+) O
+2.20 O
+
+3. O
+Michele I
+Buiatti I
+( O
+Italy I
+) O
+2.15 O
+
+Men O
+'s O
+800 O
+metres O
+: O
+
+1. O
+Robert I
+Kibet I
+( O
+Kenya I
+) O
+1:45.24 O
+
+2. O
+Vincent I
+Malakwen I
+( O
+Kenya I
+) O
+1:45.62 O
+
+3. O
+Philip I
+Kibitok I
+( O
+Kenya I
+) O
+1:46.09 O
+
+Women O
+'s O
+javelin O
+: O
+
+1. O
+Oksana I
+Ovchinnikova I
+( O
+Russia I
+) O
+58.94 O
+metres O
+
+2. O
+Natalya I
+Shikolenko I
+( O
+Belarus I
+) O
+57.44 O
+
+3. O
+Silke I
+Renk I
+( O
+Germany I
+) O
+56.70 O
+
+Women O
+'s O
+400 O
+metres O
+hurdles O
+: O
+
+1. O
+Virna I
+De I
+Angeli I
+( O
+Italy I
+) O
+55.66 O
+
+2. O
+Natalya I
+Torshina I
+( O
+Kazakhstan I
+) O
+55.99 O
+
+3. O
+Anna I
+Knoroz I
+( O
+Russia I
+) O
+57.02 O
+
+Men O
+'s O
+400 O
+metres O
+hurdles O
+: O
+
+1. O
+Lauren I
+Ottoz I
+( O
+Italy I
+) O
+49.16 O
+
+2. O
+Brian I
+Bronson I
+( O
+U.S. I
+) O
+49.67 O
+
+3. O
+John I
+Ridgeon I
+( O
+Britain I
+) O
+49.83 O
+
+Men O
+'s O
+3,000 O
+metres O
+: O
+
+1. O
+Luke I
+Kipkosgei I
+( O
+Kenya I
+) O
+7:46.91 O
+
+2. O
+Alessandro I
+Lambruschini I
+( O
+Italy I
+) O
+7:47.78 O
+
+3. O
+Richard I
+Kosgei I
+( O
+Kenya I
+) O
+7:48.38 O
+

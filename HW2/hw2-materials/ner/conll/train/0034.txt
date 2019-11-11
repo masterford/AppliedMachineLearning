@@ -1,0 +1,112 @@
+-DOCSTART- O
+
+TENNIS O
+- O
+RESULTS O
+AT O
+HAMLET I
+CUP I
+. O
+
+COMMACK I
+, O
+New I
+York I
+1996-08-21 O
+
+Results O
+from O
+the O
+
+Waldbaum I
+Hamlet I
+Cup I
+tennis O
+tournament O
+on O
+Wednesday O
+( O
+prefix O
+
+number O
+denotes O
+seeding O
+) O
+: O
+
+Second O
+round O
+
+1 O
+- O
+Michael I
+Chang I
+( O
+U.S. I
+) O
+beat O
+Sergi I
+Bruguera I
+( O
+Spain I
+) O
+6-3 O
+6-2 O
+
+Michael I
+Joyce I
+( O
+U.S. I
+) O
+beat O
+3 O
+- O
+Richey I
+Reneberg I
+( O
+U.S. I
+) O
+3-6 O
+6-4 O
+
+6-3 O
+
+Martin I
+Damm I
+( O
+Czech I
+Republic I
+) O
+beat O
+6 O
+- O
+Younes I
+El I
+Aynaoui I
+
+( O
+Morocco I
+) O
+5-7 O
+6-3 O
+3-0 O
+retired O
+
+Karol I
+Kucera I
+( O
+Slovakia I
+) O
+beat O
+Hicham I
+Arazi I
+( O
+Morocco I
+) O
+7-6 O
+( O
+7-4 O
+) O
+
+7-5 O
+

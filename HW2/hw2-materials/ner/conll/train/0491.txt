@@ -1,0 +1,186 @@
+-DOCSTART- O
+
+PRESALE O
+- O
+Marion I
+County I
+Board I
+of I
+Education I
+, O
+W. I
+Va I
+. O
+
+AMT O
+: O
+3,250,000 O
+DATE O
+: O
+09/04/96 O
+NYC I
+Time I
+: O
+1200 O
+CUSIP O
+: O
+569399 O
+
+ISSUER O
+: O
+Marion I
+County I
+Board I
+of I
+Education I
+ST O
+: O
+WV O
+
+ISSUE O
+: O
+Public O
+School O
+, O
+Series O
+1996 O
+TAX O
+STAT:Exempt-ULT O
+
+M O
+/ O
+SP O
+/ O
+F O
+: O
+NA O
+/ O
+NA O
+/ O
+NA O
+BOOK O
+ENTRY O
+: O
+Y O
+
+ENHANCEMENTS O
+: O
+None O
+BANK O
+QUAL O
+: O
+Y O
+
+DTD O
+: O
+09/01/96 O
+SURE O
+BID O
+: O
+N O
+
+DUE O
+: O
+5/1/98-02 O
+SR O
+MGR O
+: O
+
+1ST O
+CPN O
+: O
+05/01/97 O
+
+CALL O
+: O
+Non-Callable O
+NIC O
+
+DELIVERY O
+: O
+9/17/96 O
+approx O
+ORDERS O
+: O
+
+PAYING O
+AGENT O
+: O
+WesBanco I
+Bank I
+Fairmont I
+, O
+Fairmont I
+
+L.O. O
+: O
+Steptoe I
+& I
+Johnson I
+, O
+Clarksburg I
+
+F.A. O
+: O
+Ferris I
+, I
+Baker I
+Watts I
+, I
+Inc. I
+, O
+Charleston I
+
+LAST O
+SALE O
+: O
+$ O
+7,330,000 O
+( O
+MBIA O
+) O
+3/1/90 O
+@ O
+6.14900 O
+% O
+NIC O
+; O
+4yrs O
+4mos O
+Avg O
+; O
+BBI-7.27 O
+% O
+
+Year O
+Amount O
+Coupon O
+Yield O
+Price O
+Conc O
+. O
+
+1998 O
+575,000 O
+
+1999 O
+610,000 O
+
+2000 O
+650,000 O
+
+2001 O
+685,000 O
+
+2002 O
+730,000 O
+
+COMPETITIVE O
+PRE-SALE O
+CONTRIBUTED O
+BY O
+J.J. I
+KENNY I
+K-SHEETS O
+: O
+

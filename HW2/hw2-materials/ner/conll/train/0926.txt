@@ -1,0 +1,70 @@
+-DOCSTART- O
+
+Salomon I
+& I
+Taylor I
+- O
+96/97 O
+div O
+forecast O
+. O
+
+TOKYO I
+1996-08-29 O
+
+Year O
+to O
+March O
+31 O
+, O
+1997 O
+
+( O
+in O
+billions O
+of O
+yen O
+unless O
+specified O
+) O
+
+LATEST O
+ACTUAL O
+
+( O
+Parent O
+) O
+FORECAST O
+YEAR-AGO O
+
+Ord O
+div O
+10.00 O
+yen O
+8.00 O
+yen O
+
+- O
+Commem O
+div O
+- O
+2.00 O
+yen O
+
+NOTE O
+- O
+Salomon I
+& I
+Taylor I
+Made I
+Co I
+Ltd I
+manufactures O
+golf O
+clubs O
+and O
+sells O
+ski O
+equipment O
+. O
+

@@ -1,0 +1,57 @@
+-DOCSTART- O
+
+Soccer O
+- O
+Nijmeh I
+beat O
+Nasr I
+1-0 O
+. O
+
+TRIPOLI I
+, O
+Lebanon I
+1996-08-24 O
+
+Nijmeh I
+of O
+Lebanon I
+beat O
+Nasr I
+of O
+Saudi I
+Arabia I
+1-0 O
+( O
+halftime O
+1-0 O
+) O
+in O
+their O
+Asian I
+club O
+championship O
+second O
+round O
+first O
+leg O
+tie O
+on O
+Saturday O
+. O
+
+Scorer O
+: O
+Issa I
+Alloush I
+( O
+45th O
+minute O
+) O
+. O
+
+Attendance O
+: O
+10,000 O
+. O
+

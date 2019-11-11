@@ -1,0 +1,340 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+ENGLISH I
+AND O
+SCOTTISH I
+LEAGUE O
+FIXTURES O
+- O
+AUG O
+30-SEPT O
+1 O
+. O
+
+LONDON I
+1996-08-26 O
+
+English I
+and O
+Scottish I
+league O
+soccer O
+
+fixtures O
+for O
+August O
+30 O
+to O
+September O
+1 O
+: O
+
+Friday O
+, O
+August O
+30 O
+: O
+
+English I
+division O
+one O
+- O
+West I
+Bromwich I
+v O
+Sheffield I
+United I
+. O
+
+English I
+division O
+three O
+- O
+Swansea I
+v O
+Lincoln I
+. O
+
+Saturday O
+, O
+August O
+31 O
+: O
+
+English I
+division O
+one O
+- O
+Birmingham I
+v O
+Barnsley I
+, O
+Bradford I
+v O
+
+Tranmere I
+, O
+Grimsby I
+v O
+Portsmouth I
+, O
+Huddersfield I
+v O
+Crystal I
+Palace I
+, O
+
+Manchester I
+City I
+v O
+Charlton I
+, O
+Norwich I
+v O
+Wolverhampton I
+, O
+Oldham I
+v O
+
+Ipswich I
+, O
+Port I
+Vale I
+v O
+Oxford I
+, O
+Reading I
+v O
+Stoke I
+, O
+Southend I
+v O
+
+Swindon I
+. O
+
+English I
+division O
+two O
+- O
+Blackpool I
+v O
+Wycombe I
+, O
+Bournemouth I
+v O
+
+Peterborough I
+, O
+Bristol I
+Rovers I
+v O
+Stockport I
+, O
+Bury I
+v O
+Bristol I
+City I
+, O
+
+Crewe I
+v O
+Watford I
+, O
+Gillingham I
+v O
+Chesterfield I
+, O
+Luton I
+v O
+Rotherham I
+, O
+
+Millwall I
+v O
+Burnley I
+, O
+Notts I
+County I
+v O
+York I
+, O
+Plymouth I
+v O
+Preston I
+, O
+
+Shrewsbury I
+v O
+Brentford I
+, O
+Walsall I
+v O
+Wrexham I
+. O
+
+English I
+division O
+three O
+- O
+Brighton I
+v O
+Scunthorpe I
+, O
+Cambridge I
+v O
+
+Cardiff I
+, O
+Colchester I
+v O
+Hereford I
+, O
+Doncaster I
+v O
+Darlington I
+, O
+Fulham I
+v O
+
+Carlisle I
+, O
+Hull I
+v O
+Barnet I
+, O
+Leyton I
+Orient I
+v O
+Hartlepool I
+, O
+Mansfield I
+v O
+
+Rochdale I
+, O
+Scarborough I
+v O
+Northampton I
+, O
+Torquay I
+v O
+Exeter I
+, O
+Wigan I
+v O
+
+Chester I
+. O
+
+Scottish I
+division O
+one O
+- O
+East I
+Fife I
+v O
+Clydebank I
+, O
+Greenock I
+
+Morton I
+v O
+Falkir I
+, O
+Partick I
+v O
+St I
+Mirren I
+, O
+St I
+Johnstone I
+v O
+
+Airdrieonians I
+, O
+Stirling I
+v O
+Dundee I
+. O
+
+Scottish I
+division O
+two O
+- O
+Ayr I
+v O
+Berwick I
+, O
+Clyde I
+v O
+Queen I
+of I
+the I
+
+South I
+, O
+Dumbarton I
+v O
+Brechin I
+, O
+Livingston I
+v O
+Hamilton I
+, O
+Stenhousemuir I
+
+v O
+Stranraer I
+. O
+
+Scottish I
+division O
+three O
+- O
+Albion I
+v O
+Cowdenbeath I
+, O
+Arbroath I
+v O
+
+East I
+Stirling I
+, O
+Inverness I
+v O
+Alloa I
+, O
+Montrose I
+v O
+Ross I
+County I
+, O
+
+Queen I
+'s I
+Park I
+v O
+Forfar I
+. O
+
+Sunday O
+, O
+September O
+1 O
+: O
+
+English I
+division O
+one O
+- O
+Queens I
+Park I
+Rangers I
+v O
+Bolton I
+. O
+

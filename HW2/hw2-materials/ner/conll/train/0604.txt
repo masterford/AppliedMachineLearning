@@ -1,0 +1,104 @@
+-DOCSTART- O
+
+HELIBOR I
+INTEREST O
+RATES O
+LARGELY O
+UNCHANGED O
+. O
+
+HELSINKI I
+1996-08-27 O
+
+Helibor I
+market O
+interest O
+rates O
+
+were O
+largely O
+unchanged O
+at O
+the O
+Bank I
+of I
+Finland I
+'s O
+daily O
+fixing O
+on O
+
+Tuesday O
+. O
+
+The O
+key O
+three-month O
+rate O
+was O
+steady O
+at O
+3.40 O
+percent O
+. O
+
+August O
+27 O
+fix O
+August O
+26 O
+fix O
+
+1-mth O
+Helibor I
+3.27 O
+pct O
+3.29 O
+pct O
+
+2-mth O
+Helibor I
+3.34 O
+pct O
+3.34 O
+pct O
+
+3-mth O
+Helibor I
+3.40 O
+pct O
+3.40 O
+pct O
+
+6-mth O
+Helibor I
+3.56 O
+pct O
+3.55 O
+pct O
+
+9-mth O
+Helibor I
+3.73 O
+pct O
+3.70 O
+pct O
+
+12-mth O
+Helibor I
+3.89 O
+pct O
+3.87 O
+pct O
+
+-- O
+Helsinki I
+newsroom O
++358 O
+- O
+0 O
+- O
+680 O
+50 O
+248 O
+

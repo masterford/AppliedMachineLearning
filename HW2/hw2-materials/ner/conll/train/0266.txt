@@ -1,0 +1,62 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+BELGIAN I
+FIRST O
+DIVISION O
+RESULTS O
+. O
+
+BRUSSELS I
+1996-08-24 O
+
+Results O
+of O
+Belgian I
+first O
+
+division O
+matches O
+on O
+Saturday O
+: O
+
+Standard I
+Liege I
+3 O
+Molenbeek I
+0 O
+
+Anderlecht I
+2 O
+Lokeren I
+2 O
+
+Cercle I
+Brugge I
+2 O
+Mouscron I
+2 O
+
+Antwerp I
+1 O
+Lommel I
+4 O
+
+Ghent I
+3 O
+Aalst I
+2 O
+
+Lierse I
+4 O
+Charleroi I
+0 O
+
+Sint I
+Truiden I
+3 O
+Ekeren I
+1 O
+

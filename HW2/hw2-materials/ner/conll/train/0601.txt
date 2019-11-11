@@ -1,0 +1,336 @@
+-DOCSTART- O
+
+Indian I
+soy O
+prices O
+end O
+steady O
+ahead O
+of O
+holiday O
+. O
+
+INDORE I
+, O
+India I
+1996-08-27 O
+
+Indian I
+soybean O
+prices O
+on O
+Tuesday O
+remained O
+steady O
+at O
+12,900-13,100 O
+rupees O
+per O
+tonne O
+in O
+plant O
+delivery O
+condition O
+, O
+dealers O
+said O
+
+They O
+said O
+arrivals O
+were O
+poor O
+due O
+to O
+the O
+festival O
+season O
+. O
+
+Markets O
+in O
+central O
+India I
+would O
+be O
+closed O
+for O
+a O
+local O
+religious O
+holiday O
+on O
+Wednesday O
+. O
+
+Soyoil O
+prices O
+fell O
+on O
+increased O
+selling O
+against O
+poor O
+demand O
+. O
+
+Soyoil O
+solvent O
+was O
+down O
+by O
+400 O
+rupees O
+per O
+tonne O
+and O
+soyoil O
+refined O
+was O
+down O
+by O
+400 O
+rupees O
+. O
+
+Soyoil O
+refined O
+fell O
+by O
+200 O
+rupees O
+on O
+weak O
+undertone O
+. O
+
+Soymeal O
+yellow O
+was O
+$ O
+276-277 O
+and O
+soymeal O
+black O
+was O
+$ O
+246-248 O
+per O
+tonne O
+in O
+export O
+. O
+
+Rapeseed O
+extraction O
+was O
+$ O
+115 O
+per O
+tonne O
+in O
+export O
+. O
+
+Export O
+demand O
+was O
+good O
+but O
+availability O
+was O
+limited O
+. O
+
+Rapeseed O
+extraction O
+was O
+3,850 O
+rupees O
+FOR O
+Bedibunder I
+and O
+was O
+3,800-3,825 O
+rupees O
+FOR O
+Bhavnagar I
+. O
+
+--------------------- O
+
+( O
+Prices O
+in O
+rupees O
+per O
+tonne O
+) O
+
+Market O
+Arrivals O
+Auction O
+Traders O
+Plant O
+
+( O
+in O
+tonnes O
+) O
+
+Dewas I
+45 O
+Yellow O
+12,700-12,950 O
+12,900-13,150 O
+12,900-13,100 O
+
+Black I
+11,900-12,100 O
+
+Mandsaur I
+10 O
+Yellow O
+12,600-12,750 O
+12,700-12,850 O
+
+Neemuch I
+n.a O
+Yellow O
+- O
+- O
+
+Mhow I
+2 O
+Yellow O
+12,700-12,800 O
+12,750-12,850 O
+
+Ratlam I
+10 O
+Yellow O
+12,600-12,750 O
+12,700-12,800 O
+
+Ashta I
+10 O
+Yellow O
+12,700-12,900 O
+12,800-13,000 O
+
+Indore I
+25 O
+Yellow O
+12,750-12,950 O
+12,900-13,100 O
+
+Dhar I
+5 O
+Yellow O
+12,700-12,800 O
+12,750-12,900 O
+
+Ujjain I
+8 O
+Yellow O
+12,750-12,900 O
+12,850-13,050 O
+
+Jaora I
+n.a O
+Yellow O
+- O
+- O
+
+Barnagar I
+n.a O
+Yellow O
+- O
+- O
+
+Khandwa I
+n.a O
+Yellow O
+- O
+- O
+
+Ashoknagar I
+n.a O
+Yellow O
+- O
+- O
+
+Nalkhera I
+n.a O
+Yellow O
+- O
+- O
+
+---------------------------------- O
+
+Soyoil O
+( O
+in O
+rupees O
+per O
+tonne O
+) O
+
+Soyoil O
+solvent O
+plant O
+delivery O
+30,300-30,400 O
+
+Soyoil O
+solvent O
+market O
+delivery O
+30,700-30,800 O
+
+Soyoil O
+refined O
+plant O
+delivery O
+32,700-32,800 O
+
+Soyoil O
+refined O
+market O
+delivery O
+32,900-33,000 O
+
+-------------------------------- O
+
+Soymeal O
+( O
+in O
+rupees O
+per O
+tonne O
+, O
+free O
+on O
+rail-FOR O
+) O
+
+Yellow I
+Black I
+
+FOR O
+Bombay I
+9,800 O
+8,800 O
+
+FOR O
+Bedi I
+Bunder I
+9,800 O
+8,800 O
+
+( O
+$ O
+1=35.73 O
+rupees O
+) O
+

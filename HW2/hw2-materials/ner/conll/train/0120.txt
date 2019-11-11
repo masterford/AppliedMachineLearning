@@ -1,0 +1,85 @@
+-DOCSTART- O
+
+Tokyo I
+Soir I
+- O
+1996 O
+parent O
+forecast O
+. O
+
+TOKYO I
+1996-08-22 O
+
+Year O
+to O
+December O
+31 O
+, O
+1996 O
+
+( O
+in O
+billions O
+of O
+yen O
+unless O
+specified O
+) O
+
+LATEST O
+ACTUAL O
+
+( O
+Parent O
+) O
+FORECAST O
+YEAR-AGO O
+
+Sales O
+26.00 O
+26.70 O
+
+Current O
+400 O
+million O
+329 O
+million O
+
+Net O
+250 O
+million O
+84 O
+million O
+
+EPS O
+11.61 O
+yen O
+3.92 O
+yen O
+
+Ord O
+div O
+10.00 O
+yen O
+10.00 O
+yen O
+
+NOTE O
+- O
+Tokyo I
+Soir I
+Co I
+Ltd I
+is O
+a O
+specialised O
+manufacturer O
+of O
+women O
+" O
+s O
+formal O
+wear O
+. O
+

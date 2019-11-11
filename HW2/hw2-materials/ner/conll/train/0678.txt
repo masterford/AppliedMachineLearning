@@ -1,0 +1,241 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+DUTCH I
+FIRST O
+DIVISION O
+SUMMARIES O
+. O
+
+AMSTERDAM I
+1996-08-28 O
+
+Summary O
+of O
+Dutch I
+first O
+division O
+
+soccer O
+played O
+on O
+Wednesday O
+: O
+
+Willem I
+II I
+Tilburg I
+1 O
+( O
+Van I
+Hintum I
+69th O
+penalty O
+) O
+RKC I
+Waalijk I
+2 O
+
+( O
+Schreuder I
+39th O
+, O
+Van I
+Arum I
+76th O
+, O
+83rd O
+) O
+. O
+
+Halftime O
+0-1 O
+. O
+
+Attendance O
+
+6,150 O
+. O
+
+Vitesse I
+Arnhem I
+1 O
+( O
+Vierklau I
+85th O
+) O
+Sparta I
+Rotterdam I
+1 O
+( O
+Gerard I
+
+de I
+Nooijer I
+80th O
+) O
+. O
+
+Halftime O
+0-0 O
+. O
+
+Attendance O
+5,696 O
+. O
+
+Utrecht I
+0 O
+Twente I
+Enschede I
+0 O
+. O
+
+Attendance O
+9,000 O
+. O
+
+Groningen I
+1 O
+( O
+Gorre I
+66th O
+) O
+Roda I
+JC I
+Kerkrade I
+1 O
+( O
+Vurens I
+3rd O
+) O
+
+Halftime O
+0-1 O
+. O
+
+Attendance O
+10,000 O
+. O
+
+Feyenoord I
+2 O
+( O
+Larsson I
+73rd O
+, O
+Van I
+Gastel I
+83rd O
+penalty O
+) O
+Graafschap I
+
+Doetinchem I
+1 O
+( O
+Schultz I
+4th O
+) O
+. O
+
+Halftime O
+0-1 O
+. O
+
+Attendance O
+22,434 O
+. O
+
+Volendam I
+1 O
+( O
+Jongsma I
+85th O
+) O
+PSV I
+Eindhoven I
+3 O
+( O
+Marcelo I
+19th O
+, O
+47th O
+, O
+
+56rd O
+) O
+. O
+
+Halftime O
+0-1 O
+. O
+
+Attendance O
+6,000 O
+. O
+
+Ajax I
+Amsterdam I
+1 O
+( O
+Frank I
+de I
+Boer I
+30th O
+) O
+AZ I
+Alkmaar I
+0 O
+. O
+
+Halftime O
+
+1-0 O
+. O
+
+Attendance O
+48,123 O
+. O
+
+Played O
+on O
+Tuesday O
+. O
+
+Fortuna I
+Sittard I
+2 O
+( O
+Jeffrey I
+7th O
+, O
+Roest I
+33rd O
+) O
+Heerenveen I
+4 O
+
+( O
+Korneev I
+15th O
+, O
+Hansma I
+24th O
+, O
+Wouden I
+70th O
+, O
+90th O
+) O
+. O
+
+Halftime O
+2-2 O
+. O
+
+Attendance O
+4,000 O
+. O
+

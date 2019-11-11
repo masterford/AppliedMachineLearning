@@ -1,0 +1,265 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+BELGIAN I
+FIRST O
+DIVISION O
+RESULTS O
+/ O
+STANDINGS O
+. O
+
+BRUSSELS I
+1996-08-25 O
+
+Results O
+of O
+Belgian I
+first O
+
+division O
+soccer O
+matches O
+at O
+the O
+weekend O
+: O
+
+Genk I
+1 O
+Club I
+Brugge I
+1 O
+
+Harelbeke I
+3 O
+Mechelen I
+3 O
+
+Standard I
+Liege I
+3 O
+Molenbeek I
+0 O
+
+Anderlecht I
+2 O
+Lokeren I
+2 O
+
+Cercle I
+Brugge I
+2 O
+Mouscron I
+2 O
+
+Antwerp I
+1 O
+Lommel I
+4 O
+
+Ghent I
+3 O
+Aalst I
+2 O
+
+Lierse I
+4 O
+Charleroi I
+0 O
+
+Sint I
+Truiden I
+3 O
+Ekeren I
+1 O
+
+Standings O
+( O
+tabulated O
+under O
+played O
+, O
+won O
+, O
+drawn O
+, O
+lost O
+, O
+goals O
+
+for O
+, O
+against O
+, O
+points O
+) O
+: O
+
+Ghent I
+4 O
+3 O
+1 O
+0 O
+9 O
+5 O
+10 O
+
+Standard I
+Liege I
+4 O
+3 O
+0 O
+1 O
+7 O
+3 O
+9 O
+
+Club I
+Brugge I
+4 O
+2 O
+2 O
+0 O
+10 O
+4 O
+8 O
+
+Mouscron I
+4 O
+2 O
+2 O
+0 O
+7 O
+4 O
+8 O
+
+Anderlecht I
+4 O
+1 O
+3 O
+0 O
+9 O
+3 O
+6 O
+
+Lierse I
+4 O
+1 O
+3 O
+0 O
+7 O
+3 O
+6 O
+
+Antwerp I
+4 O
+2 O
+0 O
+2 O
+6 O
+10 O
+6 O
+
+Genk I
+4 O
+1 O
+2 O
+1 O
+6 O
+5 O
+5 O
+
+Molenbeek I
+4 O
+1 O
+2 O
+1 O
+4 O
+5 O
+5 O
+
+Harelbeke I
+4 O
+1 O
+1 O
+2 O
+6 O
+7 O
+4 O
+
+Aalst I
+4 O
+1 O
+1 O
+2 O
+5 O
+6 O
+4 O
+
+Lokeren I
+4 O
+1 O
+1 O
+2 O
+4 O
+5 O
+4 O
+
+Ekeren I
+4 O
+1 O
+1 O
+2 O
+6 O
+8 O
+4 O
+
+Lommel I
+4 O
+1 O
+1 O
+2 O
+5 O
+10 O
+4 O
+
+Mechelen I
+4 O
+0 O
+3 O
+1 O
+6 O
+7 O
+3 O
+
+Cercle I
+Brugge I
+4 O
+0 O
+3 O
+1 O
+4 O
+5 O
+3 O
+
+Charleroi I
+4 O
+1 O
+0 O
+3 O
+4 O
+8 O
+3 O
+
+Sint I
+Truiden I
+4 O
+1 O
+0 O
+3 O
+4 O
+11 O
+3 O
+

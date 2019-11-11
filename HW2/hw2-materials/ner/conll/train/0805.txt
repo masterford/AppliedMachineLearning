@@ -1,0 +1,312 @@
+-DOCSTART- O
+
+CRICKET O
+- O
+ENGLAND I
+V O
+PAKISTAN I
+ONE-DAY O
+SCOREBOARD O
+. O
+
+MANCHESTER I
+, O
+England I
+1996-08-29 O
+
+Scoreboard O
+of O
+the O
+
+first O
+one-day O
+( O
+50 O
+overs-a-side O
+) O
+match O
+between O
+England I
+and O
+
+Pakistan I
+at O
+Old I
+Trafford I
+on O
+Thursday O
+: O
+
+Pakistan I
+
+Saeed I
+Anwar I
+c O
+Mullally I
+b O
+Irani I
+57 O
+
+Aamir I
+Sohail I
+b O
+Croft I
+48 O
+
+Ijaz I
+Ahmed I
+c O
+Irani I
+b O
+Mullally I
+48 O
+
+Wasim I
+Akram I
+b O
+Croft I
+6 O
+
+Inzamam-ul-Haq I
+not O
+out O
+37 O
+
+Moin I
+Khan I
+b O
+Gough I
+10 O
+
+Salim I
+Malik I
+not O
+out O
+6 O
+
+Extras O
+( O
+b-2 O
+lb-4 O
+w-7 O
+) O
+13 O
+
+Total O
+( O
+for O
+5 O
+wickets O
+, O
+innings O
+closed O
+) O
+225 O
+
+Fall O
+: O
+1-82 O
+2-141 O
+3-160 O
+4-174 O
+5-203 O
+. O
+
+Did O
+Not O
+Bat O
+: O
+Mushtaq I
+Ahmed I
+, O
+Waqar I
+Younis I
+, O
+Ata-ur-Rehman I
+, O
+
+Saqlain I
+Mushtaq I
+. O
+
+Bowling O
+: O
+Gough I
+10-0-44-1 O
+, O
+Mullally I
+10-3-31-1 O
+, O
+Headley I
+
+10-0-52-0 O
+, O
+Irani I
+10-0-56-1 O
+, O
+Croft I
+10-1-36-2 O
+. O
+
+England I
+
+N. I
+Knight I
+c O
+Moin I
+Khan I
+b O
+Wasim I
+Akram I
+26 O
+
+A. I
+Stewart I
+lbw O
+b O
+Waqar I
+Younis I
+48 O
+
+M. I
+Atherton I
+b O
+Wasim I
+Akram I
+65 O
+
+G. I
+Thorpe I
+st O
+Moin I
+Khan I
+b O
+Aamir I
+Sohail I
+23 O
+
+M. I
+Maynard I
+b O
+Wasim I
+Akram I
+41 O
+
+G. I
+Lloyd I
+not O
+out O
+2 O
+
+R. I
+Irani I
+not O
+out O
+6 O
+
+Extras O
+( O
+lb-4 O
+w-7 O
+nb-4 O
+) O
+15 O
+
+Total O
+( O
+for O
+5 O
+wickets O
+, O
+46.4 O
+overs O
+) O
+226 O
+
+Fall O
+of O
+wickets O
+: O
+1-57 O
+2-98 O
+3-146 O
+4-200 O
+5-220 O
+. O
+
+Did O
+not O
+bat O
+: O
+R. I
+Croft I
+, O
+D. I
+Gough I
+, O
+D. I
+Headley I
+, O
+A. I
+Mullally I
+. O
+
+Bowling O
+: O
+Wasim I
+Akram I
+9.4-1-45-3 O
+, O
+Waqar I
+Younis I
+7-0-28-1 O
+, O
+
+Saqlain I
+Mushtaq I
+10-1-54-0 O
+, O
+Ata-ur-Rehman I
+3-0-14-0 O
+, O
+Mushtaq I
+Ahmed I
+
+10-0-52-0 O
+, O
+Aamir I
+Sohail I
+7-1-29-1 O
+. O
+
+Result O
+: O
+England I
+won O
+by O
+five O
+wickets O
+. O
+
+Second O
+match O
+: O
+August O
+31 O
+, O
+Edgbaston I
+( O
+Birmingham I
+) O
+
+Third O
+: O
+September O
+1 O
+, O
+Trent I
+Bridge I
+( O
+Nottingham I
+) O
+

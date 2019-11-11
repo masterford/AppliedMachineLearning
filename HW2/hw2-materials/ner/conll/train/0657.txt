@@ -1,0 +1,184 @@
+-DOCSTART- O
+
+SQUASH O
+- O
+HONG I
+OPEN I
+FIRST O
+ROUND O
+RESULTS O
+. O
+
+HONG I
+KONG I
+1996-08-28 O
+
+First O
+round O
+results O
+in O
+the O
+Hong I
+
+Kong I
+Open I
+on O
+Wednesday O
+( O
+prefix O
+denotes O
+seeding O
+) O
+: O
+
+2 O
+- O
+Rodney I
+Eyles I
+( O
+Australia I
+) O
+beat O
+Zarak I
+Jahan I
+Khan I
+( O
+Pakistan I
+) O
+
+15-6 O
+8-15 O
+15-10 O
+7-15 O
+15-12 O
+
+4 O
+- O
+Peter I
+Nicol I
+( O
+Scotland I
+) O
+beat O
+Julian I
+Wellings I
+( O
+England I
+) O
+15-8 O
+
+15-7 O
+15-6 O
+
+Derek I
+Ryan I
+( O
+Ireland I
+) O
+beat O
+5 O
+- O
+Simon I
+Parke I
+( O
+England I
+) O
+15-11 O
+15-11 O
+
+2-15 O
+15-11 O
+
+7 O
+- O
+Chris I
+Walker I
+( O
+England I
+) O
+beat O
+Julien I
+Bonetat I
+( O
+France I
+) O
+15-12 O
+
+15-6 O
+15-2 O
+
+Jonathon I
+Power I
+( O
+Canada I
+) O
+beat O
+Ahmed I
+Barada I
+( O
+Egypt I
+) O
+11-15 O
+8-15 O
+
+15-13 O
+15-11 O
+15-2 O
+
+Amr I
+Shabana I
+( O
+Egypt I
+) O
+beat O
+John I
+White I
+( O
+Australia I
+) O
+10-15 O
+15-9 O
+
+15-10 O
+16-17 O
+15-1 O
+
+Paul I
+Johnson I
+( O
+England I
+) O
+beat O
+Tony I
+Hands I
+( O
+England I
+) O
+12-15 O
+15-11 O
+
+7-15 O
+15-6 O
+15-11 O
+
+Zubair I
+Jahan I
+Khan I
+( O
+Pakistan I
+) O
+beat O
+Faheem I
+Khan I
+( O
+Hong I
+Kong I
+) O
+12-15 O
+
+15-10 O
+15-10 O
+15-10 O
+
+R O
+

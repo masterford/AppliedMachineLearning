@@ -1,0 +1,264 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+MEXICAN I
+CHAMPIONSHIP O
+RESULTS O
+/ O
+STANDINGS O
+. O
+
+MEXICO I
+CITY I
+1996-08-26 O
+
+Results O
+of O
+weekend O
+matches O
+
+in O
+the O
+Mexican I
+soccer O
+championship O
+: O
+
+Atlante I
+1 O
+Atlas I
+1 O
+
+Cruz I
+Azul I
+2 O
+Leon I
+2 O
+
+Guadalajara I
+5 O
+America I
+0 O
+
+Monterrey I
+2 O
+Veracruz I
+1 O
+
+Pachuca I
+3 O
+Toluca I
+0 O
+
+Puebla I
+2 O
+UNAM I
+1 O
+
+Santos I
+2 O
+Morelia I
+1 O
+
+UAG I
+1 O
+Neza I
+2 O
+
+Standings O
+( O
+tabulated O
+under O
+played O
+, O
+won O
+, O
+drawn O
+, O
+lost O
+, O
+goals O
+
+for O
+, O
+against O
+, O
+points O
+) O
+
+Group O
+1 O
+
+Puebla I
+3 O
+3 O
+0 O
+0 O
+7 O
+2 O
+9 O
+
+Cruz I
+Azul I
+3 O
+2 O
+1 O
+0 O
+7 O
+3 O
+7 O
+
+Atlante I
+3 O
+2 O
+1 O
+0 O
+6 O
+2 O
+7 O
+
+Neza I
+3 O
+1 O
+0 O
+2 O
+2 O
+7 O
+3 O
+
+Veracruz I
+3 O
+0 O
+1 O
+2 O
+2 O
+6 O
+1 O
+
+Group O
+2 O
+
+Necaxa I
+3 O
+1 O
+1 O
+1 O
+6 O
+4 O
+4 O
+
+Pachuca I
+3 O
+1 O
+1 O
+1 O
+6 O
+7 O
+4 O
+
+Leon I
+3 O
+0 O
+3 O
+0 O
+3 O
+3 O
+3 O
+
+America I
+3 O
+1 O
+0 O
+2 O
+5 O
+7 O
+3 O
+
+Morelia I
+3 O
+0 O
+1 O
+2 O
+3 O
+8 O
+1 O
+
+Group O
+3 O
+
+Atlas I
+3 O
+2 O
+1 O
+0 O
+7 O
+2 O
+7 O
+
+Guadalajara I
+3 O
+2 O
+1 O
+0 O
+7 O
+0 O
+7 O
+
+Toluca I
+3 O
+1 O
+0 O
+2 O
+6 O
+5 O
+3 O
+
+UNAM I
+3 O
+0 O
+0 O
+3 O
+2 O
+6 O
+0 O
+
+Group O
+4 O
+
+Santos I
+3 O
+3 O
+0 O
+0 O
+4 O
+1 O
+9 O
+
+Monterrey I
+4 O
+1 O
+1 O
+2 O
+2 O
+5 O
+4 O
+
+Celaya I
+2 O
+0 O
+2 O
+0 O
+1 O
+1 O
+2 O
+
+UAG I
+3 O
+0 O
+0 O
+3 O
+1 O
+8 O
+0 O
+

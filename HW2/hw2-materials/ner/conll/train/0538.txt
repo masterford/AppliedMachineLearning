@@ -1,0 +1,120 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+GERMAN I
+FIRST O
+DIVISION O
+SUMMARIES O
+. O
+
+BONN I
+1996-08-27 O
+
+Summaries O
+of O
+Bundesliga I
+matches O
+
+played O
+on O
+Tuesday O
+: O
+
+Borussia I
+Dortmund I
+3 O
+( O
+Riedle I
+8th O
+minute O
+, O
+Heinrich I
+29th O
+, O
+
+Tretschok I
+77th O
+) O
+Freiburg I
+1 O
+( O
+Decheiver I
+51st O
+penalty O
+) O
+. O
+
+Halftime O
+
+2-0 O
+. O
+
+Attendance O
+48,800 O
+. O
+
+Hamburg I
+0 O
+VfB I
+Stuttgart I
+4 O
+( O
+Balakov I
+29th O
+, O
+Bobic I
+47th O
+and O
+60th O
+, O
+
+Hagner I
+85th O
+) O
+. O
+
+0-1 O
+. O
+
+31,139 O
+. O
+
+Werder I
+Bremen I
+1 O
+( O
+Schulz I
+31st O
+) O
+Borussia I
+Moenchengladbach I
+0 O
+. O
+
+1-0 O
+. O
+
+24,800 O
+. O
+
+Schalke I
+1 O
+( O
+Thon I
+2nd O
+) O
+Bochum I
+1 O
+( O
+Donkow I
+86th O
+) O
+. O
+
+1-0 O
+. O
+
+33,230 O
+. O
+

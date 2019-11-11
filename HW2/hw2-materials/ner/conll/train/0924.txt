@@ -1,0 +1,103 @@
+-DOCSTART- O
+
+M'bishi I
+Gas I
+sets O
+terms O
+on O
+7-year O
+straight O
+. O
+
+TOKYO I
+1996-08-29 O
+
+BORROWER O
+- O
+Mitsubishi I
+Gas I
+Chemical I
+Co I
+Ltd I
+
+LEAD O
+MGR O
+- O
+Nomura I
+Securities I
+Co I
+Ltd I
+
+FISCAL O
+AGENT O
+- O
+Tokyo-Mitsubishi I
+Bank I
+
+TYPE O
+straight O
+bond O
+ISSUE O
+NO O
+13 O
+AMT O
+10 O
+bln O
+yen O
+
+COUPON O
+2.95 O
+% O
+ISS O
+PRICE O
+MATURITY O
+5 O
+. O
+
+Sep.03 O
+
+LAST O
+MOODY I
+'S I
+PAY O
+DATE O
+5 O
+. O
+
+Sep.96 O
+
+FIRST O
+INT O
+PAY O
+5 O
+. O
+
+Mar.97 O
+INT O
+PAY O
+5 O
+. O
+
+Mar O
+/ O
+Sep O
+
+LAST O
+S&P I
+SIGN O
+DATE O
+SUB O
+DATE O
+5 O
+. O
+
+Jul-18.Jul O
+
+LAST O
+JCR O
+LAST O
+JBRI O
+A O
+LAST O
+NIS O
+

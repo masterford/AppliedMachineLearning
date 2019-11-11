@@ -1,0 +1,268 @@
+-DOCSTART- O
+
+CRICKET O
+- O
+INDIA I
+V O
+SRI I
+LANKA I
+SCOREBOARD O
+. O
+
+COLOMBO I
+1996-08-28 O
+
+Scoreboard O
+of O
+the O
+second O
+Singer I
+
+World I
+Series I
+cricket O
+match O
+between O
+India I
+and O
+Sri I
+Lanka I
+on O
+
+Wednesday O
+: O
+
+India I
+
+A. I
+Jadeja I
+run O
+out O
+0 O
+
+S. I
+Tendulkar I
+run O
+out O
+110 O
+
+S. I
+Ganguly I
+c O
+de I
+Silva I
+b O
+Dharmasena I
+16 O
+
+M. I
+Azharuddin I
+st O
+Kaluwitharana I
+b O
+Jayasuriya I
+58 O
+
+V. I
+Kambli I
+run O
+out O
+18 O
+
+R. I
+Dravid I
+not O
+out O
+7 O
+
+J. I
+Srinath I
+not O
+out O
+1 O
+
+Extras O
+( O
+b-1 O
+lb-3 O
+w-9 O
+nb-3 O
+) O
+16 O
+
+Total O
+( O
+5 O
+wickets O
+, O
+50 O
+overs O
+) O
+226 O
+
+Fall O
+of O
+wickets O
+: O
+1-4 O
+2-57 O
+3-186 O
+4-217 O
+5-217 O
+. O
+
+Did O
+not O
+bat O
+: O
+A. I
+Kumble I
+, O
+N. I
+Mongia I
+, O
+V. I
+Prasad I
+, O
+A. I
+Kapoor I
+. O
+
+Bowling O
+: O
+Vass I
+9-2-35-0 O
+, O
+Pushpakumara I
+6-0-23-0 O
+, O
+Dharmasena I
+
+10-0-59-1 O
+Muralitharan I
+10-0-42-0 O
+, O
+Jayasuriya I
+10-1-39-1 O
+, O
+de I
+Silva I
+
+5-0-24-0 O
+. O
+
+Sri I
+Lanka I
+
+S. I
+Jayasuriya I
+not O
+out O
+120 O
+
+R. I
+Kaluwitharana I
+b O
+Tendulkar I
+53 O
+
+A.de I
+Silva I
+not O
+out O
+49 O
+
+Extras O
+( O
+lb-3 O
+nb-3 O
+w-2 O
+) O
+8 O
+
+Total O
+( O
+for O
+one O
+wicket O
+- O
+44.2 O
+overs O
+) O
+230 O
+
+Fall O
+of O
+wicket O
+: O
+1-129 O
+
+Did O
+not O
+bat O
+: O
+Arjuna I
+Ranatunga I
+, O
+Asanka I
+Gurusinha I
+, O
+Hashan I
+
+Tillekeratne I
+, O
+Roshan I
+Mahanama I
+, O
+Kumara I
+Dharmasena I
+, O
+Chaminda I
+Vaas I
+, O
+
+Muthiah I
+Muralitharan I
+, O
+Ravindra I
+Pushpakumara I
+
+Bowling O
+: O
+Kumble I
+10-1-40-0 O
+, O
+Prasad I
+6-0-47-0 O
+, O
+Srinath I
+
+8-0-33-0 O
+, O
+Tendulkar I
+6-0-29-1 O
+, O
+Kapoor I
+10-2-51-0 O
+, O
+Jadeja I
+
+2.2-0-13-0 O
+, O
+Ganguly I
+2-0-14-0 O
+
+Result O
+: O
+Sri I
+Lanka I
+won O
+by O
+9 O
+wickets O
+
+Man-of-the-Match O
+: O
+Sanath I
+Jayasuriya I
+

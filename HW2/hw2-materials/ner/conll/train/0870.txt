@@ -1,0 +1,44 @@
+-DOCSTART- O
+
+U.S. I
+DLA I
+sets O
+tin O
+price O
+at O
+$ O
+2.7975 O
+per O
+lb O
+. O
+
+WASHINGTON I
+1996-08-29 O
+
+The O
+U.S. I
+Defense I
+Logistics I
+Agency I
+set O
+Thursday O
+'s O
+offering O
+price O
+for O
+stockpile O
+tin O
+at O
+$ O
+2.7975 O
+per O
+lb O
+, O
+versus O
+$ O
+2.7775 O
+per O
+lb O
+yesterday O
+. O
+

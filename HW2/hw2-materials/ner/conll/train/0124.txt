@@ -1,0 +1,363 @@
+-DOCSTART- O
+
+Key O
+stock O
+and O
+currency O
+market O
+movements O
+at O
+1600 O
+GMT I
+. O
+
+LONDON I
+1996-08-23 O
+
+The O
+following O
+table O
+shows O
+the O
+latest O
+close O
+of O
+key O
+indices* O
+on O
+major O
+world O
+stock O
+exchanges O
+, O
+the O
+day O
+'s O
+change O
+in O
+points O
+and O
+the O
+indices O
+' O
+1996 O
+closing O
+highs O
+and O
+lows O
+( O
+with O
+dates O
+) O
+. O
+
+Also O
+shown O
+are O
+the O
+London I
+closing O
+values O
+of O
+the O
+German I
+mark O
+, O
+the O
+Japanese I
+yen O
+, O
+the O
+British I
+pound O
+and O
+gold O
+bullion O
+( O
+previous O
+day O
+'s O
+closes O
+in O
+brackets O
+) O
+: O
+
+AUG O
+23 O
+DAY O
+'S O
+CHANGE O
+1996 O
+HIGH O
+1996 O
+LOW O
+
+CLOSE O
+IN O
+POINTS O
+
+NEW I
+YORK I
+5,710.53 O
+- O
+22.94 O
+5,778.00 O
+5,032.94 O
+
+( O
+midday O
+) O
+( O
+May O
+22 O
+) O
+( O
+Jan O
+10 O
+) O
+
+LONDON I
+3,907.5 O
++16.4 O
+3,907.5 O
+3,632.3 O
+
+( O
+Aug O
+23 O
+) O
+( O
+Jul O
+16 O
+) O
+
+TOKYO I
+21,228.80 O
+- O
+134.44 O
+22,666.80 O
+19,734.70 O
+
+( O
+Jun O
+26 O
+) O
+( O
+Mar O
+13 O
+) O
+
+FRANKFURT I
+2,555.16 O
+- O
+2.10 O
+2,583.49 O
+) O
+2,284.86 O
+
+( O
+Jul O
+5 O
+) O
+( O
+Jan O
+2 O
+) O
+
+PARIS I
+2,020.82 O
++3.06 O
+2,146.79 O
+1,897.85 O
+
+( O
+Apr O
+30 O
+) O
+( O
+Jan O
+11 O
+) O
+
+SYDNEY I
+2,292.9 O
++18.3 O
+2,326.00 O
+2,096.10 O
+
+( O
+Apr O
+26 O
+) O
+( O
+Jul O
+17 O
+) O
+
+HONG I
+KONG I
+11,424.64 O
+- O
+54.13 O
+11,594.99 O
+10,204.87 O
+
+( O
+Feb O
+16 O
+) O
+( O
+Jan O
+2 O
+) O
+
+- O
+- O
+- O
+- O
+
+FOREIGN O
+EXCHANGE O
+/ O
+GOLD O
+BULLION O
+CLOSE O
+IN O
+LONDON I
+
+Dollar O
+/ O
+mark O
+... O
+
+1.4871 O
+( O
+1.4935 O
+) O
+
+Dollar O
+/ O
+yen O
+.... O
+
+108.50 O
+( O
+108.43 O
+) O
+
+Pound O
+/ O
+dollar O
+.. O
+
+$ O
+1.5520 O
+( O
+$ O
+1.5497 O
+) O
+
+Gold O
+( O
+ounce O
+) O
+.. O
+
+$ O
+387.50 O
+( O
+$ O
+386.95 O
+) O
+
+- O
+- O
+- O
+- O
+
+*INDICES O
+USED O
+AND O
+THEIR O
+ALL-TIME O
+CLOSING O
+HIGHS O
+
+New I
+York I
+Dow I
+Jones I
+industrial O
+average O
+-- O
+5,778.00 O
+( O
+May O
+22/96 O
+) O
+
+London I
+FTSE-100 I
+index O
+-- O
+3,907.5 O
+( O
+Aug O
+23/96 O
+) O
+
+Tokyo I
+Nikkei I
+average O
+-- O
+38,915.87 O
+( O
+Dec O
+29/89 O
+) O
+
+Frankfurt I
+DAX-3O I
+index O
+-- O
+2,583.49 O
+( O
+Jul O
+5/96 O
+) O
+
+Paris I
+CAC-40 I
+General I
+index O
+-- O
+2,355.93 O
+( O
+Feb O
+2/94 O
+) O
+
+Sydney I
+Australian I
+All-Ordinaries I
+index O
+-- O
+2,340.6 O
+( O
+Feb O
+3/94 O
+) O
+
+Hong I
+Kong I
+Hang I
+Seng I
+index O
+-- O
+12,201.09 O
+( O
+Jan O
+4/94 O
+) O
+

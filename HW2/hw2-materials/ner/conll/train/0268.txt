@@ -1,0 +1,213 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+FRENCH I
+LEAGUE O
+SUMMARIES O
+. O
+
+PARIS I
+1996-08-24 O
+
+Summaries O
+of O
+French I
+first O
+division O
+
+matches O
+on O
+Saturday O
+: O
+
+Nantes I
+0 O
+Lens I
+1 O
+( O
+Smicer I
+52nd O
+) O
+. O
+
+Halftime O
+0-0 O
+. O
+
+Attendance O
+16,000 O
+. O
+
+Nice I
+1 O
+( O
+Debbah I
+39th O
+) O
+Bastia I
+1 O
+( O
+Drobnjak I
+82nd O
+) O
+. O
+
+1-0 O
+. O
+
+6,000 O
+. O
+
+Lille I
+3 O
+( O
+Boutoille I
+47th O
+, O
+Becanovic I
+79th O
+pen O
+, O
+82nd O
+) O
+) O
+Rennes I
+1 O
+
+( O
+Guivarc'h I
+60th O
+pen O
+. O
+
+) O
+0-0 O
+. O
+
+6,000 O
+. O
+
+Bordeaux I
+0 O
+Auxerre I
+0 O
+. O
+
+30,000 O
+. O
+
+Marseille I
+1 O
+( O
+Gravelaine I
+24th O
+) O
+Metz I
+2 O
+( O
+Traore I
+65th O
+, O
+Bombarda I
+
+69th O
+) O
+. O
+
+1-0 O
+. O
+
+20,000 O
+. O
+
+Strasbourg I
+1 O
+( O
+Zitelli I
+80th O
+) O
+Le I
+Havre I
+0 O
+. O
+
+0-0 O
+. O
+
+15,000 O
+
+Caen I
+1 O
+( O
+Bancarel I
+70th O
+) O
+Lyon I
+1 O
+( O
+Caveglia I
+89th O
+) O
+. O
+
+0-0 O
+. O
+
+9,000 O
+. O
+
+Guingamp I
+2 O
+( O
+Wreh I
+15th O
+, O
+42nd O
+) O
+Monaco I
+1 O
+( O
+Scifo I
+35th O
+) O
+. O
+
+2-1 O
+. O
+
+7,000 O
+. O
+
+Montpellier I
+0 O
+Cannes I
+1 O
+( O
+Charvet I
+8th O
+) O
+. O
+
+0-1 O
+. O
+
+10,000 O
+. O
+
+Played O
+on O
+Friday O
+: O
+
+Nancy I
+0 O
+Paris I
+St I
+Germain I
+0 O
+. O
+
+15,000 O
+. O
+

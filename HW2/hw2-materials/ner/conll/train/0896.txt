@@ -1,0 +1,105 @@
+-DOCSTART- O
+
+U.S. I
+wheat O
+weekly O
+export O
+sales O
+highlights O
+- O
+USDA I
+. O
+
+WASHINGTON I
+1996-08-29 O
+
+U.S. I
+wheat O
+major O
+net O
+sales O
+activity O
+in O
+the O
+week O
+ended O
+Aug O
+22 O
+reported O
+by O
+exporters O
+for O
+the O
+following O
+purchasing O
+countries O
+, O
+in O
+tonnes O
+: O
+
+Net O
+Sales O
+: O
+1996/97 O
+1997/98 O
+
+Egypt I
+199,900 O
+Nil O
+
+S. I
+Korea I
+149,100-A O
+
+Japan I
+74,600 O
+
+China I
+55,000-B O
+
+Indonesia I
+55,000-B O
+
+Unknown O
+- O
+161,600 O
+
+A- O
+includes O
+54,600 O
+tonnes O
+changed O
+from O
+unknown O
+. O
+
+B- O
+reflects O
+55,000 O
+tonnes O
+changed O
+from O
+unknown O
+. O
+
+Primary O
+Export O
+Destinations O
+: O
+Egypt I
+, O
+Morocco I
+, O
+S. I
+Korea I
+, O
+Yemen I
+, O
+Pakistan I
+, O
+Mexico I
+and O
+China I
+. O
+

@@ -1,0 +1,297 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+HUNGARY I
+FIRST O
+DIVISION O
+RESULTS O
+/ O
+STANDINGS O
+. O
+
+BUDAPEST I
+1996-08-26 O
+
+Hungarian I
+first O
+division O
+
+soccer O
+results O
+and O
+standings O
+from O
+weekend O
+and O
+bank O
+holiday O
+: O
+
+Stadler I
+0 O
+Haladas I
+0 O
+
+MTK I
+3 O
+Ferencvaros I
+0 O
+
+Bekescsaba I
+0 O
+BVSC I
+1 O
+
+Csepel I
+1 O
+Videoton(* I
+) O
+1 O
+
+ZTE I
+1 O
+Debrecen I
+5 O
+
+Siofok I
+0 O
+Ujpest I
+2 O
+
+Vac I
+0 O
+Vasas I
+1 O
+
+Kispest I
+3 O
+Pecs I
+1 O
+
+Standings O
+( O
+tabulated O
+under O
+played O
+, O
+won O
+, O
+drawn O
+, O
+lost O
+, O
+goals O
+
+for O
+, O
+goals O
+against O
+, O
+points O
+) O
+: O
+
+1. O
+Ujpest I
+TE I
+3 O
+3 O
+- O
+- O
+10 O
+2 O
+9 O
+
+2. O
+MTK I
+3 O
+3 O
+- O
+- O
+7 O
+1 O
+9 O
+
+3. O
+BVSC I
+3 O
+2 O
+1 O
+- O
+6 O
+2 O
+7 O
+
+4. O
+Debrecen I
+3 O
+2 O
+- O
+1 O
+10 O
+4 O
+6 O
+
+5. O
+Bekescsaba I
+3 O
+2 O
+- O
+1 O
+6 O
+2 O
+6 O
+
+6. O
+FTC I
+3 O
+2 O
+- O
+1 O
+8 O
+7 O
+6 O
+
+7. O
+Haladas I
+3 O
+1 O
+2 O
+- O
+2 O
+1 O
+5 O
+
+8. O
+Videoton I
+3 O
+1 O
+1 O
+1 O
+7 O
+5 O
+4 O
+
+9. O
+Vasas I
+3 O
+1 O
+1 O
+1 O
+3 O
+3 O
+4 O
+
+10. O
+Kispest I
+3 O
+1 O
+1 O
+1 O
+6 O
+7 O
+4 O
+
+11. O
+Gyor I
+3 O
+1 O
+1 O
+1 O
+3 O
+5 O
+4 O
+
+12. O
+Csepel I
+3 O
+- O
+3 O
+- O
+3 O
+3 O
+3 O
+
+13. O
+Pecs I
+3 O
+1 O
+- O
+2 O
+3 O
+5 O
+3 O
+
+14. O
+ZTE I
+3 O
+1 O
+- O
+2 O
+3 O
+10 O
+3 O
+
+15. O
+Stadler I
+FC O
+3 O
+- O
+1 O
+2 O
+2 O
+6 O
+1 O
+
+16. O
+III.ker.TVE I
+3 O
+- O
+1 O
+2 O
+2 O
+7 O
+1 O
+
+17. O
+Siofok I
+3 O
+- O
+- O
+3 O
+2 O
+7 O
+0 O
+
+18. O
+Vac I
+3 O
+- O
+- O
+3 O
+2 O
+8 O
+0 O
+
+*Name O
+of O
+Parmalat I
+/ I
+Fehervar I
+FC I
+has O
+been O
+changed O
+to O
+Videoton I
+. O
+
+-- O
+Budapest I
+newsroom O
+, O
++361 O
+266 O
+2410 O
+

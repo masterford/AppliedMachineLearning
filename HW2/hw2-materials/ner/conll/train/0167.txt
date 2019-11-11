@@ -1,0 +1,185 @@
+-DOCSTART- O
+
+FORECAST O
+- O
+S.AFRICAN I
+COMPANY O
+RESULTS O
+CONSENSUS O
+. O
+
+JOHANNESBURG I
+1996-08-23 O
+
+Analysts O
+estimates O
+of O
+major O
+
+South I
+African I
+company O
+results O
+expected O
+next O
+week O
+include O
+the O
+
+following O
+( O
+all O
+figures O
+cents O
+per O
+share O
+) O
+: O
+
+DAY--COMPANY----PERIOD--CONSENSUS----RANGE-------PVS O
+
+MON O
+Gencor I
+YR O
+EPS O
+93.12 O
+92.0-94.5 O
+73.8 O
+
+MON O
+Gencor I
+YR O
+DIV O
+25.75 O
+25.0-27.0 O
+20.0 O
+
+MON O
+Primedia I
+YR O
+EPS O
+N O
+/ O
+A O
+149.1 O
+
+MON O
+Primedia I
+YR O
+DIV O
+N O
+/ O
+A O
+123.2 O
+
+MON O
+Distillers I
+YR O
+EPS O
+N O
+/ O
+A O
+71.8 O
+
+MON O
+Distillers I
+YR O
+DIV O
+N O
+/ O
+A O
+49.0 O
+
+TUE O
+Iscor I
+YR O
+EPS O
+29.7 O
+26.0-32.0 O
+38.0 O
+
+TUE O
+Iscor I
+YR O
+DIV O
+15.0 O
+14.5-16.5 O
+16.5 O
+
+TUE O
+McCarthy I
+YR O
+EPS O
+125.3 O
+112.0-149.0 O
+93.2 O
+
+TUE O
+McCarthy I
+YR O
+DIV O
+36.8 O
+32.0-43.0 O
+28.0 O
+
+WED O
+Imphold I
+YR O
+EPS O
+172.7 O
+170.4-175.0 O
+115.1 O
+
+WED O
+Imphold I
+YR O
+DIV O
+67.5 O
+66.6-68.4 O
+45.0 O
+
+THU O
+M&R I
+YR O
+EPS O
+113.0 O
+112.1-113.4 O
+126.0 O
+
+THU O
+M&R I
+YR O
+DIV O
+31.7 O
+10.5-42.3 O
+47.0 O
+
+THU O
+JD I
+Group I
+YR O
+EPS O
+143.7 O
+138.0-149.0 O
+111.2 O
+
+THU O
+JD I
+Group I
+YR O
+DIV O
+41.8 O
+41.0-42.5 O
+33.0 O
+
+ooOOoo O
+
+-- O
+Johannesburg I
+newsroom O
+, O
++27 O
+11 O
+482 O
+1003 O
+

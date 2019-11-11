@@ -1,0 +1,494 @@
+-DOCSTART- O
+
+CRICKET O
+- O
+ENGLAND I
+AND O
+PAKISTAN I
+TEST O
+AVERAGES O
+. O
+
+LONDON I
+1996-08-27 O
+
+England I
+and O
+Pakistan I
+Test O
+averages O
+
+after O
+their O
+three-match O
+series O
+which O
+ended O
+on O
+Monday O
+: O
+
+England I
+
+Batting O
+( O
+tabulated O
+under O
+matches O
+, O
+innings O
+, O
+not O
+outs O
+, O
+runs O
+, O
+
+highest O
+score O
+, O
+average O
+) O
+: O
+
+Alec I
+Stewart I
+3 O
+5 O
+0 O
+396 O
+170 O
+79.20 O
+
+John I
+Crawley I
+2 O
+3 O
+0 O
+178 O
+106 O
+59.33 O
+
+Nick I
+Knight I
+3 O
+5 O
+0 O
+190 O
+113 O
+38.00 O
+
+Nasser I
+Hussain I
+2 O
+3 O
+0 O
+111 O
+51 O
+37.00 O
+
+Mike I
+Atherton I
+3 O
+5 O
+0 O
+162 O
+64 O
+32.40 O
+
+Graham I
+Thorpe I
+3 O
+5 O
+0 O
+159 O
+77 O
+31.80 O
+
+Jack I
+Russell I
+2 O
+3 O
+1 O
+51 O
+41no O
+25.50 O
+
+Ian I
+Salisbury I
+2 O
+4 O
+1 O
+50 O
+40 O
+16.66 O
+
+Mark I
+Ealham I
+1 O
+2 O
+0 O
+30 O
+25 O
+15.00 O
+
+Dominic I
+Cork I
+3 O
+5 O
+0 O
+58 O
+26 O
+11.60 O
+
+Robert I
+Croft I
+1 O
+2 O
+1 O
+11 O
+6 O
+11.00 O
+
+Simon I
+Brown I
+1 O
+2 O
+1 O
+11 O
+10no O
+11.00 O
+
+Alan I
+Mullally I
+3 O
+5 O
+1 O
+39 O
+24 O
+9.75 O
+
+Chris I
+Lewis I
+2 O
+3 O
+0 O
+18 O
+9 O
+6.00 O
+
+Andy I
+Caddick I
+1 O
+1 O
+0 O
+4 O
+4 O
+4.00 O
+
+Graeme I
+Hick I
+1 O
+2 O
+0 O
+8 O
+4 O
+4.00 O
+
+Bowling O
+( O
+tabulated O
+under O
+overs O
+, O
+maidens O
+, O
+runs O
+, O
+wickets O
+, O
+
+average O
+) O
+: O
+
+Atherton I
+7 O
+1 O
+20 O
+1 O
+20.00 O
+
+Caddick I
+57.2 O
+10 O
+165 O
+6 O
+27.50 O
+
+Cork I
+131 O
+23 O
+434 O
+12 O
+36.16 O
+
+Mullally I
+150.3 O
+36 O
+377 O
+10 O
+37.70 O
+
+Hick I
+13 O
+2 O
+42 O
+1 O
+42.00 O
+
+Croft I
+47.4 O
+10 O
+125 O
+2 O
+62.50 O
+
+Brown I
+33 O
+4 O
+138 O
+2 O
+69.00 O
+
+Ealham I
+37 O
+8 O
+81 O
+1 O
+81.00 O
+
+Salisbury I
+61.2 O
+8 O
+221 O
+2 O
+110.50 O
+
+Lewis I
+71 O
+10 O
+264 O
+1 O
+264.00 O
+
+Thorpe I
+13 O
+4 O
+19 O
+0 O
+- O
+
+Pakistan I
+
+Batting O
+: O
+
+Moin I
+Khan I
+2 O
+3 O
+1 O
+158 O
+105 O
+79.00 O
+
+Ijaz I
+Ahmed I
+3 O
+6 O
+1 O
+344 O
+141 O
+68.80 O
+
+Salim I
+Malik I
+3 O
+5 O
+2 O
+195 O
+100no O
+65.00 O
+
+Inzamam-ul-Haq I
+3 O
+5 O
+0 O
+320 O
+148 O
+64.00 O
+
+Saeed I
+Anwar I
+3 O
+6 O
+0 O
+362 O
+176 O
+60.33 O
+
+Rashid I
+Latif I
+1 O
+1 O
+0 O
+45 O
+45 O
+45.00 O
+
+Aamir I
+Sohail I
+2 O
+3 O
+1 O
+77 O
+46 O
+38.50 O
+
+Asif I
+Mujtaba I
+2 O
+3 O
+0 O
+90 O
+51 O
+30.00 O
+
+Wasim I
+Akram I
+3 O
+5 O
+1 O
+98 O
+40 O
+24.50 O
+
+Shadab I
+Kabir I
+2 O
+4 O
+0 O
+87 O
+35 O
+21.75 O
+
+Mushtaq I
+Ahmed I
+3 O
+5 O
+1 O
+44 O
+20 O
+11.00 O
+
+Waqar I
+Younis I
+3 O
+3 O
+1 O
+11 O
+7 O
+5.50 O
+
+Ata-ur-Rehman I
+2 O
+2 O
+2 O
+10 O
+10no O
+- O
+
+Mohammad I
+Akram I
+1 O
+0 O
+0 O
+0 O
+0 O
+- O
+
+Bowling O
+: O
+
+Mushtaq I
+Ahmed I
+195 O
+52 O
+447 O
+17 O
+26.29 O
+
+Waqar I
+Younis I
+125 O
+25 O
+431 O
+16 O
+26.93 O
+
+Wasim I
+Akram I
+128 O
+29 O
+350 O
+11 O
+31.81 O
+
+Ata-ur-Rehman I
+48.4 O
+6 O
+173 O
+5 O
+34.60 O
+
+Mohammad I
+Akram I
+22 O
+4 O
+71 O
+1 O
+71.00 O
+
+Aamir I
+Sohail I
+11 O
+3 O
+24 O
+0 O
+- O
+
+Asif I
+Mujtaba I
+7 O
+5 O
+6 O
+0 O
+- O
+
+Salim I
+Malik I
+1 O
+0 O
+1 O
+0 O
+- O
+
+Shadab I
+Kabir I
+1 O
+0 O
+9 O
+0 O
+- O
+

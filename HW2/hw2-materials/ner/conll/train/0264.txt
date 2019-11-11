@@ -1,0 +1,31 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+PORTUGUESE I
+FIRST O
+DIVISION O
+RESULT O
+. O
+
+LISBON I
+1996-08-24 O
+
+Result O
+of O
+a O
+Portuguese I
+first O
+
+division O
+soccer O
+match O
+on O
+Saturday O
+: O
+
+Belenenses I
+2 O
+Boavista I
+4 O
+

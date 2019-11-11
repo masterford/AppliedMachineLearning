@@ -1,0 +1,48 @@
+-DOCSTART- O
+
+Dreyfus I
+Strategic I
+Munis I
+monthly O
+$ O
+0.056 O
+/ O
+shr O
+. O
+
+NEW I
+YORK I
+1996-08-29 O
+
+Monthly O
+
+Latest O
+Prior O
+
+Amount O
+$ O
+0.056 O
+$ O
+0.056 O
+
+Pay O
+Sept O
+27 O
+
+Record O
+Sept O
+13 O
+
+NOTE O
+: O
+Full O
+name O
+of O
+company O
+is O
+Dreyfus I
+Strategic I
+Municipals I
+Inc I
+. O
+

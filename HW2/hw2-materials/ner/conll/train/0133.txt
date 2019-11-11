@@ -1,0 +1,32 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+SCOTTISH I
+THIRD O
+DIVISION O
+RESULT O
+. O
+
+GLASGOW I
+1996-08-23 O
+
+Result O
+of O
+a O
+Scottish I
+third O
+
+division O
+soccer O
+match O
+on O
+Friday O
+: O
+
+East I
+Stirling I
+0 O
+Albion I
+1 O
+

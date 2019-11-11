@@ -1,0 +1,59 @@
+-DOCSTART- O
+
+Akron I
+, O
+Ohio I
+, O
+$ O
+6 O
+mln O
+bonds O
+rated O
+single-A O
+- O
+Moody I
+'s I
+. O
+
+NEW I
+YORK I
+, O
+Aug O
+27 O
+- O
+Moody I
+'s I
+Investors I
+Service I
+- O
+Rating O
+
+Announcement O
+As O
+of O
+08/26/96 O
+. O
+
+Issuer O
+: O
+Akron I
+
+State O
+: O
+OH I
+
+Rating O
+: O
+A O
+
+Sale O
+Amount O
+: O
+6,310,000 O
+
+Expected O
+Sale O
+Date O
+: O
+08/28/96 O
+

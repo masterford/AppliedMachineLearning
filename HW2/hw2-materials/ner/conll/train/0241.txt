@@ -1,0 +1,243 @@
+-DOCSTART- O
+
+MOTOR O
+RACING O
+- O
+BELGIAN I
+GRAND I
+PRIX I
+GRID O
+POSITIONS O
+. O
+
+SPA-FRANCORCHAMPS I
+, O
+Belgium I
+1996-08-24 O
+
+Grid O
+positions O
+
+for O
+Sunday O
+'s O
+Belgian I
+Grand I
+Prix I
+motor O
+race O
+after O
+final O
+
+qualifying O
+on O
+Saturday O
+: O
+
+1. O
+Jacques I
+Villeneuve I
+( O
+Canada I
+) O
+Williams I
+1 O
+minute O
+50.574 O
+
+seconds O
+( O
+average O
+speed O
+226.859 O
+kph O
+) O
+
+2. O
+Damon I
+Hill I
+( O
+Britain I
+) O
+Williams I
+1:50.980 O
+
+3. O
+Michael I
+Schumacher I
+( O
+Germany I
+) O
+Ferrari I
+1:51.778 O
+
+4. O
+David I
+Coulthard I
+( O
+Britain I
+) O
+McLaren I
+1:51.884 O
+
+5. O
+Gerhard I
+Berger I
+( O
+Austria I
+) O
+Benetton I
+1:51.960 O
+
+6. O
+Mika I
+Hakkinen I
+( O
+Finland I
+) O
+McLaren I
+1:52.318 O
+
+7. O
+Jean I
+Alesi I
+( O
+France I
+) O
+Benetton I
+1:52.354 O
+
+8. O
+Martin I
+Brundle I
+( O
+Britain I
+) O
+Jordan I
+1:52.977 O
+
+9. O
+Eddie I
+Irvine I
+( O
+Britain I
+) O
+Ferrari I
+1:53.043 O
+
+10. O
+Rubens I
+Barrichello I
+( O
+Brazil I
+) O
+Jordan I
+1:53.152 O
+
+Add O
+grid O
+: O
+
+11. O
+Heinz-Harald I
+Frentzen I
+( O
+Germany I
+) O
+Sauber I
+1:53.199 O
+
+12. O
+Johnny I
+Herbert I
+( O
+Britain I
+) O
+Sauber I
+1:53.993 O
+
+13. O
+Mika I
+Salo I
+( O
+Finland I
+) O
+Tyrrell I
+1:54.095 O
+
+14. O
+Olivier I
+Panis I
+( O
+France I
+) O
+Ligier I
+1:54.220 O
+
+15. O
+Pedro I
+Diniz I
+( O
+Brazil I
+) O
+Ligier I
+1:54.700 O
+
+16. O
+Jos I
+Verstappen I
+( O
+Netherlands I
+) O
+Arrows I
+1:55.150 O
+
+17. O
+Ukyo I
+Katayama I
+( O
+Japan I
+) O
+Tyrrell I
+1:55.371 O
+
+18. O
+Ricardo I
+Rosset I
+( O
+Brazil I
+) O
+Arrows I
+1:56.286 O
+
+19. O
+Pedro I
+Lamy I
+( O
+Portugal I
+) O
+Minardi I
+1:56.830 O
+
+Did O
+not O
+qualify O
+( O
+times O
+did O
+not O
+meet O
+qualifying O
+standard O
+) O
+: O
+
+20. O
+Giovanni I
+Lavaggi I
+( O
+Italy I
+) O
+Minardi I
+1:58.579 O
+

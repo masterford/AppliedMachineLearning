@@ -1,0 +1,204 @@
+-DOCSTART- O
+
+CRICKET O
+- O
+ENGLAND I
+V O
+PAKISTAN I
+FINAL O
+TEST O
+SCOREBOARD O
+. O
+
+LONDON I
+1996-08-22 O
+
+Scoreboard O
+on O
+the O
+first O
+day O
+of O
+the O
+
+third O
+and O
+final O
+test O
+between O
+England I
+and O
+Pakistan I
+at O
+The I
+Oval I
+on O
+
+Thursday O
+: O
+
+England I
+first O
+innings O
+
+M. I
+Atherton I
+b O
+Waqar I
+Younis I
+31 O
+
+A. I
+Stewart I
+b O
+Mushtaq I
+Ahmed I
+44 O
+
+N. I
+Hussain I
+c O
+Saeed I
+Anwar I
+b O
+Waqar I
+Younis I
+12 O
+
+G. I
+Thorpe I
+lbw O
+b O
+Mohammad I
+Akram I
+54 O
+
+J. I
+Crawley I
+not O
+out O
+94 O
+
+N. I
+Knight I
+b O
+Mushtaq I
+Ahmed I
+17 O
+
+C. I
+Lewis I
+b O
+Wasim I
+Akram I
+5 O
+
+I. I
+Salisbury I
+not O
+out O
+1 O
+
+Extras O
+( O
+lb-11 O
+w-1 O
+nb-8 O
+) O
+20 O
+
+Total O
+( O
+for O
+six O
+wickets O
+) O
+278 O
+
+Fall O
+of O
+wickets O
+: O
+1-64 O
+2-85 O
+3-116 O
+4-205 O
+5-248 O
+6-273 O
+
+To O
+bat O
+: O
+R. I
+Croft I
+, O
+D. I
+Cork I
+, O
+A. I
+Mullally I
+
+Bowling O
+( O
+to O
+date O
+) O
+: O
+Wasim I
+Akram I
+25-8-61-1 O
+, O
+Waqar I
+Younis I
+
+20-6-70-2 O
+, O
+Mohammad I
+Akram I
+12-1-41-1 O
+, O
+Mushtaq I
+Ahmed I
+27-5-78-2 O
+, O
+
+Aamir I
+Sohail I
+6-1-17-0 O
+
+Pakistan I
+: O
+Aamir I
+Sohail I
+, O
+Saeed I
+Anwar I
+, O
+Ijaz I
+Ahmed I
+, O
+
+Inzamam-ul-Haq I
+, O
+Salim I
+Malik I
+, O
+Asif I
+Mujtaba I
+, O
+Wasim I
+Akram I
+, O
+Moin I
+
+Khan I
+, O
+Mushtaq I
+Ahmed I
+, O
+Waqar I
+Younis I
+, O
+Mohammad I
+Akam I
+

@@ -1,0 +1,187 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+SWISS I
+PREMIER O
+DIVISION O
+RESULTS O
+/ O
+STANDINGS O
+. O
+
+GENEVA I
+1996-08-25 O
+
+Results O
+of O
+Swiss I
+premier O
+division O
+
+matches O
+played O
+at O
+the O
+weekend O
+: O
+
+Aarau I
+1 O
+Young I
+Boys I
+0 O
+
+Grasshopper I
+2 O
+Lucerne I
+2 O
+
+Lugano I
+1 O
+Basle I
+1 O
+
+Neuchatel I
+3 O
+St I
+Gallen I
+0 O
+
+Sion I
+3 O
+Servette I
+1 O
+
+Standings O
+( O
+tabulated O
+under O
+played O
+, O
+won O
+, O
+drawn O
+, O
+lost O
+, O
+goals O
+
+for O
+, O
+against O
+, O
+points O
+) O
+: O
+
+Neuchatel I
+8 O
+6 O
+1 O
+1 O
+12 O
+7 O
+19 O
+
+Grasshopper I
+9 O
+4 O
+4 O
+1 O
+17 O
+11 O
+16 O
+
+St. I
+Gallen O
+9 O
+4 O
+4 O
+1 O
+6 O
+5 O
+16 O
+
+Lausanne I
+9 O
+4 O
+2 O
+3 O
+18 O
+13 O
+14 O
+
+Aarau I
+8 O
+4 O
+1 O
+3 O
+9 O
+4 O
+13 O
+
+Sion I
+9 O
+3 O
+4 O
+2 O
+13 O
+11 O
+13 O
+
+Zurich I
+9 O
+2 O
+5 O
+2 O
+9 O
+9 O
+11 O
+
+Basle I
+8 O
+2 O
+3 O
+3 O
+12 O
+11 O
+9 O
+
+Servette I
+9 O
+2 O
+3 O
+4 O
+10 O
+12 O
+9 O
+
+Lucerne I
+8 O
+1 O
+5 O
+2 O
+10 O
+11 O
+8 O
+
+Lugano I
+9 O
+1 O
+4 O
+4 O
+6 O
+15 O
+7 O
+
+Young I
+Boys I
+9 O
+1 O
+0 O
+8 O
+6 O
+19 O
+3 O
+

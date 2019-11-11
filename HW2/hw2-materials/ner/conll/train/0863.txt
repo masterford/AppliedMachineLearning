@@ -1,0 +1,50 @@
+-DOCSTART- O
+
+USDA I
+gross O
+cutout O
+hide O
+and O
+offal O
+value O
+. O
+
+DES I
+MOINES I
+1996-08-29 O
+
+The O
+hide O
+and O
+offal O
+value O
+from O
+a O
+typical O
+slaughter O
+steer O
+for O
+Thursday O
+was O
+estimated O
+at O
+$ O
+9.76 O
+per O
+cwt O
+live O
+, O
+up O
+$ O
+0.03 O
+when O
+compared O
+with O
+Wednesday O
+'s O
+value O
+. O
+
+- O
+USDA I
+

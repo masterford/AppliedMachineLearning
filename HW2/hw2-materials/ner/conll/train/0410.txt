@@ -1,0 +1,384 @@
+-DOCSTART- O
+
+CRICKET O
+- O
+ENGLISH I
+COUNTY I
+CHAMPIONSHIP I
+RESULTS O
+. O
+
+LONDON I
+1996-08-26 O
+
+Results O
+on O
+the O
+final O
+day O
+of O
+
+four-day O
+English I
+County I
+Championship I
+cricket O
+matches O
+on O
+Monday O
+: O
+
+At O
+Colchester I
+: O
+Essex I
+beat O
+Gloucestershire I
+by O
+an O
+innings O
+and O
+
+64 O
+runs O
+. O
+
+Gloucestershire I
+280 O
+and O
+188 O
+( O
+J. I
+Russell I
+57 O
+, O
+M. I
+Lynch I
+50 O
+; O
+
+N. I
+Williams I
+5-43 O
+) O
+. O
+
+Essex I
+532-8 O
+declared O
+( O
+G. I
+Gooch I
+111 O
+, O
+R. I
+Irani I
+91 O
+, O
+
+P. I
+Prichard I
+88 O
+, O
+D. I
+Robinson I
+72 O
+; O
+M. I
+Alleyne I
+4-80 O
+) O
+. O
+
+Essex I
+24 O
+points O
+, O
+
+Gloucestershire I
+3 O
+. O
+
+At O
+Cardiff I
+: O
+Match O
+drawn O
+. O
+
+Kent I
+323-5 O
+declared O
+( O
+C. I
+Hooper I
+77 O
+, O
+
+D. I
+Fulton I
+64 O
+, O
+N. I
+Llong I
+63 O
+, O
+M. I
+Walker I
+59 O
+) O
+and O
+second O
+innings O
+
+forfeited O
+. O
+
+Glamorgan I
+first O
+innings O
+forfeited O
+and O
+273-5 O
+( O
+H. I
+Morris I
+
+118 O
+, O
+A. I
+Cottey I
+70 O
+) O
+. O
+
+Glamorgan I
+5 O
+points O
+, O
+Kent I
+6 O
+. O
+
+At O
+Northampton I
+: O
+Northamptonshire I
+beat O
+Sussex I
+by O
+6 O
+wickets O
+. O
+
+Sussex I
+389 O
+and O
+112 O
+. O
+
+Northamptonshire I
+361 O
+and O
+142-4 O
+. O
+
+Northamptonshire I
+24 O
+points O
+, O
+Sussex I
+8 O
+. O
+
+At O
+Trent I
+Bridge I
+: O
+Match O
+abandoned O
+as O
+a O
+draw O
+- O
+rain O
+. O
+
+Nottinghamshire I
+446-9 O
+declared O
+and O
+53-0 O
+. O
+
+Surrey I
+128-4 O
+declared O
+
+( O
+A. I
+Brown I
+56 O
+not O
+out O
+) O
+. O
+
+Nottinghamshire I
+8 O
+points O
+, O
+Surrey I
+7 O
+. O
+
+At O
+Worcester I
+: O
+Match O
+drawn O
+. O
+
+Warwickshire I
+310 O
+and O
+162-4 O
+
+declared O
+. O
+
+Worcestershire I
+205-9 O
+declared O
+( O
+K. I
+Spiring I
+52 O
+; O
+A. I
+Giles I
+
+3-12 O
+) O
+and O
+164-4 O
+( O
+P. I
+Weston I
+52 O
+) O
+. O
+
+Worcestershire I
+8 O
+points O
+, O
+
+Warwickshire I
+10 O
+. O
+
+At O
+Headingley I
+: O
+Match O
+drawn O
+. O
+
+Yorkshire I
+529-8 O
+declared O
+
+( O
+C. I
+White I
+181 O
+, O
+R. I
+Blakey I
+109 O
+not O
+out O
+, O
+M. I
+Moxon I
+66 O
+, O
+M. I
+Vaughan I
+57 O
+) O
+. O
+
+Lancashire I
+323 O
+( O
+N. I
+Fairbrother I
+86 O
+, O
+M. I
+Watkinson I
+64 O
+; O
+D. I
+Gough I
+4-53 O
+) O
+
+and O
+231-7 O
+( O
+N. I
+Speak I
+77 O
+, O
+N. I
+Fairbrother I
+55 O
+; O
+D. I
+Gough I
+4-48 O
+) O
+. O
+
+Yorkshire I
+11 O
+points O
+, O
+Lancashire I
+8 O
+. O
+
+At O
+Leicester I
+: O
+Match O
+drawn O
+. O
+
+Leicestershire I
+353 O
+. O
+
+Hampshire I
+137 O
+
+( O
+G. I
+Parsons I
+4-36 O
+) O
+and O
+135-9 O
+. O
+
+Leicestershire I
+11 O
+points O
+, O
+Hampshire I
+
+7. O
+

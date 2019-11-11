@@ -1,0 +1,67 @@
+-DOCSTART- O
+
+CRICKET O
+- O
+ENGLISH I
+COUNTY I
+CHAMPIONSHIP I
+SCORES O
+. O
+
+LONDON I
+1996-08-28 O
+
+Close O
+of O
+play O
+scores O
+on O
+the O
+first O
+
+day O
+of O
+four-day O
+English I
+County I
+Championship I
+cricket O
+matches O
+on O
+
+Wednesday O
+: O
+
+At O
+Portsmouth I
+: O
+Middlesex I
+199 O
+in O
+60 O
+overs O
+( O
+K. I
+Brown I
+57 O
+; O
+
+L. I
+Botham I
+5-67 O
+) O
+. O
+
+Hampshire I
+105-4 O
+. O
+
+At O
+Chester-le-Street I
+: O
+Glamorgan I
+73-3 O
+v O
+Durham I
+. O
+

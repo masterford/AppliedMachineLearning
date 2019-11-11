@@ -1,0 +1,38 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+ENGLISH I
+SOCCER O
+RESULTS O
+. O
+
+LONDON I
+1996-08-30 O
+
+Results O
+of O
+English I
+league O
+matches O
+
+on O
+Friday O
+: O
+
+Division O
+two O
+
+Plymouth I
+2 O
+Preston I
+1 O
+
+Division O
+three O
+
+Swansea I
+1 O
+Lincoln I
+2 O
+

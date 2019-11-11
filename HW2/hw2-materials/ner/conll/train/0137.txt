@@ -1,0 +1,66 @@
+-DOCSTART- O
+
+CRICKET O
+- O
+ENGLAND I
+326 O
+ALL O
+OUT O
+V O
+PAKISTAN I
+IN O
+THIRD O
+TEST O
+. O
+
+LONDON I
+1996-08-23 O
+
+England I
+were O
+all O
+out O
+for O
+326 O
+in O
+their O
+first O
+innings O
+on O
+the O
+second O
+day O
+of O
+the O
+third O
+and O
+final O
+test O
+against O
+Pakistan I
+at O
+The I
+Oval I
+on O
+Friday O
+. O
+
+Score O
+: O
+England I
+326 O
+( O
+J. I
+Crawley I
+106 O
+, O
+G. I
+Thorpe I
+54 O
+. O
+
+Waqar I
+Younis I
+4-95 O
+) O
+

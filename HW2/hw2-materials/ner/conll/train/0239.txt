@@ -1,0 +1,78 @@
+-DOCSTART- O
+
+TENNIS O
+- O
+RESULTS O
+AT O
+TOSHIBA I
+CLASSIC I
+. O
+
+CARLSBAD I
+, O
+Calif. I
+1996-08-24 O
+
+Results O
+from O
+the O
+$ O
+450,000 O
+Toshiba I
+Classic I
+tennis O
+tournament O
+on O
+Saturday O
+( O
+prefix O
+number O
+denotes O
+seeding O
+) O
+: O
+
+Semifinals O
+: O
+
+1 O
+- O
+Arantxa I
+Sanchez I
+Vicario I
+( O
+Spain I
+) O
+beat O
+3 O
+- O
+Jana I
+Novotna I
+( O
+Czech I
+Republic I
+) O
+1-6 O
+, O
+6-2 O
+6-3 O
+
+4 O
+- O
+Kimiko I
+Date I
+( O
+Japan I
+) O
+beat O
+2 O
+- O
+Conchita I
+Martinez I
+( O
+Spain I
+) O
+6-2 O
+7-5 O
+. O
+

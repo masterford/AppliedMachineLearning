@@ -1,0 +1,107 @@
+-DOCSTART- O
+
+BADMINTON O
+- O
+MALAYSIAN I
+OPEN I
+BADMINTON O
+RESULTS O
+. O
+
+KUALA I
+LUMPUR I
+1996-08-23 O
+
+Results O
+in O
+the O
+Malaysian I
+
+Open I
+badminton O
+tournament O
+on O
+Friday O
+( O
+prefix O
+numbers O
+denote O
+
+seedings O
+) O
+: O
+
+Men O
+'s O
+singles O
+, O
+quarter-finals O
+
+2 O
+- O
+Ong I
+Ewe I
+Hock I
+( O
+Malaysia I
+) O
+beat O
+5/8 O
+- O
+Hu I
+Zhilan I
+( O
+China I
+) O
+15-2 O
+15-10 O
+
+9/16 O
+- O
+Luo I
+Yigang I
+( O
+China I
+) O
+beat O
+Jason I
+Wong I
+( O
+Malaysia I
+) O
+15-5 O
+15-6 O
+
+Ijaya I
+Indra I
+( O
+Indonesia I
+) O
+beat O
+P. I
+Kantharoopan I
+( O
+Malaysia I
+) O
+15-6 O
+5-4 O
+
+9/16 O
+- O
+Chen I
+Gang I
+( O
+China I
+) O
+beat O
+9/16 O
+- O
+Hermawan I
+Susanto I
+( O
+Indonesia I
+) O
+
+15-9 O
+15-7 O
+

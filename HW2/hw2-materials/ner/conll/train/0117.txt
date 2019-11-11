@@ -1,0 +1,102 @@
+-DOCSTART- O
+
+BNZ I
+cuts O
+NZ I
+fixed O
+home O
+lending O
+rates O
+. O
+
+WELLINGTON I
+1996-08-22 O
+
+Bank I
+of I
+New I
+Zealand I
+said O
+on O
+Thursday O
+it O
+was O
+cutting O
+its O
+fixed O
+home O
+lending O
+rates O
+. O
+
+The O
+rates O
+are O
+: O
+
+New O
+rate O
+old O
+rate O
+
+Six O
+month O
+rate O
+10.5 O
+pct O
+10.75 O
+
+One O
+year O
+10.5 O
+pct O
+10.95 O
+
+Two O
+year O
+10.5 O
+pct O
+11.25 O
+
+Three O
+year O
+10.5 O
+pct O
+11.25 O
+
+BNZ I
+said O
+it O
+was O
+responding O
+to O
+lower O
+wholesale O
+rates O
+. O
+
+Fixed O
+business O
+and O
+farm O
+lending O
+rates O
+rates O
+were O
+left O
+unchanged O
+although O
+they O
+were O
+under O
+review O
+. O
+
+-- O
+Wellington I
+newsroom O
+64 O
+4 O
+4734 O
+746 O
+

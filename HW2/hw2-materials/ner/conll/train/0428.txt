@@ -1,0 +1,364 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+BRAZILIAN I
+CHAMPIONSHIP O
+RESULTS O
+/ O
+STANDINGS O
+. O
+
+RIO I
+DE I
+JANEIRO I
+1996-08-26 O
+
+Results O
+of O
+Brazilian I
+
+soccer O
+championship O
+matches O
+played O
+at O
+the O
+weekend O
+. O
+
+Bahia I
+1 O
+Botafogo I
+2 O
+
+Bragantino I
+1 O
+Vasco I
+da I
+Gama I
+2 O
+
+Cricuma I
+4 O
+Fluminense I
+1 O
+
+Cruzeiro I
+2 O
+Flamengo I
+1 O
+
+Goias I
+0 O
+Palmeiras I
+0 O
+
+Gremio I
+2 O
+Vitoria I
+2 O
+
+Juventude I
+2 O
+Internacional I
+1 O
+
+Parana I
+3 O
+Guarani I
+0 O
+
+Portuguesa I
+3 O
+Atletico I
+Mineiro I
+1 O
+
+Sao I
+Paulo I
+2 O
+Santos I
+1 O
+
+Sport I
+Recife I
+3 O
+Coritiba I
+0 O
+
+Standings O
+( O
+tabulated O
+under O
+played O
+, O
+won O
+, O
+drawn O
+, O
+lost O
+, O
+goals O
+
+for O
+, O
+against O
+, O
+points O
+) O
+: O
+
+Sao I
+Paulo I
+4 O
+3 O
+1 O
+0 O
+10 O
+5 O
+10 O
+
+Juventude I
+5 O
+3 O
+1 O
+1 O
+5 O
+4 O
+10 O
+
+Portuguesa I
+4 O
+3 O
+0 O
+1 O
+8 O
+3 O
+9 O
+
+Palmeiras I
+5 O
+2 O
+3 O
+0 O
+8 O
+1 O
+9 O
+
+Goias I
+5 O
+2 O
+2 O
+1 O
+7 O
+4 O
+8 O
+
+Gremio I
+3 O
+2 O
+1 O
+0 O
+11 O
+4 O
+7 O
+
+Cruzeiro I
+3 O
+2 O
+1 O
+0 O
+4 O
+2 O
+7 O
+
+Sport I
+Recife I
+5 O
+2 O
+1 O
+2 O
+7 O
+6 O
+7 O
+
+Parana I
+4 O
+2 O
+1 O
+2 O
+5 O
+5 O
+7 O
+
+Flamengo I
+4 O
+2 O
+0 O
+2 O
+4 O
+4 O
+6 O
+
+Atletico I
+Mineiro I
+5 O
+2 O
+0 O
+3 O
+6 O
+7 O
+6 O
+
+Vasco I
+da I
+Gama I
+4 O
+2 O
+0 O
+2 O
+6 O
+7 O
+6 O
+
+Coritiba I
+5 O
+2 O
+0 O
+3 O
+3 O
+9 O
+6 O
+
+Botafogo I
+3 O
+1 O
+2 O
+0 O
+4 O
+3 O
+5 O
+
+Internacional I
+4 O
+1 O
+2 O
+1 O
+4 O
+3 O
+5 O
+
+Criciuma I
+5 O
+1 O
+2 O
+2 O
+7 O
+8 O
+5 O
+
+Vitoria I
+5 O
+1 O
+2 O
+2 O
+5 O
+6 O
+5 O
+
+Santos I
+3 O
+1 O
+1 O
+1 O
+3 O
+3 O
+4 O
+
+Corinthians I
+4 O
+1 O
+1 O
+2 O
+1 O
+3 O
+4 O
+
+Bahia I
+5 O
+1 O
+1 O
+3 O
+5 O
+8 O
+4 O
+
+Fluminense I
+4 O
+1 O
+1 O
+2 O
+3 O
+6 O
+4 O
+
+Atletico I
+Paranaense I
+3 O
+1 O
+0 O
+2 O
+4 O
+6 O
+3 O
+
+Guarani I
+3 O
+0 O
+1 O
+2 O
+1 O
+5 O
+1 O
+
+Bragantino I
+4 O
+0 O
+0 O
+4 O
+3 O
+12 O
+0 O
+
+Note O
+: O
+Top O
+eight O
+teams O
+qualify O
+for O
+the O
+quarter-finals O
+. O
+
+If O
+
+teams O
+are O
+level O
+on O
+points O
+, O
+positions O
+are O
+determined O
+by O
+the O
+
+number O
+of O
+games O
+won O
+. O
+

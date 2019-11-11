@@ -1,0 +1,81 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+GERMAN I
+FIRST O
+DIVISION O
+SUMMARIES O
+. O
+
+BONN I
+1996-08-23 O
+
+Summaries O
+of O
+Bundesliga I
+matches O
+on O
+Friday O
+: O
+
+Hansa I
+Rostock I
+0 O
+Hamburg I
+1 O
+( O
+Baeron I
+64th O
+min O
+) O
+. O
+
+Halftime O
+0-0 O
+. O
+
+Attendance O
+18,500 O
+. O
+
+St I
+Pauli I
+4 O
+( O
+Driller I
+15th O
+, O
+Trulsen I
+54th O
+, O
+Springer I
+64th O
+, O
+Sobotzik I
+67th O
+penalty O
+) O
+Schalke I
+4 O
+( O
+Max I
+11th O
+, O
+Thon I
+34th O
+, O
+Wilmots I
+38th O
+, O
+Springer I
+64th O
+) O
+. O
+
+1-3 O
+. O
+
+19,775 O
+. O
+

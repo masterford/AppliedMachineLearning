@@ -1,0 +1,347 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+YUGOSLAV I
+LEAGUE O
+RESULTS O
+/ O
+STANDINGS O
+. O
+
+BELGRADE I
+1996-08-24 O
+
+Results O
+of O
+Yugoslav I
+league O
+
+soccer O
+matches O
+played O
+on O
+Saturday O
+: O
+
+Division O
+A O
+
+Cukaricki I
+0 O
+Hajduk I
+2 O
+
+Becej I
+2 O
+Borac I
+0 O
+
+Mladost I
+( I
+L I
+) I
+0 O
+Zemun I
+0 O
+
+Rad I
+1 O
+Buducnost I
+( I
+P I
+) I
+0 O
+
+Standings O
+( O
+tabulated O
+under O
+played O
+, O
+won O
+, O
+drawn O
+, O
+lost O
+, O
+goals O
+
+for O
+, O
+against O
+, O
+points O
+) O
+: O
+
+Becej I
+3 O
+2 O
+1 O
+0 O
+5 O
+1 O
+7 O
+
+Partizan I
+2 O
+2 O
+0 O
+0 O
+6 O
+2 O
+6 O
+
+Vojvodina I
+2 O
+2 O
+0 O
+0 O
+4 O
+1 O
+6 O
+
+Red I
+Star I
+2 O
+2 O
+0 O
+0 O
+3 O
+1 O
+6 O
+
+Mladost I
+( I
+L I
+) I
+3 O
+1 O
+1 O
+1 O
+6 O
+4 O
+4 O
+
+Rad I
+3 O
+1 O
+1 O
+1 O
+2 O
+2 O
+4 O
+
+Hajduk I
+3 O
+1 O
+0 O
+2 O
+3 O
+3 O
+3 O
+
+Cukaricki I
+3 O
+1 O
+0 O
+2 O
+5 O
+6 O
+3 O
+
+Buducnost I
+3 O
+1 O
+0 O
+2 O
+3 O
+5 O
+3 O
+
+Zemun I
+3 O
+0 O
+2 O
+1 O
+2 O
+3 O
+2 O
+
+Proleter I
+2 O
+0 O
+1 O
+1 O
+1 O
+4 O
+1 O
+
+Borac I
+3 O
+0 O
+0 O
+3 O
+0 O
+8 O
+0 O
+
+Division O
+B O
+
+Sutjeska I
+3 O
+Sloboda I
+2 O
+
+Loznica I
+0 O
+Obilic I
+1 O
+
+OFK I
+Kikinda I
+1 O
+Radnicki I
+( I
+N I
+) I
+0 O
+
+Spartak I
+1 O
+Buducnost I
+( I
+V I
+) I
+2 O
+
+OFK I
+Beograd I
+2 O
+Mladost I
+( I
+BJ I
+) I
+2 O
+
+Standings O
+: O
+
+Obilic I
+3 O
+3 O
+0 O
+0 O
+8 O
+1 O
+9 O
+
+Loznica I
+3 O
+2 O
+0 O
+1 O
+7 O
+3 O
+6 O
+
+Sutjeska I
+3 O
+2 O
+0 O
+1 O
+6 O
+3 O
+6 O
+
+OFK I
+Kikinda I
+3 O
+2 O
+0 O
+1 O
+4 O
+1 O
+6 O
+
+Buducnost I
+( I
+V I
+) I
+3 O
+2 O
+0 O
+1 O
+4 O
+3 O
+6 O
+
+Spartak I
+3 O
+1 O
+1 O
+1 O
+3 O
+3 O
+4 O
+
+Zeleznik I
+2 O
+1 O
+0 O
+1 O
+4 O
+4 O
+3 O
+
+OFK I
+Beograd I
+3 O
+0 O
+3 O
+1 O
+4 O
+4 O
+3 O
+
+Radnicki I
+3 O
+1 O
+0 O
+2 O
+5 O
+6 O
+3 O
+
+Sloboda I
+3 O
+0 O
+1 O
+2 O
+4 O
+8 O
+1 O
+
+Mladost I
+( I
+BJ I
+) I
+3 O
+0 O
+1 O
+2 O
+2 O
+6 O
+1 O
+
+Rudar I
+2 O
+0 O
+0 O
+2 O
+0 O
+6 O
+0 O
+

@@ -1,0 +1,96 @@
+-DOCSTART- O
+
+Rugby O
+league-Australian I
+rugby O
+league O
+results O
+. O
+
+SYDNEY I
+1996-08-26 O
+
+Results O
+of O
+Australian I
+rugby O
+league O
+matches O
+played O
+at O
+the O
+weekend O
+. O
+
+Played O
+Sunday O
+: O
+
+Sydney I
+Bulldogs I
+17 O
+South I
+Queensland I
+16 O
+Brisbane I
+38 O
+Gold I
+Coast I
+10 O
+
+North I
+Sydney I
+46 O
+South I
+Sydney I
+4 O
+
+Illawarra I
+42 O
+Penrith I
+2 O
+
+St I
+George I
+20 O
+North I
+Queensland I
+24 O
+
+Manly I
+42 O
+Western I
+Suburbs I
+12 O
+
+Played O
+Saturday O
+: O
+
+Parramatta I
+14 O
+Sydney I
+Tigers I
+26 O
+
+Newcastle I
+24 O
+Western I
+Reds I
+20 O
+
+Played O
+Friday O
+: O
+
+Canberra I
+30 O
+Auckland I
+6 O
+
+-- O
+Sydney I
+Newsroom I
+61-2 O
+9373-1800 O
+

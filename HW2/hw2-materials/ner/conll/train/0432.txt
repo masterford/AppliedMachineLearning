@@ -1,0 +1,76 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+MOROCCAN I
+FIRST O
+DIVISION O
+RESULTS O
+. O
+
+RABAT I
+1996-08-26 O
+
+Results O
+of O
+Moroccan I
+first O
+division O
+
+soccer O
+matches O
+played O
+on O
+Sunday O
+: O
+
+Widad I
+Fes I
+3 O
+Oujda I
+1 O
+
+Raja I
+Casablanca I
+4 O
+Tetouan I
+0 O
+
+Jeunesse I
+Massira I
+0 O
+Widad I
+Casablanca I
+2 O
+
+Sporting I
+Sale I
+0 O
+Meknes I
+1 O
+
+Settat I
+1 O
+Marrakesh I
+0 O
+
+Khouribga I
+3 O
+Mohammedia I
+0 O
+
+Sidi I
+Kacem I
+0 O
+Royal I
+Armed I
+Forces I
+0 O
+
+El I
+Jadida I
+1 O
+Hassania I
+Agadir I
+0 O
+

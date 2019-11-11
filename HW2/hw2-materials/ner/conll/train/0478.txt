@@ -1,0 +1,405 @@
+-DOCSTART- O
+
+U.S. I
+base O
+metals O
+and O
+scrap O
+prices O
+- O
+August O
+26 O
+. O
+
+U.S. I
+premiums O
+added O
+to O
+LME I
+official O
+cash O
+settlement O
+price O
+, O
+except O
+for O
+copper O
+, O
+which O
+is O
+added O
+to O
+the O
+COMEX I
+spot O
+month O
+. O
+
+Premium O
+includes O
+price O
+for O
+delivery O
+to O
+consumer O
+'s O
+works O
+. O
+
+-- O
+
+Aluminum O
+: O
+Western I
+grade O
+3.25-3.75 O
+cents O
+/ O
+pound O
+
+Russian I
+grade O
+A7E O
+3.25-3.75 O
+cents O
+/ O
+pound O
+
+Russian I
+grade O
+A0 O
+nominal O
+2.00-2.25 O
+cents O
+/ O
+pound O
+
+Zinc O
+: O
+Special O
+high O
+grade O
+SHG O
+5.50-6.00 O
+cents O
+/ O
+pound O
+
+Lead O
+3.50-4.00 O
+cents O
+/ O
+pound O
+
+Tin O
+( O
+Grade O
+A O
+) O
+6.5-8.5 O
+cents O
+/ O
+pound O
+
+( O
+low O
+lead O
+, O
+50 O
+ppm O
+) O
+9.0-10.5 O
+cents O
+/ O
+pound O
+
+Nickel O
+( O
+melting O
+grade O
+) O
+9.0-12.0 O
+cents O
+/ O
+pound O
+
+Copper O
+( O
+high O
+grade O
+cathode O
+) O
+2.50-3.0 O
+cents O
+/ O
+pound O
+
+-- O
+
+Aluminum O
+alloy O
+( O
+A380 O
+grade O
+) O
+, O
+Midwest I
+
+and O
+East I
+coast I
+, O
+delivered O
+to O
+consumer O
+65-66 O
+cents O
+/ O
+pound O
+
+-- O
+
+Aluminum O
+scrap O
+, O
+Midwest I
+and O
+East I
+coast I
+average O
+price O
+, O
+
+delivered O
+to O
+consumer O
+
+Old O
+Sheet O
+and O
+Cast O
+metal O
+42 O
+to O
+44 O
+cents O
+/ O
+pound O
+
+Turnings O
+, O
+clean O
+and O
+dry O
+43 O
+to O
+44 O
+cents O
+/ O
+pound O
+
+Mixed O
+low-copper O
+clips O
+48 O
+to O
+49 O
+cents O
+/ O
+pound O
+
+-- O
+
+Copper O
+scrap O
+, O
+Midwest I
+and O
+East I
+coast I
+average O
+price O
+, O
+
+delivered O
+to O
+consumer O
+
+No2 O
+Refined O
+75 O
+to O
+77 O
+cents O
+/ O
+pound O
+
+No1 O
+Bare O
+Bright O
+91 O
+to O
+92 O
+cents O
+/ O
+pound O
+
+No1 O
+Burnt O
+87 O
+to O
+90 O
+cents O
+/ O
+pound O
+
+-- O
+
+Lead O
+batteries O
+, O
+delivered O
+consumer O
+4.5 O
+to O
+6.0 O
+cents O
+/ O
+pound O
+
+U.S. I
+Producer O
+list O
+/ O
+transaction O
+prices O
+
+-- O
+
+Alcan I
+aluminum O
+, O
+U.S. I
+Midwest I
+( O
+effective O
+date O
+: O
+August O
+1 O
+, O
+1996 O
+) O
+
+P1020 O
+ingot O
+75 O
+cents O
+/ O
+pound O
+
+extrusion O
+billet O
+85 O
+cents O
+/ O
+pound O
+
+Noranda I
+aluminum O
+, O
+U.S. I
+Midwest I
+( O
+effective O
+date:August O
+1 O
+, O
+1996 O
+) O
+
+ingot O
+75 O
+cents O
+/ O
+pound O
+
+extrusion O
+billet O
+85 O
+cents O
+/ O
+pound O
+
+RSR I
+pure O
+lead O
+price O
+( O
+effective O
+date O
+: O
+March O
+20 O
+, O
+1996 O
+) O
+
+52 O
+cents O
+/ O
+pound O
+
+Doe I
+Run I
+pure O
+lead O
+price O
+( O
+effective O
+date O
+: O
+August O
+14 O
+, O
+1996 O
+) O
+
+50 O
+cents O
+/ O
+pound O
+
+ASARCO I
+pure O
+lead O
+( O
+effective O
+date O
+: O
+August O
+1 O
+, O
+1996 O
+) O
+
+premium O
+over O
+LME I
+cash O
+7.5 O
+cents O
+/ O
+pound O
+
+-- O
+( O
+New I
+York I
+commodities O
+desk O
+212 O
+859 O
+1646 O
+) O
+

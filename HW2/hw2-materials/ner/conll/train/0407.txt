@@ -1,0 +1,240 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+ENGLISH I
+PREMIER O
+LEAGUE O
+RESULT O
+/ O
+STANDINGS O
+. O
+
+LONDON I
+1996-08-26 O
+
+Result O
+of O
+an O
+English I
+premier O
+
+league O
+soccer O
+match O
+on O
+Monday O
+: O
+
+Leeds I
+1 O
+Wimbledon I
+0 O
+
+Standings O
+( O
+tabulated O
+under O
+played O
+, O
+won O
+, O
+drawn O
+, O
+lost O
+, O
+goals O
+
+for O
+, O
+against O
+, O
+points O
+) O
+: O
+
+Sheffield I
+Wednesday I
+3 O
+3 O
+0 O
+0 O
+6 O
+2 O
+9 O
+
+Chelsea I
+3 O
+2 O
+1 O
+0 O
+3 O
+0 O
+7 O
+
+Arsenal I
+3 O
+2 O
+0 O
+1 O
+4 O
+2 O
+6 O
+
+Aston I
+Villa I
+3 O
+2 O
+0 O
+1 O
+4 O
+2 O
+6 O
+
+Manchester I
+United I
+3 O
+1 O
+2 O
+0 O
+7 O
+4 O
+5 O
+
+Sunderland I
+3 O
+1 O
+2 O
+0 O
+4 O
+1 O
+5 O
+
+Liverpool I
+3 O
+1 O
+2 O
+0 O
+5 O
+3 O
+5 O
+
+Everton I
+3 O
+1 O
+2 O
+0 O
+4 O
+2 O
+5 O
+
+Tottenham I
+3 O
+1 O
+2 O
+0 O
+3 O
+1 O
+5 O
+
+Nottingham I
+Forest I
+3 O
+1 O
+1 O
+1 O
+5 O
+5 O
+4 O
+
+Leeds I
+3 O
+1 O
+1 O
+1 O
+4 O
+5 O
+4 O
+
+West I
+Ham I
+3 O
+1 O
+1 O
+1 O
+3 O
+4 O
+4 O
+
+Leicester I
+3 O
+1 O
+1 O
+1 O
+2 O
+3 O
+4 O
+
+Newcastle I
+3 O
+1 O
+0 O
+2 O
+3 O
+4 O
+3 O
+
+Middlesbrough I
+3 O
+0 O
+2 O
+1 O
+4 O
+5 O
+2 O
+
+Derby I
+3 O
+0 O
+2 O
+1 O
+4 O
+6 O
+2 O
+
+Southampton I
+3 O
+0 O
+1 O
+2 O
+2 O
+4 O
+1 O
+
+Blackburn I
+3 O
+0 O
+1 O
+2 O
+2 O
+5 O
+1 O
+
+Coventry I
+3 O
+0 O
+1 O
+2 O
+1 O
+6 O
+1 O
+
+Wimbledon I
+3 O
+0 O
+0 O
+3 O
+0 O
+6 O
+0 O
+

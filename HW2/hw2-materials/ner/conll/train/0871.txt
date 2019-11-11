@@ -1,0 +1,72 @@
+-DOCSTART- O
+
+Key O
+Clinton I
+aide O
+resigns O
+, O
+NBC I
+says O
+. O
+
+CHICAGO I
+1996-08-29 O
+
+Dick I
+Morris I
+, O
+the O
+Republican I
+political O
+consultant O
+who O
+reshaped O
+U.S. I
+President O
+Bill I
+Clinton I
+'s O
+reelection O
+campaign O
+, O
+has O
+resigned O
+, O
+MS-NBC I
+News I
+reported O
+Thursday O
+. O
+
+Morris I
+drew O
+the O
+ire O
+of O
+liberal O
+Clinton I
+aides O
+for O
+repositioning O
+the O
+president O
+in O
+the O
+political O
+centre O
+. O
+
+There O
+was O
+no O
+immediate O
+comment O
+on O
+the O
+report O
+from O
+the O
+White I
+House I
+. O
+

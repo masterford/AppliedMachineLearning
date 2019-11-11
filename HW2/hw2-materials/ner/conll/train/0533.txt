@@ -1,0 +1,89 @@
+-DOCSTART- O
+
+BASEBALL O
+- O
+MAJOR I
+LEAGUE I
+RESULTS O
+MONDAY O
+. O
+
+NEW I
+YORK I
+
+Results O
+of O
+Major I
+League I
+Baseball I
+games O
+
+played O
+on O
+Monday O
+( O
+home O
+team O
+in O
+CAPS O
+) O
+: O
+
+American I
+League I
+
+Cleveland I
+2 O
+DETROIT I
+1 O
+
+BALTIMORE I
+12 O
+Oakland I
+11 O
+( O
+10 O
+innings O
+) O
+
+TORONTO I
+5 O
+Minnesota I
+3 O
+
+Milwaukee I
+3 O
+CHICAGO I
+2 O
+
+Boston I
+4 O
+CALIFORNIA I
+1 O
+
+SEATTLE I
+2 O
+New I
+York I
+1 O
+
+National I
+League I
+
+SAN I
+FRANCISCO I
+1 O
+Philadelphia I
+0 O
+
+St I
+Louis I
+3 O
+HOUSTON I
+2 O
+
+COLORADO I
+9 O
+Cincinnati I
+5 O
+

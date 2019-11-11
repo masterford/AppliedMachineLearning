@@ -1,0 +1,64 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+TOGO I
+BEAT O
+CONGO I
+1-0 O
+IN O
+AFRICA I
+NATIONS I
+CUP I
+QUALIFIER O
+. O
+
+LOME I
+1996-08-25 O
+
+Togo I
+beat O
+Congo I
+1-0 O
+( O
+halftime O
+0-0 O
+) O
+
+in O
+their O
+African I
+Nations I
+Cup I
+preliminary O
+round O
+, O
+second O
+leg O
+
+qualifying O
+match O
+on O
+Sunday O
+. O
+
+Scorer O
+: O
+Salou I
+Bachirou I
+( O
+53rd O
+minute O
+) O
+
+Attendance O
+: O
+18,000 O
+
+Togo I
+win O
+1-0 O
+on O
+aggregate O
+. O
+

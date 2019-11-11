@@ -1,0 +1,139 @@
+-DOCSTART- O
+
+IPO I
+FILING O
+- O
+Transkaryotic I
+Therapies I
+Inc I
+. O
+
+WASHINGTON I
+1996-08-27 O
+
+Company O
+Name O
+Transkaryotic I
+Therapies I
+Inc I
+
+Nasdaq I
+Stock O
+symbol O
+TKTX O
+
+Estimated O
+price O
+range O
+$ O
+13 O
+- O
+$ O
+15 O
+/ O
+shr O
+
+Total O
+shares O
+to O
+be O
+offered O
+2.5 O
+million O
+
+Shrs O
+offered O
+by O
+company O
+2.5 O
+million O
+
+Shrs O
+outstanding O
+after O
+ipo O
+16,668,560 O
+
+Lead O
+Underwriter O
+Morgan I
+Stanley I
+and I
+Co I
+Inc I
+
+Underwriters O
+over-allotment O
+375,000 O
+shrs O
+Shares O
+to O
+be O
+purchased O
+by O
+Hoechst I
+Marion I
+Roussel I
+Inc I
+357,143 O
+Business O
+: O
+developed O
+two O
+proprietary O
+technology O
+platforms O
+, O
+gene O
+activation O
+and O
+gene O
+therapy O
+. O
+
+Use O
+of O
+Proceeds O
+: O
+Research O
+, O
+preclinical O
+and O
+clinical O
+product O
+development O
+, O
+and O
+general O
+corporate O
+purposes O
+. O
+
+Financial O
+Data O
+in O
+000s O
+: O
+1995 O
+1994 O
+
+- O
+Revenue O
+$ O
+15,400 O
+$ O
+10,000 O
+
+- O
+Net O
+Income O
+( O
+loss O
+) O
+$ O
+2,074 O
+( O
+$ O
+3,422 O
+) O
+

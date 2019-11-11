@@ -1,0 +1,74 @@
+-DOCSTART- O
+
+U.S. I
+Treasury I
+balances O
+at O
+Fed I
+rose O
+on O
+Aug O
+27 O
+. O
+
+WASHINGTON I
+1996-08-28 O
+
+U.S. I
+Treasury I
+balances O
+at O
+Federal I
+Reserve I
+based O
+on O
+Treasury I
+Department I
+'s O
+latest O
+budget O
+statement O
+. O
+
+( O
+BILLIONS O
+OF O
+DLRS O
+) O
+
+Aug O
+27 O
+Aug O
+26 O
+
+Fed I
+acct O
+5.208 O
+4.425 O
+
+Tax O
+/ O
+loan O
+note O
+acct O
+14.828 O
+15.687 O
+
+Cash O
+balance O
+20.036 O
+20.112 O
+
+--- O
+
+Total O
+public O
+debt O
+, O
+
+subject O
+to O
+limit O
+5,124.053 O
+5,122.084 O
+

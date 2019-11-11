@@ -1,0 +1,360 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+RUSSIAN I
+PREMIER O
+DIVISION O
+RESULTS O
+/ O
+STANDINGS O
+. O
+
+MOSCOW I
+1996-08-25 O
+
+Results O
+of O
+Russian I
+premier O
+league O
+
+matches O
+played O
+on O
+Saturday O
+: O
+
+Alaniya I
+Vladikavkaz I
+3 O
+Zhemchuzhina I
+Sochi I
+1 O
+
+Baltika I
+Kaliningrad I
+2 O
+Zenit I
+St I
+Petersburg I
+0 O
+
+Chernomorets I
+Novorossiisk I
+2 O
+Rostselmash I
+Rostov I
+1 O
+
+Lokomotiv I
+Moscow I
+2 O
+Torpedo I
+Moscow I
+1 O
+
+Rotor I
+Volgograd I
+0 O
+Dynamo I
+Moscow I
+1 O
+
+CSKA I
+Moscow I
+4 O
+Kamaz I
+Naberezhnye I
+Chelny I
+2 O
+
+Lada I
+Togliatti I
+1 O
+Spartak I
+Moscow I
+1 O
+
+Tekstilshik I
+Kamyshin I
+2 O
+Krylya I
+Sovetov I
+Samara I
+1 O
+
+Lokomotiv I
+Nizhny I
+Novgorod I
+2 O
+Uralmash I
+Yekaterinburg I
+2 O
+
+Standings O
+( O
+tabulate O
+under O
+games O
+played O
+, O
+won O
+, O
+drawn O
+, O
+lost O
+, O
+
+goals O
+for O
+, O
+goals O
+against O
+, O
+points O
+) O
+. O
+
+Note O
+- O
+if O
+more O
+than O
+one O
+team O
+has O
+the O
+same O
+number O
+of O
+points O
+, O
+
+precedence O
+is O
+given O
+to O
+the O
+one O
+with O
+most O
+wins O
+. O
+
+If O
+more O
+than O
+one O
+
+team O
+has O
+the O
+same O
+number O
+of O
+wins O
+and O
+points O
+, O
+precedence O
+goes O
+to O
+
+the O
+side O
+with O
+the O
+most O
+successful O
+record O
+against O
+the O
+others O
+) O
+. O
+
+Alaniya I
+Vladikavkaz I
+24 O
+16 O
+5 O
+3 O
+48 O
+25 O
+53 O
+
+Dynamo I
+Moscow I
+25 O
+15 O
+7 O
+3 O
+43 O
+21 O
+52 O
+
+Rotor I
+Volgograd I
+23 O
+15 O
+5 O
+3 O
+42 O
+17 O
+50 O
+
+Spartak I
+Moscow I
+25 O
+14 O
+7 O
+4 O
+48 O
+24 O
+49 O
+
+CSKA I
+Moscow I
+25 O
+13 O
+6 O
+6 O
+40 O
+27 O
+45 O
+
+Lokomotiv I
+Nizhny I
+Novgorod I
+25 O
+11 O
+4 O
+10 O
+27 O
+35 O
+37 O
+
+Lokomotiv I
+Moscow I
+25 O
+9 O
+9 O
+7 O
+30 O
+24 O
+36 O
+
+Baltika I
+Kaliningrad I
+25 O
+8 O
+10 O
+7 O
+29 O
+26 O
+34 O
+
+Torpedo I
+Moscow I
+25 O
+8 O
+9 O
+8 O
+31 O
+33 O
+33 O
+
+Zenit I
+St I
+Petersburg I
+24 O
+9 O
+4 O
+11 O
+24 O
+26 O
+31 O
+
+Krylya I
+Sovetov I
+Samara I
+25 O
+8 O
+7 O
+10 O
+19 O
+29 O
+31 O
+
+Zhemchuzhina I
+Sochi I
+25 O
+8 O
+4 O
+13 O
+26 O
+38 O
+28 O
+
+Rostselmash I
+Rostov I
+24 O
+7 O
+7 O
+10 O
+42 O
+38 O
+28 O
+
+Chernomorets I
+Novorossiisk I
+25 O
+7 O
+5 O
+13 O
+25 O
+38 O
+26 O
+
+Kamaz I
+Naberezhnye I
+Chelny I
+24 O
+5 O
+4 O
+15 O
+25 O
+42 O
+19 O
+
+Lada I
+Togliatti I
+24 O
+4 O
+6 O
+14 O
+15 O
+37 O
+18 O
+
+Tekstilshchik I
+Kamyshin I
+25 O
+3 O
+9 O
+13 O
+15 O
+30 O
+18 O
+
+Uralmash I
+Yekaterinburg I
+24 O
+3 O
+8 O
+13 O
+24 O
+43 O
+16 O
+

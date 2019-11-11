@@ -1,0 +1,247 @@
+-DOCSTART- O
+
+CRICKET O
+- O
+ENGLAND I
+V O
+PAKISTAN I
+FINAL O
+TEST O
+SCOREBOARD O
+. O
+
+LONDON I
+1996-08-25 O
+
+Scoreboard O
+on O
+the O
+fourth O
+day O
+of O
+
+the O
+third O
+and O
+final O
+test O
+between O
+England I
+and O
+Pakistan I
+at O
+The O
+
+Oval I
+on O
+Sunday O
+: O
+
+England I
+first O
+innings O
+326 O
+( O
+J. I
+Crawley I
+106 O
+, O
+G. I
+Thorpe I
+54 O
+; O
+Waqar I
+
+Younis I
+4-95 O
+) O
+
+Pakistan I
+first O
+innings O
+( O
+overnight O
+339-4 O
+) O
+
+Saeed I
+Anwar I
+c O
+Croft I
+b O
+Cork I
+176 O
+
+Aamir I
+Sohail I
+c O
+Cork I
+b O
+Croft I
+46 O
+
+Ijaz I
+Ahmed I
+c O
+Stewart I
+b O
+Mullally I
+61 O
+
+Inzamam-ul-Haq I
+c O
+Hussain I
+b O
+Mullally I
+35 O
+
+Salim I
+Malik I
+not O
+out O
+100 O
+
+Asif I
+Mujtaba I
+run O
+out O
+13 O
+
+Wasim I
+Akram I
+st O
+Stewart I
+b O
+Croft I
+40 O
+
+Moin I
+Khan I
+b O
+Salisbury I
+23 O
+
+Mushtaq I
+Ahmed I
+c O
+Crawley I
+b O
+Mullally I
+2 O
+
+Waqar I
+Younis I
+not O
+out O
+0 O
+
+Extras O
+( O
+b-4 O
+lb-5 O
+nb-16 O
+) O
+25 O
+
+Total O
+( O
+for O
+eight O
+wickets O
+, O
+declared O
+) O
+521 O
+
+Fall O
+of O
+wickets O
+: O
+1-106 O
+2-239 O
+3-334 O
+4-334 O
+5-365 O
+6-440 O
+7-502 O
+
+8-519 O
+
+Did O
+not O
+bat O
+: O
+Mohammad I
+Akam I
+
+Bowling O
+: O
+Lewis I
+23-3-112-0 O
+, O
+Mullally I
+37.1-7-97-3 O
+, O
+Croft I
+
+47-10-116-2 O
+, O
+Cork I
+23-5-71-1 O
+, O
+Salisbury I
+29-3-116-1 O
+
+England I
+second O
+innings O
+
+M. I
+Atherton I
+not O
+out O
+26 O
+
+A. I
+Stewart I
+not O
+out O
+40 O
+
+Extras O
+( O
+nb-8 O
+) O
+8 O
+
+Total O
+( O
+for O
+no O
+wicket O
+) O
+74 O
+
+Bowling O
+( O
+to O
+date O
+) O
+: O
+Wasim I
+Akram I
+7-0-35-0 O
+, O
+Waqar I
+Younis I
+
+7-1-24-0 O
+, O
+Mushtaq I
+Ahmed I
+7-2-11-0 O
+, O
+Aamir I
+Sohail I
+2-1-4-0 O
+

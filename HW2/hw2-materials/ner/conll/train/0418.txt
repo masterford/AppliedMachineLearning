@@ -1,0 +1,114 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+AFRICAN I
+NATIONS I
+CUP I
+COLLATED O
+RESULTS O
+. O
+
+JOHANNESBURG I
+1996-08-26 O
+
+Collated O
+results O
+of O
+African I
+Nations I
+Cup I
+preliminary O
+round O
+, O
+second O
+leg O
+matches O
+played O
+at O
+the O
+weekend O
+: O
+
+Ethiopia I
+1 O
+Uganda I
+1 O
+
+2-2 O
+on O
+aggregate O
+. O
+
+Ethiopia I
+win O
+4-2 O
+on O
+penalties O
+
+Mauritania I
+v O
+Benin I
+postponed O
+to O
+Friday O
+
+Benin I
+lead O
+4-1 O
+from O
+the O
+first O
+leg O
+
+Namibia I
+6 O
+Botswana I
+0 O
+
+Namibia I
+win O
+6-0 O
+on O
+aggregate O
+
+Seychelles I
+1 O
+Mauritius I
+1 O
+
+Mauritius I
+win O
+2-1 O
+on O
+aggregate O
+
+Togo I
+1 O
+Congo I
+0 O
+
+Togo I
+win O
+1-0 O
+on O
+aggregaete O
+
+Central I
+African I
+Republic I
+walkover O
+v O
+Burundi I
+
+Winners O
+progress O
+to O
+qualifying O
+groups O
+to O
+start O
+in O
+October O
+. O
+

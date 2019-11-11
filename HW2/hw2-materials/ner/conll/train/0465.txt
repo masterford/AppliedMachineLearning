@@ -1,0 +1,73 @@
+-DOCSTART- O
+
+Banco I
+de I
+Mexico I
+to O
+inject O
+3.412 O
+bln O
+pesos O
+. O
+
+MEXICO I
+CITY I
+1996-08-26 O
+
+Banco I
+de I
+Mexico I
+sought O
+to O
+inject O
+3.412 O
+billion O
+pesos O
+in O
+the O
+secondary O
+market O
+on O
+Monday O
+through O
+three O
+credit O
+auctions O
+, O
+dealers O
+said O
+. O
+
+The O
+auctions O
+were O
+offered O
+as O
+follows O
+: O
+
+AMOUNT O
+TERM O
+
+1.206 O
+bln O
+9 O
+days O
+
+1.206 O
+bln O
+3 O
+days O
+
+1.000 O
+bln O
+1 O
+day O
+
+- O
+Mexico I
+City I
+newsroom O
+525 O
+728-9559 O
+

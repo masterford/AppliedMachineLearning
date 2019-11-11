@@ -1,0 +1,91 @@
+-DOCSTART- O
+
+HOEK I
+LOOS I
+H1 O
+NET O
+PROFIT O
+28.9 O
+MLN O
+GUILDERS O
+. O
+
+AMSTERDAM I
+1996-08-28 O
+
+First O
+half O
+1996 O
+
+( O
+in O
+millions O
+of O
+guilders O
+unless O
+otherwise O
+stated O
+) O
+
+Net O
+per O
+shr O
+( O
+guilders O
+) O
+4.38 O
+vs O
+3.70 O
+
+Net O
+profit O
+28.9 O
+vs O
+24.5 O
+
+Turnover O
+273.6 O
+vs O
+290.3 O
+
+Operating O
+profit O
+44.4 O
+vs O
+40.7 O
+
+Note O
+- O
+Industrial O
+gases O
+maker O
+Hoek I
+Loos I
+NV I
+. O
+
+Interest O
+charges O
+2.20 O
+vs O
+5.05 O
+
+Tax O
+13.26 O
+vs O
+11.16 O
+
+-- O
+Amsterdam I
+newsroom O
++31 O
+20 O
+504 O
+5000 O
+, O
+Fax O
++31 O
+20 O
+504 O
+5040 O
+

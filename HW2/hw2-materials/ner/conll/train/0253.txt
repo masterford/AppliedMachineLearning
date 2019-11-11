@@ -1,0 +1,306 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+ENGLISH I
+LEAGUE O
+RESULTS O
+. O
+
+LONDON I
+1996-08-24 O
+
+Results O
+of O
+English I
+league O
+soccer O
+
+matches O
+on O
+Saturday O
+: O
+
+Premier O
+league O
+
+Aston I
+Villa I
+2 O
+Derby I
+0 O
+
+Chelsea I
+2 O
+Coventry I
+0 O
+
+Leicester I
+0 O
+Arsenal I
+2 O
+
+Liverpool I
+0 O
+Sunderland I
+0 O
+
+Newcastle I
+1 O
+Sheffield I
+Wednesday I
+2 O
+
+Nottingham I
+Forest I
+1 O
+Middlesbrough I
+1 O
+
+Tottenham I
+0 O
+Everton I
+0 O
+
+West I
+Ham I
+2 O
+Southampton I
+1 O
+
+Playing O
+Sunday O
+: O
+
+Manchester I
+United I
+v O
+Blackburn I
+
+Playing O
+Monday O
+: O
+
+Leeds I
+v O
+Wimbledon I
+
+Division O
+one O
+
+Bolton I
+3 O
+Norwich I
+1 O
+
+Charlton I
+1 O
+West I
+Bromwich I
+1 O
+
+Crystal I
+Palace I
+3 O
+Oldham I
+1 O
+
+Ipswich I
+5 O
+Reading I
+2 O
+
+Oxford I
+5 O
+Southend I
+0 O
+
+Sheffield I
+United I
+4 O
+Birmingham I
+4 O
+
+Stoke I
+2 O
+Manchester I
+City I
+1 O
+
+Swindon I
+1 O
+Port I
+Vale I
+1 O
+
+Wolverhampton I
+1 O
+Bradford I
+0 O
+
+Played O
+Friday O
+: O
+
+Portsmouth I
+1 O
+Queen I
+'s I
+Park I
+Rangers I
+2 O
+
+Tranmere I
+3 O
+Grimsby I
+2 O
+
+Playing O
+Sunday O
+: O
+
+Barnsley I
+v O
+Huddersfield I
+
+Division O
+two O
+
+Brentford I
+3 O
+Luton I
+2 O
+
+Bristol I
+City I
+v O
+Blackpool I
+late O
+kickoff O
+
+Burnley I
+2 O
+Walsall I
+1 O
+
+Chesterfield I
+1 O
+Bury I
+2 O
+
+Peterborough I
+2 O
+Crewe I
+2 O
+
+Preston I
+0 O
+Bristol I
+Rovers I
+0 O
+
+Rotherham I
+1 O
+Shrewsbury I
+2 O
+
+Stockport I
+0 O
+Notts I
+County I
+0 O
+
+Watford I
+0 O
+Millwall I
+2 O
+
+Wrexham I
+4 O
+Plymouth I
+4 O
+
+Wycombe I
+1 O
+Gillingham I
+1 O
+
+York I
+1 O
+Bournemouth I
+2 O
+
+Division O
+three O
+
+Barnet I
+1 O
+Wigan I
+1 O
+
+Cardiff I
+1 O
+Brighton I
+0 O
+
+Carlisle I
+0 O
+Hull I
+0 O
+
+Chester I
+1 O
+Cambridge I
+1 O
+
+Darlington I
+4 O
+Swansea I
+1 O
+
+Exeter I
+2 O
+Scarborough I
+2 O
+
+Hartlepool I
+2 O
+Fulham I
+1 O
+
+Hereford I
+1 O
+Doncaster I
+0 O
+
+Lincoln I
+1 O
+Leyton I
+Orient I
+1 O
+
+Northampton I
+3 O
+Mansfield I
+0 O
+
+Rochdale I
+0 O
+Colchester I
+0 O
+
+Scunthorpe I
+1 O
+Torquay I
+0 O
+
+Add O
+Division O
+two O
+
+Bristol I
+City I
+0 O
+Blackpool I
+1 O
+

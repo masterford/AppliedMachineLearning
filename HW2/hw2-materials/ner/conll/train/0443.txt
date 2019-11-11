@@ -1,0 +1,61 @@
+-DOCSTART- O
+
+CRICKET O
+- O
+AUSTRALIA I
+BEAT O
+ZIMBABWE I
+BY O
+125 O
+RUNS O
+IN O
+ONE-DAY O
+MATCH O
+. O
+
+COLOMBO I
+1996-08-26 O
+
+Australia I
+beat O
+Zimbabwe I
+by O
+125 O
+runs O
+in O
+the O
+first O
+match O
+of O
+the O
+Singer I
+World I
+Series I
+one-day O
+( O
+50 O
+overs O
+) O
+cricket O
+tournament O
+on O
+Monday O
+. O
+
+Scores O
+: O
+Australia I
+263-7 O
+in O
+50 O
+overs O
+, O
+Zimbabwe I
+138 O
+all O
+out O
+in O
+41 O
+overs O
+. O
+

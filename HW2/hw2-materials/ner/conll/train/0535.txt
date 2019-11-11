@@ -1,0 +1,35 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+FRENCH I
+FIRST O
+DIVISION O
+SUMMARY O
+. O
+
+PARIS I
+1996-08-27 O
+
+Summary O
+of O
+a O
+French I
+first O
+division O
+soccer O
+match O
+on O
+Tuesday O
+: O
+
+Auxerre I
+0 O
+Marseille I
+0 O
+. O
+
+Attendance O
+: O
+20,000 O
+

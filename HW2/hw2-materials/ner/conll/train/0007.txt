@@ -1,0 +1,146 @@
+-DOCSTART- O
+
+Venantius I
+sets O
+$ O
+300 O
+million O
+January O
+1999 O
+FRN O
+. O
+
+LONDON I
+1996-08-22 O
+
+The O
+following O
+floating-rate O
+issue O
+was O
+announced O
+by O
+lead O
+manager O
+Lehman I
+Brothers I
+International I
+. O
+
+BORROWER O
+VENANTIUS I
+AB I
+( O
+SWEDISH I
+NATIONAL O
+MORTGAGE O
+AGENCY O
+) O
+
+AMT O
+$ O
+300 O
+MLN O
+SPREAD O
+- O
+12.5 O
+BP O
+MATURITY O
+21.JAN.99 O
+
+TYPE O
+FRN O
+BASE O
+3M I
+LIBOR O
+PAY O
+DATE O
+S23.SEP.96 O
+
+LAST O
+MOODY O
+AA3 O
+ISS O
+PRICE O
+99.956 O
+FULL O
+FEES O
+10 O
+BP O
+
+LAST O
+S&P I
+AA+ O
+REOFFER O
+= O
+
+NOTES O
+S O
+SHORT O
+FIRST O
+COUPON O
+
+LISTING O
+LONDON I
+DENOMS O
+( O
+K O
+) O
+1-10-100 O
+SALE O
+LIMITS O
+US I
+/ O
+UK I
+/ O
+JP I
+/ O
+FR I
+
+NEG O
+PLG O
+YES O
+CRS O
+DEFLT O
+NO O
+FORCE O
+MAJ O
+IPMA O
+2 O
+
+GOV O
+LAW O
+ENGLISH I
+HOME O
+CTRY O
+SWEDEN I
+TAX O
+PROVS O
+STANDARD O
+
+MGT O
+/ O
+UND O
+5 O
+BP O
+SELL O
+CONC O
+5 O
+BP O
+PRAECIP O
+= O
+
+NOTES O
+ISSUED O
+OFF O
+EMTN O
+PROGRAMME O
+
+-- O
+London I
+Newsroom I
++44 O
+171 O
+542 O
+8863 O
+

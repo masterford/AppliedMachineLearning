@@ -1,0 +1,274 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+SLOVAK I
+FIRST O
+DIVISION O
+RESULTS O
+/ O
+STANDINGS O
+. O
+
+BRATISLAVA I
+1996-08-26 O
+
+Results O
+of O
+Slovak I
+first O
+
+division O
+soccer O
+matches O
+at O
+the O
+weekend O
+: O
+
+Inter I
+Bratislava I
+0 O
+Slovan I
+Bratislava I
+2 O
+
+Chemlon I
+Humenne I
+0 O
+Tatran I
+Presov I
+1 O
+
+Artmedia I
+Petrzalka I
+0 O
+JAS I
+Bardejov I
+0 O
+
+DAC I
+Dunajska I
+Streda I
+1 O
+Spartak I
+Trnava I
+3 O
+
+Dukla I
+Banska I
+Bystrica I
+3 O
+FC I
+Nitra I
+0 O
+
+MSK I
+Zilina I
+0 O
+FC I
+Kosice I
+2 O
+
+Petrimex I
+Prievidza I
+2 O
+FC I
+Rimavska I
+Sobota I
+0 O
+
+Lokomotiva I
+Kosice I
+2 O
+Kerametal I
+Dubnica I
+0 O
+
+Standings O
+( O
+tabulate O
+under O
+games O
+played O
+, O
+won O
+, O
+drawn O
+, O
+lost O
+, O
+
+goals O
+for O
+, O
+goals O
+against O
+, O
+points O
+) O
+: O
+
+Tatran I
+Presov I
+4 O
+3 O
+1 O
+0 O
+5 O
+0 O
+10 O
+
+Dukla I
+Banska I
+Bystrica I
+4 O
+3 O
+0 O
+1 O
+7 O
+2 O
+9 O
+
+Slovan I
+Bratislava I
+4 O
+3 O
+0 O
+1 O
+7 O
+2 O
+9 O
+
+Petrimex I
+Prievidza I
+4 O
+3 O
+0 O
+1 O
+4 O
+2 O
+9 O
+
+Spartak I
+Trnava I
+4 O
+2 O
+2 O
+0 O
+10 O
+5 O
+8 O
+
+FC I
+Kosice I
+4 O
+2 O
+2 O
+0 O
+6 O
+3 O
+8 O
+
+Artmedia I
+Petrzalka I
+4 O
+1 O
+3 O
+0 O
+1 O
+0 O
+6 O
+
+DAC I
+Dunajska I
+Streda I
+4 O
+2 O
+0 O
+2 O
+5 O
+6 O
+6 O
+
+FC I
+Rimavska I
+Sobota I
+4 O
+2 O
+0 O
+2 O
+4 O
+5 O
+6 O
+
+JAS I
+Bardejov I
+4 O
+1 O
+2 O
+1 O
+2 O
+2 O
+5 O
+
+Chemlon I
+Humenne I
+4 O
+1 O
+1 O
+2 O
+1 O
+2 O
+4 O
+
+Inter I
+Bratislava I
+4 O
+1 O
+1 O
+2 O
+4 O
+6 O
+4 O
+
+Lokomotiva I
+Kosice I
+4 O
+1 O
+1 O
+2 O
+3 O
+5 O
+4 O
+
+Kerametal I
+Dubnica I
+4 O
+0 O
+1 O
+3 O
+3 O
+9 O
+1 O
+
+FC I
+Nitra I
+4 O
+0 O
+0 O
+4 O
+1 O
+8 O
+0 O
+
+MSK I
+Zilina I
+4 O
+0 O
+0 O
+4 O
+0 O
+6 O
+0 O
+

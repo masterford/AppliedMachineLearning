@@ -1,0 +1,143 @@
+-DOCSTART- O
+
+Lufthansa I
+cargo O
+Q2 O
+load O
+factor O
+up O
+1.7 O
+pct O
+. O
+
+FRANKFURT I
+1996-08-23 O
+
+The O
+following O
+table O
+shows O
+Lufthansa I
+Cargo I
+AG I
+second O
+quarter O
+1996 O
+results O
+, O
+based O
+on O
+figures O
+published O
+by O
+Deutsche I
+Lufthansa I
+AG I
+in-house O
+newspaper O
+
+Lufthanseat I
+. O
+
+Available O
+freight-tonne O
+kilometres O
+( O
+million O
+) O
+2,389 O
+up O
+4 O
+pct O
+
+Revenue O
+freight-tonne O
+kilometres O
+( O
+million O
+) O
+1,600 O
+up O
+7 O
+pct O
+
+Freight O
+load O
+factor O
+67.0 O
+up O
+1.7 O
+pct O
+pts O
+
+Revenue O
+from O
+transport O
+( O
+Dm I
+million O
+) O
+820 O
+up O
+2 O
+pct O
+
+Revenue O
+from O
+other O
+services O
+( O
+Dm I
+million O
+) O
+14 O
+down O
+26 O
+pct O
+
+Staff O
+costs O
+( O
+Dm I
+million O
+) O
+116 O
+up O
+8 O
+pct O
+
+Fuel O
+costs O
+( O
+Dm I
+million O
+) O
+69 O
+up O
+20 O
+pct O
+
+Flight-related O
+fees O
+( O
+Dm I
+million O
+) O
+125 O
+up O
+17 O
+pct O
+
+- O
+Air I
+Cargo I
+Newsroom I
+Tel+44 O
+171 O
+542 O
+7706 O
+Fax+44 O
+171 O
+542 O
+5017 O
+

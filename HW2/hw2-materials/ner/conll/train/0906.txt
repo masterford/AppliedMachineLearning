@@ -1,0 +1,185 @@
+-DOCSTART- O
+
+Amsterdam-Rotterdam-Antwerp I
+oil O
+stock O
+levels O
+fall O
+. O
+
+AMSTERDAM I
+1996-08-29 O
+
+Oil O
+product O
+inventories O
+held O
+in O
+independent O
+tankage O
+in O
+the O
+Amsterdam-Rotterdam-Antwerp I
+area O
+were O
+at O
+the O
+following O
+levels O
+, O
+with O
+week-ago O
+and O
+year-ago O
+levels O
+, O
+industry O
+sources O
+said O
+. O
+
+All O
+figures O
+in O
+thousands O
+of O
+tonnes O
+: O
+
+29/8/96 O
+22/8/96 O
+1/9/95 O
+
+Gasoline O
+400 O
+400-425 O
+425 O
+
+Naphtha O
+50-75 O
+75-100 O
+50-75 O
+
+Gas O
+oil O
+1,600 O
+1,650 O
+1,850-1,900 O
+
+Fuel O
+oil O
+325 O
+325-350 O
+425 O
+
+Jet O
+kero O
+15 O
+15-20 O
+25 O
+
+Motor O
+gasoline O
+stocks O
+dipped O
+slightly O
+as O
+barges O
+left O
+for O
+Germany I
+, O
+but O
+there O
+were O
+few O
+inflows O
+of O
+cargoes O
+. O
+
+Naphtha O
+inventories O
+also O
+dropped O
+as O
+Germany I
+again O
+took O
+barges O
+and O
+no O
+cargoes O
+entered O
+ARA O
+. O
+
+Gas O
+oil O
+stocks O
+fell O
+with O
+some O
+cargoes O
+arriving O
+from O
+the O
+former O
+Soviet I
+Union I
+, O
+but O
+very O
+fast O
+throughput O
+to O
+markets O
+in O
+Benelux I
+, O
+Germany I
+and O
+Switzerland I
+. O
+
+Fuel O
+oil O
+inventories O
+dipped O
+slightly O
+with O
+some O
+straight-run O
+arrivals O
+, O
+but O
+fair O
+bunkering O
+demand O
+removing O
+more O
+material O
+. O
+
+Jet O
+fuel O
+stocks O
+lowered O
+as O
+the O
+aviation O
+sector O
+bought O
+. O
+
+-- O
+Philip I
+Blenkinsop I
+, O
+Amsterdam I
+newsroom O
+31 O
+20 O
+504 O
+5000 O
+

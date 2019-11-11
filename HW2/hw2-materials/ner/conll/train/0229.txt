@@ -1,0 +1,71 @@
+-DOCSTART- O
+
+Orii I
+- O
+96/97 O
+group O
+forecast O
+. O
+
+TOKYO I
+1996-08-23 O
+
+Year O
+to O
+May O
+31 O
+, O
+1997 O
+
+( O
+in O
+billions O
+of O
+yen O
+unless O
+specified O
+) O
+
+LATEST O
+ACTUAL O
+
+( O
+Group O
+) O
+FORECAST O
+YEAR-AGO O
+
+Sales O
+8.70 O
+8.67 O
+
+Current O
+prft O
+7 O
+mln O
+loss O
+371 O
+mln O
+
+Net O
+nil O
+loss O
+447 O
+mln O
+
+EPS O
+nil O
+yen O
+loss O
+48.61 O
+yen O
+
+NOTE O
+- O
+Orii I
+Corp I
+makes O
+automation O
+equipment O
+. O
+

@@ -1,0 +1,38 @@
+-DOCSTART- O
+
+Northern I
+States I
+Power I
+Co I
+sets O
+payout O
+. O
+
+MINNEAPOLIS I
+1996-08-28 O
+
+Quarterly O
+
+Latest O
+Prior O
+
+Amount O
+$ O
+0.69 O
+$ O
+0.69 O
+
+Pay O
+Oct O
+20 O
+
+Record O
+Oct O
+1 O
+
+-- O
+Chicago I
+newsdesk O
+312 O
+408-8787 O
+

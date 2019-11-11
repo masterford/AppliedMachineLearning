@@ -1,0 +1,62 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+ROMANIA I
+BEAT O
+LITHUANIA I
+IN O
+UNDER-21 O
+MATCH O
+. O
+
+BUCHAREST I
+1996-08-30 O
+
+Romania I
+beat O
+Lithuania I
+2-1 O
+( O
+halftime O
+1-1 O
+) O
+in O
+their O
+European I
+under-21 O
+soccer O
+match O
+on O
+Friday O
+. O
+
+Scorers O
+: O
+
+Romania I
+- O
+Cosmin I
+Contra I
+( O
+31st O
+) O
+, O
+Mihai I
+Tararache I
+( O
+75th O
+) O
+
+Lithuania I
+- O
+Danius I
+Gleveckas I
+( O
+13rd O
+) O
+
+Attendance O
+: O
+200 O
+

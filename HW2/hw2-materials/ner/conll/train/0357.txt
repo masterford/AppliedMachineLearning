@@ -1,0 +1,57 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+SUMMARY O
+OF O
+GERMAN I
+FIRST O
+DIVISION O
+MATCH O
+. O
+
+BONN I
+1996-08-25 O
+
+Summary O
+of O
+German I
+first O
+division O
+
+match O
+played O
+on O
+Sunday O
+: O
+
+MSV I
+Duisberg I
+0 O
+Bayern I
+Munich I
+4 O
+( O
+Klinsmann I
+15th O
+, O
+Zieger I
+24th O
+and O
+
+90th O
+, O
+Witechek I
+59th O
+) O
+. O
+
+Halftime O
+0-2 O
+. O
+
+Attendance O
+: O
+30,000 O
+. O
+

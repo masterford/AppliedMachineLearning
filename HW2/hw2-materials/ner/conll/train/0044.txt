@@ -1,0 +1,80 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+GOTHENBURG I
+PUT O
+FERENCVAROS I
+OUT O
+OF O
+EURO I
+CUP I
+. O
+
+BUDAPEST I
+1996-08-21 O
+
+IFK I
+Gothenburg I
+of O
+Sweden I
+drew O
+1-1 O
+( O
+1-0 O
+) O
+with O
+Ferencvaros I
+of O
+Hungary I
+in O
+the O
+second O
+leg O
+of O
+their O
+European I
+Champions I
+Cup I
+preliminary O
+round O
+tie O
+played O
+on O
+Wednesday O
+. O
+
+Gothenburg I
+go O
+through O
+4-1 O
+on O
+aggregate O
+. O
+
+Scorers O
+: O
+
+Ferencvaros I
+: O
+
+Ferenc I
+Horvath I
+( O
+15th O
+) O
+
+IFK I
+Gothenburg I
+: O
+
+Andreas I
+Andersson I
+( O
+87th O
+) O
+
+Attendance O
+: O
+9,000 O
+

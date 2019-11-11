@@ -1,0 +1,112 @@
+-DOCSTART- O
+
+Paribas I
+repeats O
+buy O
+on O
+Aegon I
+after O
+results O
+. O
+
+AMSTERDAM I
+1996-08-22 O
+
+Summary O
+of O
+Aug O
+22 O
+research O
+. O
+
+Company-------------Price---Broker---------------- O
+
+Aegon I
+83.40 O
+Paribas I
+
+COMMENT O
+: O
+" O
+Not O
+only O
+did O
+Aegon I
+surprise O
+with O
+earnings O
+of O
+711 O
+million O
+guilders O
+, O
+which O
+were O
+above O
+the O
+top O
+of O
+the O
+expected O
+range O
+, O
+it O
+also O
+forecast O
+a O
+similar O
+performance O
+in O
+the O
+second O
+half O
+. O
+" O
+
+Reiterates O
+previous O
+" O
+buy O
+" O
+recommendation O
+after O
+results O
+. O
+
+Estimates O
+( O
+Dfl I
+) O
+: O
+EPS O
+P O
+/ O
+E O
+Dividend O
+
+1996 O
+5.83 O
+13.8 O
+2.75 O
+
+1997 O
+6.59 O
+12.2 O
+3.10 O
+
+-- O
+Amsterdam I
+newsroom O
+, O
++31 O
+20 O
+504 O
+5000 O
+( O
+Fax O
++31 O
+20 O
+504 O
+5040 O
+) O
+

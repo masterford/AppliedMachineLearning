@@ -1,0 +1,57 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+HONDURAS I
+BEAT O
+CUBA I
+4-0 O
+IN O
+FRIENDLY O
+. O
+
+TEGUCIGALPA I
+1996-08-26 O
+
+Honduras I
+beat O
+Cuba I
+4-0 O
+
+( O
+halftime O
+3-0 O
+) O
+in O
+a O
+friendly O
+soccer O
+international O
+on O
+Sunday O
+. O
+
+Scorers O
+: O
+Juan I
+Castro I
+( O
+3rd O
+minute O
+) O
+, O
+Enrique I
+Centeno I
+( O
+33rd O
+and O
+
+84th O
+) O
+, O
+Carlos I
+Pavon I
+( O
+37th O
+) O
+

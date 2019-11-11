@@ -1,0 +1,61 @@
+-DOCSTART- O
+
+CRICKET O
+- O
+ENGLAND I
+326 O
+AND O
+74-0 O
+; O
+PAKISTAN I
+521-8 O
+DECLARED O
+. O
+
+LONDON I
+1996-08-25 O
+
+England I
+were O
+74 O
+for O
+no O
+wicket O
+in O
+
+their O
+second O
+innings O
+at O
+the O
+close O
+of O
+the O
+fourth O
+day O
+of O
+the O
+third O
+
+and O
+final O
+test O
+at O
+The I
+Oval I
+on O
+Sunday O
+. O
+
+Scores O
+: O
+England I
+326 O
+and O
+74-0 O
+; O
+Pakistan I
+521-8 O
+declared O
+. O
+

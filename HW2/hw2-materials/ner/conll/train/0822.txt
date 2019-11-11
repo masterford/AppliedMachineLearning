@@ -1,0 +1,50 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+DUTCH I
+FIRST O
+DIVISION O
+SUMMARY O
+. O
+
+AMSTERDAM I
+1996-08-28 O
+
+Summary O
+of O
+Dutch I
+first O
+division O
+soccer O
+match O
+played O
+on O
+Thursday O
+: O
+
+NAC I
+Breda I
+1 O
+( O
+Abdellaoui I
+20th O
+penalty O
+) O
+NEC I
+Nijmegen I
+1 O
+( O
+Graef I
+36th O
+) O
+. O
+
+Halftime O
+1-1 O
+. O
+
+Attendance O
+10,760 O
+. O
+

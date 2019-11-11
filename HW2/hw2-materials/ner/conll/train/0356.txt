@@ -1,0 +1,218 @@
+-DOCSTART- O
+
+SOCCER O
+- O
+NORWAY I
+ELITE O
+DIVISION O
+RESULTS O
+/ O
+STANDINGS O
+. O
+
+OSLO I
+1996-08-25 O
+
+Results O
+of O
+Norwegian I
+elite O
+division O
+
+soccer O
+matches O
+at O
+the O
+weekend O
+: O
+
+Tromso I
+2 O
+Kongsvinger I
+1 O
+
+Valerenga I
+3 O
+Skeid I
+0 O
+
+Stabaek I
+4 O
+Stromsgodset I
+0 O
+
+Molde I
+1 O
+Bodo I
+/ I
+Glimt I
+2 O
+
+Viking I
+1 O
+Moss I
+0 O
+
+Brann I
+7 O
+Start I
+1 O
+
+Rosenborg I
+7 O
+Lillestrom I
+2 O
+
+Standings O
+after O
+weekend O
+matches O
+( O
+tabulate O
+under O
+played O
+, O
+won O
+, O
+
+drawn O
+, O
+lost O
+, O
+goals O
+for O
+, O
+against O
+, O
+points O
+) O
+: O
+
+Rosenborg I
+20 O
+14 O
+4 O
+2 O
+68 O
+21 O
+46 O
+
+Lillestrom I
+19 O
+9 O
+5 O
+5 O
+38 O
+29 O
+32 O
+
+Skeid I
+19 O
+10 O
+2 O
+7 O
+29 O
+30 O
+32 O
+
+Stabaek I
+20 O
+7 O
+8 O
+5 O
+41 O
+34 O
+29 O
+
+Brann I
+19 O
+8 O
+5 O
+6 O
+40 O
+37 O
+29 O
+
+Tromso I
+20 O
+8 O
+5 O
+7 O
+34 O
+33 O
+29 O
+
+Viking I
+20 O
+7 O
+7 O
+6 O
+33 O
+24 O
+28 O
+
+Molde I
+19 O
+8 O
+3 O
+8 O
+36 O
+25 O
+27 O
+
+Bodo I
+/ I
+Glimt I
+20 O
+7 O
+4 O
+9 O
+33 O
+41 O
+25 O
+
+Kongsvinger I
+20 O
+7 O
+4 O
+9 O
+26 O
+38 O
+25 O
+
+Stromsgodset I
+20 O
+7 O
+4 O
+9 O
+27 O
+40 O
+25 O
+
+Valerenga I
+20 O
+6 O
+6 O
+8 O
+26 O
+32 O
+24 O
+
+Moss I
+20 O
+4 O
+6 O
+10 O
+23 O
+40 O
+18 O
+
+Start I
+20 O
+3 O
+3 O
+14 O
+26 O
+56 O
+12 O
+
